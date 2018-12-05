@@ -3,6 +3,7 @@ This is used for quick search for managers.
 
 ```sql
 create table volunteer(
+student_name varchar(4),
 student_mobilephone char(11),
 student_university enum('thu', 'pku', 'hit', 'sust', 'szu', 'siat', 'szpt'),
 student_gender enum('Male','Female'),
