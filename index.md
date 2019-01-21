@@ -1,5 +1,5 @@
 # 赵丰
-## Department of Electronics and Engineering, Graduate School at Shenzhen, Tsinghua University
+## Department of Electronic Engineering, Graduate School at Shenzhen, Tsinghua University
 
 > [616545598@qq.com](mailto:616545598@qq.com) 
 
