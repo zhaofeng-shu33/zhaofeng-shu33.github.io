@@ -10,8 +10,8 @@ template_st=open('template.html').read()
 def parse_one_md_file(file_name):
     global template_st
     # read input file
-    st2=open(file_name).read()
-    html_str=markdown.markdown(st2.decode('utf-8'), extensions=['markdown.extensions.tables']).encode('utf-8')
+    st2=open(file_name, 'rb').read()
+    html_str=markdown.markdown(st2.decode('utf-8'), extensions=['markdown.extensions.tables'])
     # get input file name
     file_name_without_suffix=file_name.split('/')[-1].split('.')[0]
     # replace {title}
@@ -22,11 +22,11 @@ def parse_one_md_file(file_name):
     slash_list=['../' for i in range(slash_cnt)]
     slash_list_join=''.join(slash_list)
     style_sheet_relative_path=slash_list_join+'css/github-markdown.css'
-    st = st.replace('{css}',style_sheet_relative_path)
+    st = st.replace('{css}', style_sheet_relative_path)
     # relace markdown main file
-    st = st.replace('{markdown}',html_str)
+    st = st.replace('{markdown}', html_str)
     # write to file with file_name with suffix html
-    open(file_name.replace('.md','.html'),'wb').write(st)
+    open(file_name.replace('.md','.html'),'wb').write(st.encode('utf-8'))
     print('write %s' % file_name)
     return
 
