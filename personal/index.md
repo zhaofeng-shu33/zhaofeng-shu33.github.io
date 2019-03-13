@@ -25,4 +25,11 @@
 
 > > [2018/骗子为什么能得逞](2018/骗子为什么能得逞.html)
 
+> 2019
+
+> > [2019/2018年度总结](2019/summary.html)
+
+> > [2019/我对公益的理解](2019/my_understanding_of_charity.html)
+
+> > [2019/星语发展](2019/development_of_star_language.html)
 ------
