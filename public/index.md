@@ -154,7 +154,7 @@
 | --------------------------------- | ------------------------------------------------------------ |
 | [前两章笔记](info_theory/ch2.pdf) | [前两章作业](info_theory/12.pdf)                             |
 | [第三章笔记](info_theory/ch3.pdf) | [第三章作业](info_theory/3.pdf)                              |
-| [第四章笔记](ch4.pdf)             | [四五章作业](info_theory/45.pdf)                             |
+| [第四章笔记](info_theory/ch4.pdf)             | [四五章作业](info_theory/45.pdf)                             |
 | [第五章笔记](info_theory/ch5.pdf) | [额外题组1](info_theory/Information_Theory_2017_Fall_HW1.pdf) + [解答](info_theory/12extra.pdf) |
 | [第六章笔记](info_theory/ch6.pdf) | [额外题组2](info_theory/Information_Theory_2017_Fall_HW2.pdf) + [解答](info_theory/3extra.pdf) |
 | [第七章笔记](info_theory/ch7.pdf) | [额外题组3](info_theory/Information_Theory_2017_Fall_HW3.pdf) + [解答](info_theory/4extra.pdf) |
