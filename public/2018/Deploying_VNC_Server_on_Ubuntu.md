@@ -22,7 +22,7 @@
 
 Append the following to the last line
 
-```Shell
+```shell
 gnome-panel &
 gnome-settings-daemon &
 metacity &
