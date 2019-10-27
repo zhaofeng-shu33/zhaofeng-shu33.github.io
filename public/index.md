@@ -176,3 +176,5 @@
 - [机器人主题支教](2018/robot_teaching.html)
 - [场务人员](2018/other_volunteer.html)
 
+# 其他公开的文件
+[file-archive.leidenschaft.cn](file-archive.leidenschaft.cn)
