@@ -164,15 +164,17 @@
 
 # 2017年秋季学期现代信号处理作业（部分）、2018年春季学期统计信号处理讲义整理和课程作业
 | 笔记                                                      | 作业                                                         |
-| --------------------------------------------------------- | ------------------------------------------------------------ |
-| [第二章作业](signal_processing/chapter2.pdf)              | [第一章笔记+作业](signal_processing/signal_detection.pdf)    |
-| [第三章作业](signal_processing/chapter3.pdf)              | [波形估计理论](signal_processing/waveform_estimation.pdf)    |
-| [信号检测](signal_processing/signal_detection.pdf)        | [参数估计](signal_processing/signal_estimation.pdf)          |
-| [连续Kalman滤波](signal_processing/kalman_continuous.pdf) | [非参数估计](signal_processing/non-parametric_estimation.pdf) |
-| [考试复习题](signal_processing/exam_prepare.pdf)          |                                                              |
+|----------------------------------------------------------|--------------------------------------------------------------|
+| [第二章作业](signal_processing/chapter2.pdf)               | [第一章笔记+作业](signal_processing/signal_detection.pdf)      |
+| [第三章作业](signal_processing/chapter3.pdf)               | [波形估计理论](signal_processing/waveform_estimation.pdf)      |
+| [信号检测](signal_processing/signal_detection.pdf)         | [参数估计](signal_processing/signal_estimation.pdf)           |
+| [连续Kalman滤波](signal_processing/kalman_continuous.pdf)  | [非参数估计](signal_processing/non-parametric_estimation.pdf) |
+| [考试复习题](signal_processing/exam_prepare.pdf)           |                                                              |
 
 # 社工思考
 
 - [机器人主题支教](2018/robot_teaching.html)
 - [场务人员](2018/other_volunteer.html)
 
+# 其他公开的文件
+[http://file-archive.leidenschaft.cn](http://file-archive.leidenschaft.cn)
