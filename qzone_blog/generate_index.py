@@ -1,6 +1,7 @@
 # this script generate contents for qzone_blog
 import os
 from datetime import datetime
+import pdb
 
 def get_dics():
     content_dic = {}
@@ -12,12 +13,18 @@ def get_dics():
         print(name)
         Ls = []
         for i in os.listdir(dir_path):
-            title, timestamp_outer = i.split('_')
-            timestamp = i.split('.')[0]
-            Ls.append([datetime.fromtimestamp(int(timestamp)), title])
+            try:
+                title, timestamp_outer = i.split('_')
+            except Exception as e:
+                pdb.set_trace()
+            timestamp = timestamp_outer.split('.')[0]
+            try:
+                Ls.append([datetime.fromtimestamp(int(timestamp)), title, i])
+            except Exception as e:
+                pdb.set_trace()
         Ls.sort()
         for i in Ls:
-            content_dic[name].append(i[1] + ' ' + str(i[0]))
+            content_dic[name].append([i[1] + ' ' + str(i[0]), i[2]])
     return content_dic
 
 def generate_md(dic):
@@ -25,8 +32,8 @@ def generate_md(dic):
         for k,v in dic.items():
             f.write('> ' + k + '\n\n')
             for i in v:
-                content = i.rstrip('.html')
-                url = k + '/' + i
+                content = i[0]
+                url = k + '/' + i[1]
                 f.write('> > [%s](%s)\n\n' %(content, url))
 
 if __name__ == '__main__':
