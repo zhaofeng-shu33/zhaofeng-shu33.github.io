@@ -1,4 +1,5 @@
 # this script generate contents for qzone_blog
+# contents exported using tools https://github.com/wwwpf/QzoneExporter
 import os
 from datetime import datetime
 import pdb
