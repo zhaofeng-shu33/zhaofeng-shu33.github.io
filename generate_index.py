@@ -2,7 +2,7 @@
 # contents exported using tools https://github.com/wwwpf/QzoneExporter
 import os
 from datetime import datetime
-import pdb
+import argparse
 
 def get_dics():
     content_dic = {}
@@ -38,5 +38,9 @@ def generate_md(dic):
                 f.write('> > [%s](%s)\n\n' %(content, url))
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--dir', default='./')
+    args = parser.parse_args()
+    os.chdir(args.dir)
     dic = get_dics()
     generate_md(dic)
