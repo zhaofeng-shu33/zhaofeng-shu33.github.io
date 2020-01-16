@@ -1,5 +1,6 @@
 # this script generate contents for qzone_blog
 # contents exported using tools https://github.com/wwwpf/QzoneExporter
+# usage: python3 generate_index.py --dir qzone_blog
 import os
 from datetime import datetime
 import argparse
@@ -14,15 +15,11 @@ def get_dics():
         print(name)
         Ls = []
         for i in os.listdir(dir_path):
-            try:
-                title, timestamp_outer = i.split('_')
-            except Exception as e:
-                pdb.set_trace()
+            if i.find('html') < 0:
+                continue
+            title, timestamp_outer = i.split('_')
             timestamp = timestamp_outer.split('.')[0]
-            try:
-                Ls.append([datetime.fromtimestamp(int(timestamp)), title, i])
-            except Exception as e:
-                pdb.set_trace()
+            Ls.append([datetime.fromtimestamp(int(timestamp)), title, i])
         Ls.sort()
         for i in Ls:
             content_dic[name].append([i[1] + ' ' + str(i[0]), i[2]])
