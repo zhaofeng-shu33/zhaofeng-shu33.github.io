@@ -39,3 +39,5 @@
 
 回来的时候，宿舍多了一个人---清华环境专业的毕同学。
 
+When we four are eating in a restaurant, we discuss something about nationality.  Azim is Muslim from Tajikistan. He spoke Persian language.  He is also international student in Russian and passed one-year pre-college study
+here. Because of religious reason and others, he is very unhappy about the way of treatment of Uyghur in Xinjiang China. Juli explained some facts on this matter to him. Some reports are true while others are not.  "It's a little bit cruel for them to be educated in Han's way. Chinese government cuel the anti-goverment people by removing their in-born belief." We are discussing this kind of thing while eating.
