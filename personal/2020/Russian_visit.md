@@ -41,3 +41,20 @@
 
 When we four are eating in a restaurant, we discuss something about nationality.  Azim is Muslim from Tajikistan. He spoke Persian language.  He is also international student in Russian and passed one-year pre-college study
 here. Because of religious reason and others, he is very unhappy about the way of treatment of Uyghur in Xinjiang China. Juli explained some facts on this matter to him. Some reports are true while others are not.  "It's a little bit cruel for them to be educated in Han's way. Chinese government cuel the anti-goverment people by removing their in-born belief." We are discussing this kind of thing while eating.
+
+## Day 1
+第一天上午是 Opening Ceremony and Orientational Meeting. 有 Tutor 在宿舍门口等大家，原定7点出发，
+但有些人没到，我们又等了很久才走。我们出去的时候，天还没亮，地比较滑，我小心翼翼地跟着前面的大部队，来到了
+目的地。在大厅里布置了一些展牌，标识着今年的 Winter School. 参加者差不多都来齐了，感觉有超过一半的中国大学生。
+其中上交还有带队老师在欢迎仪式上作为学校老师代表发言。 Opening Ceremony 结束后所有人分为3 个大组分别
+进行 Orientational Meeting。由于我所在的大组是很多课程加一起的，人最多，Staff 光收签证就用了很长时间，导致
+12点多才开始介绍。马飞交完签证就回宿舍休息了。
+
+Orientational Meeting 结束后，我和朱丽她们匆匆在附近吃了饭，赶回宿舍拿我的充电宝，然后再跑去教室。
+没想到第一次课的 Introduction 很快就结束了，我又回了宿舍，休息了回，参加晚上的 Pub Quiz.
+
+在 Old IMOP 门口集合，外面有点下雪了。 Tutor 带我们坐了较长时间的地铁到了目的地。我吃过饭就回了，结果听说
+Tutor 竟然提前走了。最后十几个中国大学生和店家算账，由于点的东西比较多，不知道怎么多出2000卢布来，最后还是大家分摊了。
+
+## Day 2
+中午的参观取消了，我去蹭了 Russian Survival 的课。下午开始上自己选的课，马飞听完说是那种给大一学生上的人工智能导论课。晚上本来想和同学去 Nevsky Prospect，但上完课有点累，就早早回去休息了。国内疫情形势不是很乐观。
