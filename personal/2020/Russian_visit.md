@@ -1,5 +1,6 @@
 # 俄罗斯之旅
-## Day 0
+2020/1/27
+## Day 0 (1/26)
 晚上从家里坐高铁赶到北京，准备前往机场。
 
 大年初一的晚上，高铁上弥漫着消毒药水的味道。整个车厢空空荡荡的，只有乘务员在我身边
@@ -42,7 +43,7 @@
 When we four are eating in a restaurant, we discuss something about nationality.  Azim is Muslim from Tajikistan. He spoke Persian language.  He is also international student in Russian and passed one-year pre-college study
 here. Because of religious reason and others, he is very unhappy about the way of treatment of Uyghur in Xinjiang China. Juli explained some facts on this matter to him. Some reports are true while others are not.  "It's a little bit cruel for them to be educated in Han's way. Chinese government cuel the anti-goverment people by removing their in-born belief." We are discussing this kind of thing while eating.
 
-## Day 1
+## Day 1 (1/27)
 第一天上午是 Opening Ceremony and Orientational Meeting. 有 Tutor 在宿舍门口等大家，原定7点出发，
 但有些人没到，我们又等了很久才走。我们出去的时候，天还没亮，地比较滑，我小心翼翼地跟着前面的大部队，来到了
 目的地。在大厅里布置了一些展牌，标识着今年的 Winter School. 参加者差不多都来齐了，感觉有超过一半的中国大学生。
@@ -56,11 +57,33 @@ Orientational Meeting 结束后，我和朱丽她们匆匆在附近吃了饭，�
 在 Old IMOP 门口集合，外面有点下雪了。 Tutor 带我们坐了较长时间的地铁到了目的地。我吃过饭就回了，结果听说
 Tutor 竟然提前走了。最后十几个中国大学生和店家算账，由于点的东西比较多，不知道怎么多出2000卢布来，最后还是大家分摊了。
 
-## Day 2
+## Day 2 (1/28)
 中午的参观取消了，我去蹭了 Russian Survival 的课。下午开始上自己选的课，马飞听完说是那种给大一学生上的人工智能导论课。晚上本来想和同学去 Nevsky Prospect，但上完课有点累，就早早回去休息了。国内疫情形势不是很乐观。
 
-## Day 3
+## Day 3 (1/29)
 今天上课换了教室，但那间教室没有门牌号，所以有 Tutor 在楼下等我们带我们找到那个地方。我和毕怀斌去了附近
 一家 Subway 吃了点东西，他还在 New IMOP 上课。我们在路上看到好多楼都有百年的历史的 Academic Building.
 
 这边经常中午上课，今天也不例外，从12点到1点半。饥肠辘辘的我还被马飞拉去买SIM卡，我看到下午要蹭的课时间快到了就赶紧去旁边的麦当劳吃了一点东西然后回到IMOP了。它们智能制造的课讲 Multi-agent control system, 主要用 Arduino 和 树莓派。但单体通信还可以，但涉及到协同大家配合的不是很好。
+
+## Day 4 (1/30)
+今天的机器学习课老师把 project 发给了大家，明天做展示。我和马飞上完第一节课就走了，我们下午去旁听了 Doing Business
+in Russia 的课，那一节是讲电子商务。在这之前我们去交了第一周的住宿费，心想下一周就去莫斯科了。晚上我和马飞独立做了下
+project, 是一个传统方法的回归问题。
+
+## Day 5 (1/31)
+今天这边的课要结课了，到教室后我们又调试并改进了一下代码，然后两位助教分别（TA）挨个地检查。检查完我们合了一张影。
+
+!()[russian_ml.jpeg]
+
+然后一个 tutor 领我们
+到 IMOP。我们以为是去领结业证书，没想到是通知我们莫斯科那个大学取消了下一周的课程。行政老师把大家带到一个会议室里商量解决方案，有说
+可以让第一周的 TA 接着讲的，有想选别的课的。中国学生和行政老师思维不一样，对于不太确定的事情，我们保持沉默。但在行政老师 Zarina 眼里沉默是表示同意的意思。本来这个开会的时间是用来吃饭的，然后下午3点还有 Tutor Polina 带我们去 State Heritage Museum. 
+开完会后，我们匆匆吃了饭，就到了集合的时间了。在逛博物馆的时候，Zarina 那边着急让我们赶快确定意向。中国学生的从众心理比较重，
+本来我是想选免费的 Doing Business in Russia 的课，并且意料到了继续 ML 的课有可能会收费。但周围的人以及已经回复的同学突然都
+表示对 ML 的欢迎，我就有点犹豫了。尤其的马飞也一时兴起说打算继续选 ML。所以我们就先回复了下。虽然这个回复倾向于同意，但也不是非常确定。等到参观完 Museum，我有点回过神来就问大家的想法，尤其是涉及费用的问题。然后我就用 What's App 问 Zarina，得到的回复是和之前
+的价格一样。然后我和马飞就赶紧跟老师说想退掉之前的选择。这导致了 Zarina 相当的生气，据她自己说她整个下午都在跟 Ogul, Zodchi 两位助教讨论下一周课程的安排，讨论了整整4个小时。但最后也没办法，因为我和马飞不上了，有意愿的只剩下3个人，ML 第
+二周开不起来了。
+
+## Day 6 (2/1)
+周末没有课，今天跟同学出门逛当地的博物馆。
