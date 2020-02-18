@@ -1,9 +1,24 @@
 # 记录个人生活的点滴（长文）
 
+> [2012/Snow Darling](2012/snow_darling)
  
-> [2015/关于史铁生想念地坛读后感](2015/关于史铁生想念地坛读后感)
+> [2013/高三小班](2013/高三小班)
 
-> [2015/on_education](2015/on_education)
+> 2014
+
+> > [2014_9_15/education of junior math teacher](2014/education_of_junior_math_teacher)
+
+> > [2014_5_19/from LuXun to Maxism](2014/from_LuXun_to_Maxism)
+
+> > [2014_11_11/my love view](2014/my_love_view)
+
+> 2015
+
+> > [2015/关于史铁生想念地坛读后感](2015/关于史铁生想念地坛读后感)
+
+> > [2015/on_education](2015/on_education)
+
+> > [2015/UNESCO](2015/UNESCO)
 
 > [2016/计原大实验完成感想](2016/计原大实验完成感想)
 
