@@ -139,3 +139,11 @@ Her high point known by this can be summarized by her quoted sentences in my onl
 * [Page 2](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/scan/张雪相关/2.pdf)
 * [Page 3](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/scan/张雪相关/3.pdf)
 * [Page 4](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/scan/张雪相关/4.pdf)
+
+### sneering event
+[paper slip](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/scan/张雪相关/8.pdf)
+
+### essays of Snow Darling
+[不是世界抛弃了你（高二）](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/scan/张雪相关/10.pdf)
+
+[步庭有怀](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/scan/张雪相关/5.pdf)
