@@ -1,7 +1,7 @@
 # Pursuing Dream
 ## Background
 Around the summer of 2014, this English essay is first written.
-This essay focuses on one of my senior school classnames, Snow Darling (张雪）and belongs to the genre of campus story.
+This essay focuses on one of my senior school classnames (Senior 1 and 2), Snow Darling (张雪）and belongs to the genre of campus story.
 
 I only finish two thirds of the story, whose last third part concerns Senior Three and I probably showed my negative attitude if finished.
 

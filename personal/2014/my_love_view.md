@@ -1,4 +1,4 @@
-#My love view 
+# My love view 
 ## 2014年11月11日
 Dear Denny,
 
@@ -8,9 +8,9 @@ Of course every THU intellectual can write an elaborate thesis on this topic wit
 
 The prelude to my reading of "Letters to a young poet" by German poet Rilke is unnecessary to be explained in detail. Only some remarks are needed. 
 
-(1)Since original language is so difficult and time-confusing for me that what I read is English translation edition. There seems to be a word, “World Literature”. I think it means you can read all of them just using one language. Of course only most famous and influential literature can belong to this category. Anyway, what I talk this time should have little to do with language. 
+(1) Since original language is so difficult and time-confusing for me that what I read is English translation edition. There seems to be a word, “World Literature”. I think it means you can read all of them just using one language. Of course only most famous and influential literature can belong to this category. Anyway, what I talk this time should have little to do with language.
 
-(2)The translator holds the view that the letters are very fit for 20-year old or so adolescences to read, because the letter writer, Rilke spoke directly to a young poet, whose problems and ages we share. Of all the fundamental topics Rilke covered, Love and Sex are included, which Rilke "offers unguarded thoughts on".
+(2) The translator holds the view that the letters are very fit for 20-year old or so adolescences to read, because the letter writer, Rilke spoke directly to a young poet, whose problems and ages we share. Of all the fundamental topics Rilke covered, Love and Sex are included, which Rilke "offers unguarded thoughts on".
 
 We talk about feminism in the previous *English Listening One* class. It is interesting to remember the speaker in TED is a female writer. Why writers have so much inspiring thoughts to share, not a scientist? What I've done with regret is diverting the topic to IQ of young lady, the cause of which I can not remember clearly. "This problem" probably has connected itself to the predominant voice power by male sex. I also find Rilke mentioned this problem:
 
