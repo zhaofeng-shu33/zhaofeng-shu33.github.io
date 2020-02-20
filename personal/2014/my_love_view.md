@@ -2,9 +2,9 @@
 ## 2014年11月11日
 Dear Denny,
 
-At the very beginning, you should understand my motive to write about such a subtle topic has no relation with the date of boys, which is endowed special meanings by the numbers of this date.
+At the very beginning, you should understand my motive to write about such a subtle topic, which has no relation with the date of boys, which is endowed special meanings by the numbers of this date.
 
-Of course every THU intellectual can write an elaborate thesis on this topic without any difficulty, considering its nearness to our daily life and all the allusions we've memorized. For me, I will just synthesize what happened to me within this problem with the combination of letters I read this whole morning.
+Of course every THU intellectual can write an elaborate sentence on this topic without any difficulty, considering its nearness to our daily life and all the allusions we've memorized. For me, I will just synthesize what happened to me within this problem with the combination of letters I read this whole morning.
 
 The prelude to my reading of "Letters to a young poet" by German poet Rilke is unnecessary to be explained in detail. Only some remarks are needed. 
 
@@ -12,7 +12,7 @@ The prelude to my reading of "Letters to a young poet" by German poet Rilke is u
 
 (2) The translator holds the view that the letters are very fit for 20-year old or so adolescences to read, because the letter writer, Rilke spoke directly to a young poet, whose problems and ages we share. Of all the fundamental topics Rilke covered, Love and Sex are included, which Rilke "offers unguarded thoughts on".
 
-We talk about feminism in the previous *English Listening One* class. It is interesting to remember the speaker in TED is a female writer. Why writers have so much inspiring thoughts to share, not a scientist? What I've done with regret is diverting the topic to IQ of young lady, the cause of which I can not remember clearly. "This problem" probably has connected itself to the predominant voice power by male sex. I also find Rilke mentioned this problem:
+We talk about feminism in the previous *English Listening One* class. It is interesting to remember that the speaker in TED is a female writer. Why writers have so much inspiring thoughts to share, not a scientist? What I've done with regret is diverting the topic to IQ of young lady, the cause of which I can not remember clearly. "This problem" probably has connected itself to the predominant voice power by male gender. I also find Rilke mentioned this problem:
 
 *Love in literature isn't an entirely mature and pure sexual world, for it is not human enough; it is merely male, heat, intoxication and restlessness, burdened with the old prejudices and haughtiness with which man has distorted and burned love.*
 
@@ -34,11 +34,12 @@ I also deliberately changed the latter part of the last sentence based on the sa
 
 The most difficulty for me to write the following several paragraphs is the close relation of this topic to my reality, in particular, to the receiver of this email. I will think over and moderate my dictions below.
 
-Strictly speaking, I've never wrote love poem, some of which were really clumsy parodies of ancient Chinese poems or verses. In a general sense, my literary writing on such topic was mainly in the form of a whole essay, whose genre was more similar to incomplete biography of a girl, or more accurately, trivial things which happened between I and her. Many of them were done under the cover of one students-self-organized literary association. And to strength my literary writing on such topics or out of other motives, I naively recited some Song Poems. By now I cannot figure out why I would recite twenty poems from《花间词》and twenty poems by 李清照 at that time.
+Strictly speaking, I've never wrote love poem, some of which were really clumsy parodies of ancient Chinese poems or verses. In a general sense, my literary writing on such topic was mainly in the form of a whole essay, whose genre was more similar to incomplete biography of a girl, or more accurately, trivial things which happened between I and her. Many of them were done under the cover of one students-self-organized literary association. And to strengthen my literary writing on such topics or out of other motives, I naively recited some Song Poems. By now I cannot figure out why I would recite twenty poems from《花间词》and twenty poems by 李清照 at that time.
 
 Why I said "strictly speaking" in the preceding paragraph? I think perhaps one fundamental essay 《调味剂和必需品》 by me in Senior High Two is enough to illustrate my love view. Unfortunately, I only had the writing form of this essay and I left the essay at my hometown. The core idea is that I think 情 is sauce of life, which is not trivial while 奋斗 is essentials. This pair of contradictions almost runs through all my compositions relating to love. This is probably part of the reasons why I adored 李清照 and Madame Curie (居里夫人) and later 钱忠书，since their marriage is not purely love-driven.
 
-In the past years in middle school, I made acquaintances with and even admired a few girls, almost with each of whom I had sent plenty of emails, the topic of which is mainly around my striving for a certain particular goal. Of course the goal changed thoroughly while my writing habits were preserved. One typical concern of me at Senior High One is described by the following email to one humanity-tended girl S: (pay attention to my view of striving at that time)
+In the past years in middle school, I made acquaintances with and even admired a few girls, almost with each of whom I had sent plenty of emails, the topic of which is mainly around my striving for a certain particular goal. Of course the goal changed thoroughly while my writing habits were preserved. One typical concern of me at Senior High One is described by the following email to one humanity-tended girl 王涵: (pay attention to my view of striving at that time)
+
 <div style="padding-left:20px;padding-right:20px;">
 (6/19/2011)对于过去的一周——期末复习的倒数第二周，高一生涯的倒计时，高考成绩四处流窜之时，事业编考试 (local administrative examination, passers of which can get a job at one sub-institution of government in my hometown)几家欢喜几家愁的这一周，我的心态却像 下开口 抛物线般的——以越来越大的加速度滑向x轴以下，虽然表面上还可以故作镇静。
 
@@ -46,7 +47,7 @@ In the past years in middle school, I made acquaintances with and even admired a
 
 昨天晚上（及前后的时间）对大多数人是假期(My high school is semi-boarding. During a regular short vacation，students from rural areas can go home.) 该留下来的还是不会走。第一节晚自习，一方面5班(my class)的足球爱好者飞快地追逐着“梦想”，另一方面6班(competitors of my class)的精英破天荒地抱着篮球冲进了操场。不过每个大课间5班都会沉浸于足球，6班门口，都鲜有人驻足停留。
 
-本来5班 在班主任的威慑下 成了全年级留人最多，今天却被刘校长臭骂一顿——“所谓留，就有优越感吗？看看你们的行为，简直不比走的同学强多少。”很多时候自己也是凭着所谓的“优越感”使自己更优越，马不停蹄的新课，我可以有舍有得。但在复习的时间里，不该舍的舍，花了大量时间在不太有作用的事情上。数学课，无论是期末复习还是综合练习，在大片空白中我截取1~2题去做，只要求答案，常常还是出错。确实错过了不少好题，更重要的是失去训练计算能力的机会。结果三角题，总是出错。化学课，所有的作业都做，酯化反应的方程式照着n遍写（每张卷中都有），但大量的题目，大量的小错，至于新题型，讲过是会了，但总不能遇到新题就不会。物理课，物理小计算，思路对，动能定理的方程式经常出错，尤其在代入数据一个环节，计算的错误累累，——尽管物理是3科中在校用时最多的。
+本来 5班 在班主任的威慑下 成了全年级留人最多，今天却被刘校长臭骂一顿——“所谓留，就有优越感吗？看看你们的行为，简直不比走的同学强多少。”很多时候自己也是凭着所谓的“优越感”使自己更优越，马不停蹄的新课，我可以有舍有得。但在复习的时间里，不该舍的舍，花了大量时间在不太有作用的事情上。数学课，无论是期末复习还是综合练习，在大片空白中我截取1~2题去做，只要求答案，常常还是出错。确实错过了不少好题，更重要的是失去训练计算能力的机会。结果三角题，总是出错。化学课，所有的作业都做，酯化反应的方程式照着n遍写（每张卷中都有），但大量的题目，大量的小错，至于新题型，讲过是会了，但总不能遇到新题就不会。物理课，物理小计算，思路对，动能定理的方程式经常出错，尤其在代入数据一个环节，计算的错误累累，——尽管物理是3科中在校用时最多的。
 
 一切好坏都是比出来的，自从听说6班精英们定下的期末目标后（争第二），自从student A的一句“真正的目标，是放在心里的”，自从看到student A’, student B’ (the student with the apostrophe denotes students from class six, while students without the apostrophe comes from my class) 他们在下课铃响的同时冲出教室，决心以最快速度完成晚饭时，自从我从未在课间见到他们时，我知道也许自己不如他们努力。
 
@@ -58,11 +59,12 @@ In the past years in middle school, I made acquaintances with and even admired a
 
 翻非常学案时看到一句话：没有真实的现在，何谈过去与未来？240人进了面试圈(I mean the local administrative examination)，考上的，额手称庆；名落孙山者，是否还有重头再来的勇气——那也要等一年。高考也是。(End of this email)
 </div>
+
 Almost three years later, I wrote another email to the same girl S. There are invariants while something happens at least. Maybe it is very proper to share this email. But as it passed before I made acquaintance with you was the unique email which directly showed my love view, I showed the whole email as follows:
 <div style="padding-left:20px;padding-right:20px;">
 (2014 August) Dear S:
 
-How is your voice and letter?
+How are you?
 
 This is probably the most different letter that I had ever sent to you. It concentrates no more about knowledge and my study life, but makes documents of my troubled feelings.
 
@@ -70,7 +72,7 @@ With prejudice and complacence came I back to hometown. It seemed I put many thi
 
 What I am concerned often tortured me more because of no reply from the other side. It was strange for a reasonable modern citizen to fall into such traps, which nearly make him lose interest on all the other things.
 
-Because of this problem, I found my sleeping state was disturbed, which was added a long sleepless prelude and odd dreams; Because of this problem, I found my main study of math and physics was disturbed, which was accompanied with distraction and mechanism; Because of this problem, I found my eating was disturbed, at which time my mind was trying to think of method to make contact with you; Because of this problem, I found my climbing (mountain) experience was a little disturbed, at which time I can not feel the nature very freely.
+Because of this problem, I found my sleeping state was disturbed, which was added a long sleepless prelude and odd dreams; Because of this problem, I found my main study of math and physics was disturbed, which was accompanied with distraction and mechanism;Because of this problem, I found my eating was disturbed, at which time my mind was trying to think of method to make contact with you; Because of this problem, I found my climbing (mountain) experience was a little disturbed, at which time I can not feel the nature very freely.
 
 But what I'd like to say if I can contact you or meet you? Maybe about your English classes and your attitude about English literature; Maybe to hand a gift which I bought with virtual shells at English camp store and an English novel which I was rewarded in one English class to you; Maybe…
 
@@ -90,6 +92,7 @@ Maybe all what I said was merely to hide my emerged feelings toward you. What is
 
 <p align="right">Troubled Free wind</p>
 </div>
+
 Definitely, even if I can not hold my feelings in some sentences, the retelling of an encouraging story shows that part of my trouble is not purely love. It is the contradictions between love and striving. And I find the former hammers the latter heavily during the initial days after I came back to my hometown.
 
 I never degrade the former---pure feeling towards the other person, and I appreciate it and even try to reconcile it with striving during these years. That is probably why I wrote so many emails in total while I had limited face-to-face communication with these girls. But as some part of my academic learning becomes deep, I become tired of this kind of email---partly because I almost never get the reply coming from the same world, and partly because it in some extents hammers my academic learning. But what is the shaft I will make use of without this kind of form? I have no answer now.
@@ -98,15 +101,15 @@ It is strange that I think I clearly expressed my contradiction in the English R
 
 At the very end, I add one irrelevant joke made by me which again reflected my love view:
 
-"Please Hand in geology homework!" exclaimed Snow Darling after class. And the so-called homework was "finishing page 3-33 of geology help-study reference book."
+"Please Hand in geography homework!" exclaimed Snow Darling after class. And the so-called homework was "finishing page 3-33 of geography help-study reference book."
 
-"Give me a share to copy, please, Reverend Geology Representative Lady." Begged one short-height guy, Forest.
+"Give me a share to copy, please, Reverend Geography Representative Lady." Begged one short-height guy, Forest.
 
-"No way, I must bring all of them to the office of geology. You can copy the standard answer instead!"
+"No way, I must bring all of them to the office of geography. You can copy the standard answer instead!"
 
 "But…you know, the answer has too many Chinese characters and not convenient to copy since it was attached after the main part of the reference book."
 
-"I have no obligations to help you in such a matter. But I have to warn you in advance, if you do not hand in the homework immediately, I will mark your name and the geology teacher will find you himself!" Hardly had she finished her sentence, stepped she away from Forest's desk with a pile of reference book in hand. "Wait a minute, my merciful Representative!"
+"I have no obligations to help you in such a matter. But I have to warn you in advance, if you do not hand in the homework immediately, I will mark your name and the geography teacher will find you himself!" Hardly had she finished her sentence, stepped she away from Forest's desk with a pile of reference book in hand. "Wait a minute, my merciful Representative!"
 
 "Blame on you since you haven’t finished …"Snow Darling's laughter vanished gradually as she stepped out of the classroom and ran along the corridor to the office. 
 
