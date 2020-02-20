@@ -52,7 +52,16 @@
 
 ------
 
-### Experience
+### Educational Experience
+
+Yi Cheng Experimental Primary School: *Elementary School Student*
+__2001-2007__
+
+Zao Zhuang No.28 Middle School: *Junior School Student*
+__2007-2010__
+
+Zao Zhuang No.1 Middle School: *High School Student*
+__2010-2013__
 
 Tsinghua University: *Undergraduate Student*
 __2013-2017__
