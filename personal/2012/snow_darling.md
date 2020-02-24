@@ -1,7 +1,7 @@
 # Pursuing Dream
 ## Background
 Around the summer of 2014, this English essay is first written.
-This essay focuses on one of my senior school classnames (Senior 1 and 2), Snow Darling (张雪）and belongs to the genre of campus story.
+This essay focuses on one of my senior school classmates (Senior 1 and 2), Snow Darling (张雪）and belongs to the genre of campus story.
 
 I only finish two thirds of the story, whose last third part concerns Senior Three and I probably showed my negative attitude if finished.
 
@@ -28,59 +28,59 @@ Really can she?
 
 ## (1)
 
-In one forgotten exam praise and summary meeting of Senior Three, a plain girl (Bright Pretty, 张灵莉) from Class Six stepped onto the front stage claiming, as a representative of Senior Three Girls, that everyone is a heroine as long as she dreams big enough!”.
+In one forgotten exam praise and summary assembly of Senior Three, a plain girl (Bright Pretty, 张灵莉) from Class Six, as a representative of Senior Three Girls, stepped onto the front stage claiming that everyone is a heroine as long as she dreams big enough!”.
 
-I suddenly remembered a girl, with whom I am first acquainted two years ago. It happened after we had the first month exam and she was left far behind. She reflected herself on her summary report, “You are far lagging behind not because of your being dummy or weak knowledge basis, but of the fact that you haven’t spread all your efforts into study. Playful mind leads to nothing but failure, thus sharply hurting your parents’ hearts… I really do not waste my time… and I dream keenly on going to Chinese University of Geosciences."
+This situation suddenly reminded me of a girl, with whom I was first acquainted two years ago. It happened after we had the first month exam and she was left far behind. She reflected herself on her summary report, “You are far lagging behind not because of your being dummy or of weak knowledge basis, but of the fact that you haven’t spread all your efforts into study. Playful mind leads to nothing but failure, thus sharply hurting your parents’ hearts… I really do not waste my time… and I dream keenly on going to Chinese University of Geosciences."
 
-Who is she mentioned above? Actually I knew little about her expect her exam summary report which I peeped as I collected them as a group leader. Later everyone in class was familiar with her as our geography class representative.
+Who is she mentioned above? Actually I knew little about her expect her exam summary report which I peeped as I collected them as a small group leader. Later everyone in class was familiar with her as our geography class representative.
 
 (Below is my new adding based on my imagination, her post and characters.)
 
 “Please Hand in geography homework!” exclaimed she after class. And the so-called homework was “finishing page 3-33 of geology help-study reference book.”
 
-“Give me a share to copy, please, Reverend Geography Representative Lady.” Begged one short-height guy, Forest （贺森森）.
+“Give me a share to copy, please, Reverend Geography Representative Lady.” Begged one short guy, Forest （贺森森）.
 
 “No way, I must bring all of them to the office of geography teacher. You can copy the standard answer instead!”
 
-“But... you know, the answer has too many characters and inconvenient to copy since it was attached after the main part of the reference book.”
+“But... you know, the answer has too many Chinese characters and also inconvenient to copy since it was attached as appendix of the reference book”
 
-“I have no obligations to help you in such a matter. But I have to warn you in advance, if you do not hand in the homework, I will mark your name and the geography teacher will find you himself!” Hardly had she finished her sentence, stepped away from Forest’s desk with a pile of reference book in hand. “Wait a minute, my merciful Representative!”
+“I have no obligations to help you in such a matter. But I have to warn you in advance." Snow Darling annoyedly pointed her finger to Forest: "if you do not hand in the homework, I will mark your name and the geography teacher will find you himself!” Hardly had she finished her sentence, she stepped away from Forest’s desk with a pile of reference book in hand. “Wait a minute, my merciful Representative!”
 
-“Blame on you since you haven’t finished …” Snow Darling’s laughter vanished gradually as she stepped out of the classroom and ran along the corridor to the office.
+“Blame on you since you haven’t finished …” Snow Darling’s laughter vanished gradually as she stepped out of the classroom and ran along the corridor to the office of geography teacher.
 
-It seemed that such common trivial often happens at each short break time. Students like Forest made full use of such time --- do not misunderstand me --- they were mostly making up the homework, which was claimed forgotten to finish.
+It seemed that such common trivial often happens at each short break time. Students like Forest made full use of class break time --- do not misunderstand me --- they were mostly making up the homework, which was claimed forgotten to finish.
 
-However things reversed after a period of time when Forest was haply to exercise the rights of Chinese representative.
+However things reversed after a period of time when Forest was haply to exercise his rights as the Chinese representative.
 
 So in one normal break time, he shouted, “Hand in Chinese ‘Big Notes’ immediately!”.
 When he passed by the seat of Snow Darling, she was rummaging hastily for her ‘Big Notes’ in her desk hole.
 
-“I have little patience, you know.”
+“I have little patience, you know.” Forest smiled slily at Snow Darling.
 
-“But I saw it this morning if my memory didn’t cheat me. Anyway, you can perform your obligations without waiting for me. I will personally hand in my Chinese homework.”
-“But you know what our Chinese teacher (马莉）is, a female tiger, who required that late-handed homework was equal to not-finished. I can cover your special situation out of kind heart. But next time you are supposed to give me a vent at geography homework. As classmates it was very natural to help mutually.”
+“But I saw my note this morning if my memory didn’t cheat me. Anyway, you can perform your obligations without waiting for me. I will personally hand in my Chinese homework.”
+“But you know what our Chinese teacher (马莉）is, a female tiger, who required that late handed homework was equal to unfinished. I can cover your special situation out of kind heart. But next time you are supposed to give me a vent at geography homework. As classmates it was very natural to help mutually.”
 
-“How can you say such derelict sentence!...” At the same time Big Notes of Snow Darling was thrown from back row and hit directly on Forest. A voice followed, “My fault, I lend your Big Notes without permission…” Forest was steaming as he was neglected by the offender, but was reminded by Snow Darling that he had little time to carry piles of Big Notes to the Chinese Office.
+“How can you say such derelict sentence!...” At the same time Big Notes of Snow Darling was thrown from back row and hit directly on Forest. A voice followed the attack: “My fault, I lend your Big Notes without permission…” Forest was steaming as he was neglected by the offender, but was reminded by Snow Darling that he had little time to carry piles of Big Notes to the Chinese Office before the next class began.
 
 ...
 
-Such anecdote was also commonly happening during every time break. But when this didn’t occur, it was most probably before the Chinese class.
+When such anecdote didn’t occur during break, it was most probably before the Chinese class.
 
-Once a time Forest in a hurry wrote on the blackboard, “An Exhortation to Learning” （荀子-劝学篇）will be made a selective reciting examination among us!” “Take every second to go over the text!” He appealed to us.
+Once a time Forest in a hurry wrote on the blackboard, “On *An Exhortation to Learning*（荀子-劝学篇）,there will be a selective reciting check among us!” “Take every second to go over the text!” He appealed to us.
 
-Snow Darling was hurrying copying the math homework when the ominous message was heard. Hardly had she rummaged out of the class hole the Chinese Compulsory One when our stern Chinese teacher came into the classroom. The reading sounds immediately became louder and pervaded within every corner of our classroom. Hardly had Snow Darling found out the “An Exhortation of Learning” when the knell (prophesying the beginning of Chinese class) ran. Perspiration exuded from every corner of Snow Darling I dare say when her column was suffering the selective reciting examination. The outcome is obvious and a lost spirit was left behind after both failure of Chinese reciting requirement and math homework.
+Snow Darling was hurrying copying the math homework when the ominous message was heard. Hardly had she rummaged out of the class hole the Chinese Compulsory One when our stern Chinese teacher came into the classroom. The reading sounds immediately became louder and pervaded within every corner of our classroom. Hardly had Snow Darling found out the “An Exhortation of Learning” when the bell knelled. Perspiration exuded from every corner of Snow Darling I dare say when the column of her seat was suffering the selective reciting check. The outcome was obvious and a lost spirit was left behind after both failure of Chinese reciting requirement and math homework copy.
 
 (The above story was out of imagination and Snow Darling’s characters)
 
 Afterwards, she wrote on her notebook the following sentences and I peeped it out of some reason which I forgot now.
 
-“Damn that you are relaxing yourself recently! Really relax, doesn’t you? Look at the effects! Just as put a pole under the sun and the shadow emerges immediately! Your time schedule is bad enough and you waste your precious time up to 4,5 hours every day. You go as far as to wander your mind in self-studying class. You are to die if not to behave well!!!”
+“Damn that you are relaxing yourself recently! Really relax, doesn’t you? Look at the effects! Just as put a pole under the sun and the shadow emerges immediately! Your time schedule is bad enough and you waste your precious time up to 4,5 hours every day. You go as far as to wander your mind in self-studying time. You are to die if not to behave well!!!”
 
 ## (2)
 
-Choice between Humanity and Science is made by every student of Senior One at No. 1 High School. But before that, some unexpected sequel happened. We were suddenly told by head teacher that Snow Darling determined to drop out of school!
+Choice between Humanity and Science is made by every student of Senior One at No. 1 Middle School. But before that, some unexpected sequel happened. We were suddenly told by the head teacher that Snow Darling determined to drop out of school!
 
-A discuss about her was launched in one class meeting by Middle Winning (孙中凯）, a No.2 top student reputedly. “I despised her” probably was his conclusion but his analysis was not kept because of my incomplete diary. 
+A discuss about her was launched in one class meeting by Middle Winning (孙中凯）, a No.2 top student. He said reputedly: “I despised her”. This was his conclusion but his analysis was not kept because of my incomplete diary. 
 
 (I often heard some fresh student feignedly complained about his or her too many classes at college. But why Senior One, especially latter part of it was more torturing even if it provided us with only nine subjects?)
 
