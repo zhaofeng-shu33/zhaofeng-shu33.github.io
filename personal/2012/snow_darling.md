@@ -62,7 +62,7 @@ A discuss about her was launched in one class meeting by Middle Winning (孙中�
 
 Forest was following those girls hurrying to the dormitory buildings of girls on the morning when it was said Snow Darling was determined to go home. He came back first and disturbed the uneasy air of morning reading in Class Five.
 
-“Hey, Forest, why did you come there? — Maybe you are stealthily fond of...” Auspicious Dragon ridiculed Forest.
+“Hey, Forest, why did you come there? — Maybe you are stealthily fond of...” Auspicious Dragon （胡福龙） ridiculed Forest.
 
 “Nonsense! As her classmate and as a member of class commission, it was natural! Do you understand?”
 
