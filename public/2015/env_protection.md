@@ -14,3 +14,14 @@
 在黄庄，我们与一家农户攀谈起工业园的情况，她们也直说工业园对其生活有很大的负面影响。“厂子多是外地的老板，员工也多是外地人，工厂的发展成果基本与我们这些普通老百姓无关。”我们又问了用水的情况，“上了年纪的老人一般只能吃机井的水，肯定被污染过了，粮食也同样；年轻人还知道去超市买米买面，也能用得起自来水。”关于土地占用的补偿情况，她们说是按年给补偿金。尽管废水废气对他们村特别是靠近工厂的部分造成了很大影响，但她们也承认这里没有上访的，估计镇政府也不会听取他们的诉求。
 
 刘涛在报告中写道：“在峨山，面对当地政府操作并不透明的上马项目，村民们不闻不问；工厂建设占用农业用地，除了每年相应的补偿之外并没有给村民带来任何收益，村民们却表现得事不关己；工厂已经对当地土地、水体造成污染，并已危害到村民健康，他们忍气吞声；面对政府部门对他们权益的忽视和不作为，他们自吞黄连••••••”
+
+相关录音：
+
+1. [投诉无门](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/environment_pollution_2015/cut1.mp3)
+1. [废水问题](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/environment_pollution_2015/cut2.mp3)
+1. [小孩含铅量超标](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/environment_pollution_2015/cut3.mp3)
+
+相关照片：
+
+![被污染的水 1](./polluted_water_1.jpg)
+![被污染的水 2](./polluted_water_2.jpg)
