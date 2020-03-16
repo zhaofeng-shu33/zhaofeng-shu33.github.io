@@ -17,9 +17,9 @@
 
 相关录音：
 
-1. [投诉无门](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/environment_pollution_2015/cut1.mp3)
-1. [废水问题](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/environment_pollution_2015/cut2.mp3)
-1. [小孩含铅量超标](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/environment_pollution_2015/cut3.mp3)
+1. [投诉无门](http://media.leidenschaft.cn/volunteer/environment_pollution_2015/cut1.mp3)
+1. [废水问题](http://media.leidenschaft.cn/volunteer/environment_pollution_2015/cut2.mp3)
+1. [小孩含铅量超标](http://media.leidenschaft.cn/volunteer/environment_pollution_2015/cut3.mp3)
 
 相关照片：
 
