@@ -25,7 +25,7 @@ those who were keen on English training classes and thought much of them as good
 Soon I went to Junior school. Drawing upon her superior English basis,
 Ding Ning overwhelmed me almost every tests in total marks. It was not until grade 3 that I damaged her strength by the fact that my English had a big leap. Compared to my previous teacher, Mrs Zhang, whose husband taught me chemistry at Senior two, that young and kind-hearted teacher called Yang Huiling was so earnest to teaching us that she has no time to consider marriage. In her view, translation and reciting texts are considered of vital importance. "You are expected to recite texts and practice translation as far as you can instead of committing a multitude of grammar rules to memory." She was saying in one class, when Huang Dou submitted suspicious loving lines to young ladies. Miss Yang threw a chalk to him at once, then another. Unluckily, Huang is wily enough to flee from the trap of such kind hunter. Then she seemed to warn the most sprightly child: "As it is, if you allow your attention appropriated by one trivial affair, there is nothing you can
 achieve. I suddenly fell a penetrating cold wind breaking into my heart while Huang turned down his head to hide his blushed face. As
-a matter of fact, I also wasted a profusion of time playing computer games. Huang's behaviour is of no difference in essence with mine. I indeed betrayed the saying "The god only praised those untiringly working." This sentence is told by Miss Yang on our first English class.
+a matter of fact, I also wasted a profusion of time playing computer games. Huang's behavior is of no difference in essence with mine. I indeed betrayed the saying "The god only praised those untiringly working." This sentence is told by Miss Yang on our first English class.
 
 Once the hospital served our beloved Miss Yang but English class has to go on. It was arranged that Huang and I replaced the teacher to teach others, merely translating some "Reading Comprehensions". The
 two of us can be equal to the temporary task for we have been trained to translate them when confronting the whole classmates.
@@ -45,3 +45,5 @@ concerned, I derived not only encouragement but pressure from Miss Yang, who tho
 
 Would that I could go back to my integrated mother school to seek her, to tell her and to express my gratitude to her.
 For her mighty motivation, for her optimistic emotion and for her ever-lasting words after June 9.
+
+Note: free wind is the penname of me.
