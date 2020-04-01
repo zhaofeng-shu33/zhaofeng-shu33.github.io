@@ -11,8 +11,12 @@ The Confucian intellectuals regards integrity as the most important. Smelling th
 “not myself” for the second sovereign.
 
 This is the time when a country has strayed from its normal track of running. It happens occasionally, from what Northern warlords did in the early 20ths century and what “Gang of Four” damages in the late 20ths century. What is in the middle of the two accidents, a war which is the most violent and devastating in China’s history.
+
 Can I compare the condition of human body to our China? She produces some dissident components sometimes and can cure herself at some price. But as a result of her poor health, external virus finds chance to raid. The virus is cruel, he tortures not only protecting cells but thousands of innocent cells to die. On such severe condition, two choices are put before the adolescents, before every Chinese? Enlist? To guerrilla forces or to regular army? Exile? To inland or overboard? Surrender? Be conquered people or objectionable traitors? 
+
 When a natural disaster or human neglects made people, regardless personality, perished; When an illness from either outside or inside happens; Even when family has mishaps; we are evolved to a dilemma, the hardest dilemma, not resulting from original dream dimming but from storms rushing on it. Is this case possible? All those seeming impossible might one day become possible.
-Half a year before, I was a little bewildered at the dragon-like sites of enrolling for clubs at our campus. I aspire for Chinese Ancient, those integrity of philosophers and politicians in Chinese history. There are voices advocating reviving of Chinese ancient philosophy, talking and using as ingredients Chinese ancient history. There are also voices diminishing the Chinese feudal creativity, neglecting the discipline of ancient society. 
- Though time changes, so many principles remains. People have to eat to live. Many strive for power and better social status. External threats never disappear for China. We can find traces of all in annals. Once faced with hunger, running away, or any other significant affects, what we should do next will be much affected. The first concerned is no more personal affair, but nation responsibility.
-   
+
+Half a year before, I was a little bewildered at the dragon-like sites of enrolling for clubs at our campus. I aspire for Chinese Ancient, those integrity of philosophers and politicians in Chinese history. There are voices advocating reviving of Chinese ancient philosophy, talking and using as ingredients Chinese ancient history. There are also voices diminishing the Chinese feudal creativity, neglecting the discipline of ancient society.
+
+Though time changes, so many principles remains. People have to eat to live. Many strive for power and better social status. External threats never disappear for China. We can find traces of all in annals. Once faced with hunger, running away, or any other significant affects, what we should do next will be much affected. The first concerned is no more personal affair, but nation responsibility.
+
