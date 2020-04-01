@@ -3,6 +3,19 @@
 ## Study for test oder die abschulussprüfung vorstellen.
 I have to think over my choice a day before the mathematical analysis exam. I sacrifice all my time preparing for this exam and although I feel not bad at the exam. I did not see much about the general integration of the academic world especially the art subject and science subject. Major is a road narrower and narrower. I probably can join in their talk about the problems after the exam, but I also feel confused about the paradox between the 4 directions I make up for myself. I learn that I neglect half part proof of the last problem but it all goes well according to my level. Most realistic problem is I must do not bad at the essential course and spend as possible as I can at other subjects. 
 
+## 由偶然間和班長的一次聊天引起的思考
+2014/1/17
+
+“我給自己的自我評價是，前半學期忙過去了，后半學期玩過去了。”班長傅岱三石如是說。
+
+我并不知道“管不住自己玩游戲是怎樣一種狀態”我所能看到的，只是每次我晚歸時傅同學在玩游戲。
+
+我們都隱隱的知道，專業數學以外學不好沒什么關系，但專業學不好與人生無望似乎已經可以劃等號。
+
+有時候我也會很心急地被 peer pressure 推著復習，也會對學期中的在專業課上的抱殘守缺（只讀課本和做作業）有一些想法，但總體來說，我在積極向上一點上初衷沒有變掉，只是因為種種原因虛度了一些青春時光。
+
+然而面對他人的痛苦與彷徨時我會怎么選擇，因為傅謝我主動給了他幾道高代題目而他談及自己的一些隱秘的想法。涉及每每碼字而熬夜我也有一些矛盾，畢竟在價值選擇上考慮了往往也沒有結果，但我覺得及時記下自己的感受是非常重要的。石發強已經退出了這里，那么我們怎么會希望傅同學無奈地步其后塵？而不無私心地講，在高女神的剪影中和傅的例子中我也在不斷調整自己的價值選擇。特別是必須無條件把一天的大部分時間交給數學，其實達不到本年級的中上游自己其他方面的發展會很有后顧之憂。這一點足以把生命中的其他部分一票否決，于是我只能更加謹慎地選擇。希望有機會能幫一下傅同學。
+
 ## 從一道物理題目到琛璽
 2014/1/24
 
@@ -10,6 +23,14 @@ I have to think over my choice a day before the mathematical analysis exam. I sa
 
 琛璽大一上比較刻苦、辛苦，但他們的文科教學模式似乎存在很大問題。
 每晚和文耀一同回家，從他的言談中我聽出的是摻雜著自卑與達觀的心態，但愿兒時的玩伴能有一個美好的未來。
+
+## 送东阳马生序
+2014/1/20
+
+午間小憩時忽然憶起送東陽馬生贈序來，又找來看了一下，馬生與宋濂少時的學習條件真是有天壤之別。宋提到了凍餒之患，奔走之勞，師資力量與藏書條件四個方面，都是太學所能給學生提供的，于是宋會這樣感嘆，其業有不精，學有不成者，非天智之卑，心不專耳。
+想一想現在的大學條件和彼時的太學條件送差不多，甚至有了科技的輔助會更優越。
+另外，宋能遍觀群書，以及民國時代乃至古往今來的博學者，無不是博覽群書的人。
+為學的人會在今后選擇不同于為學歷的道路，專 與 博 之 矛盾會讓如風對學無止境產生新的想法。
 
 ## Project Euler
 2014/2/15
