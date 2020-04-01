@@ -13,4 +13,4 @@ As I can keep in memory, she ever praised in the two classes for my morning read
 
 As I can put back to my mind, she once told the leaving three students about her time of studying abroad after one class.”Deine Meinung ist sehr wichtig im Ausland.“ And she put it to her teaching process. We are learning a text indicating the Chinese habit of crossing the road, she did not affix any comments, only explaining ” You can see whether it is right when you have chances to go there.”
 
-Sie gibt uns nicht nur Wissenschaft, sondern nach Schokolade und Kuchen. It is a pity that she did not teach us in the next semester. But I cherish her photo and still continue to learn Germany. I wish I can write to her in Germany in the future. Can you recognize my teacher?
+Sie gibt uns nicht nur Wissenschaft, sondern auch Schokolade und Kuchen. It is a pity that she did not teach us in the next semester. But I cherish her photo and still continue to learn German. I wish I can write to her in German in the future.
