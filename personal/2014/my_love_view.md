@@ -62,7 +62,7 @@ In the past years in middle school, I made acquaintances with and even admired a
 
 Almost three years later, I wrote another email to the same girl S. There are invariants while something happens at least. Maybe it is very proper to share this email. But as it passed before I made acquaintance with you was the unique email which directly showed my love view, I showed the whole email as follows:
 <div style="padding-left:20px;padding-right:20px;">
-(2014 August) Dear S:
+(2014 August 8th) Dear S:
 
 How are you?
 
