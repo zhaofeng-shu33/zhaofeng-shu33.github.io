@@ -8,9 +8,9 @@
 
 > [public](public/index.html)
 
-> [琐事](detail/index.html)
+> [moment](detail/index.html)
 
-> [QQ空间文章](qzone_blog/index.html)
+> [qzone articles](qzone_blog/index.html)
 
 ------
 
