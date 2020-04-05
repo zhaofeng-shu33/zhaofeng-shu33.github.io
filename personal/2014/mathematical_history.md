@@ -1,4 +1,5 @@
 # Thoughts about Mathematical History
+2014/9/13
 
 You may comment that my sense of Chinese mathematics is too late after you read this email. Anyway, I write what I feel.
 

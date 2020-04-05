@@ -1,4 +1,5 @@
 # Quick sketch of my feelings towards our language disadvantage in 21st century
+2014/9/9
 
 As English reading takes more and more percentage in our (science students) life, feelings about separation of vocal Chinese and written English can not be avoided. I mean you seldom write in Chinese unless necessary and you feel contradicted whether to read Chinese textbook or English. But you seldom speak English these days while imbued in the written English environment many hours every day.
 
