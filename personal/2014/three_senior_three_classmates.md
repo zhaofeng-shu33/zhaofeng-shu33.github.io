@@ -7,7 +7,7 @@ I hate to be forced to do something, but today I can not avoid it. My cousin was
 
 It happened when we were having English class just after the new semester of Senior Three.
 
-Big Height(Zhang’s nickname) wandered and covered his distraction by drinking water from his bottle. How can he escape the bright eyes of our English teacher? “Big Height, what were you doing just now!” But Big Height was quick in mind, and retorted, ”Ms Web, I studied English so hard that I was so thirsty. So…” “All right, now you are to make a sentence using what I have just taught.” No doubt that Big Height was in trouble. I think he was too nervous to repeat in Chinese the sentence which Ms Web gave him. Definitely he was not allowed to sit down because of his bad behavior. Then the Old Orange (Cheng Weizheng)was called. Old Orange was no better than Big Height in answering. To explain my judgment, I’ll give the dialog fully as follows:
+Big Height(Zhang’s nickname) wandered and covered his distraction by drinking water from his bottle. How can he escape the bright eyes of our English teacher? “Big Height, what were you doing just now!” But Big Height was quick in mind, and retorted, ”Ms Web, I studied English so hard that I was so thirsty. So…” “All right, now you are to make a sentence using what I have just taught.” No doubt that Big Height was in trouble. I think he was too nervous to repeat in Chinese the sentence which Ms Web gave him. Definitely he was not allowed to sit down because of his bad behavior. Then the Old Orange (Cheng Weizheng) was called. Old Orange was no better than Big Height in answering. To explain my judgment, I’ll give the dialog fully as follows:
 
 Old Orange: Ms Web, I’m thinking too hard to utter the answer.
 
