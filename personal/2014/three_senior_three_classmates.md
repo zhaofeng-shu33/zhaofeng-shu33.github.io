@@ -1,5 +1,5 @@
 # Three senior three classmates
-Summer of 2014
+2014/8/11
 
 Dear skeleton spirit
 

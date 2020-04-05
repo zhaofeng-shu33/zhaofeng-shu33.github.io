@@ -1,5 +1,5 @@
 # Choices influenced by environment
-Unknown time during 2014
+2014/2/22
 
 I feel sorry not to reply your email in time. After knowing your social attitude, I find much more for myself to improve. Connected with my recent reading and hearing experience, I plan to open a new topic, about choices determined by large environment.
 

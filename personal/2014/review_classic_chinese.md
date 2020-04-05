@@ -1,5 +1,5 @@
 # Reread on two texts which I learned at Senior One
-2014/11/21
+2014/8/11
 
 Revised in 2020/4/3, using the translation of Mencius from James Legge.
 

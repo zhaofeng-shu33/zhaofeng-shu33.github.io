@@ -1,5 +1,5 @@
 # Meine Deutsche Lehrerin
-Unbekannte Zeit von Jahr 2014
+2014/1/6
 
 „Meine Abiturienten in Klasse eins von Deutsch.“ She addressed us in such way in our last class, during the time of which everyone has a show using German.
 

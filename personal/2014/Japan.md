@@ -1,4 +1,5 @@
 # To Tiffney about Japan
+2014/8/15
 
 Just now I watched by accident CCTV news and the reports of Japanese news was screening.
 

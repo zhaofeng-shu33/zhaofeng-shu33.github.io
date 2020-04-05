@@ -1,7 +1,6 @@
 # Pursuing Dream
+2014/9/3
 ## Background
-Around the summer of 2014, this English essay is first written.
-
 This essay tells the story of one of my classmates at Senior 1 and 2. She is called Snow Darling (张雪）. At Senior 1 we do not split the subjects. At Senior 2, my classmates are a mix of humanity students and science students. Humanity students do not need to have Physics class while science students do not need to have Politics Class.
 
 ## Narrative of Snow Darling

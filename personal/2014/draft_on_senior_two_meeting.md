@@ -1,4 +1,5 @@
 # my English draft on Senior Two mobilization meeting
+2014/8/9
 
 Dear Skeleton spirit,
 
