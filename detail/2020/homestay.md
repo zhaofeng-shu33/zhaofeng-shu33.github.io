@@ -16,3 +16,9 @@ Recently Fei Ma is starving the server cluster of my lab again. He broke out the
 storage limit and asked for 10 GPUs. All were granted by Professor Yang Li. I am very unpleasant
 about such greed behavior. Though the public resources have some residues, we need to take care
 to fairly use it and leave some space for other users as well.
+
+## Wechat backup
+2020/4/7
+
+Recently I tried to backup wechat message from database directly. There are
+some difficulties in getting the password of the database.
