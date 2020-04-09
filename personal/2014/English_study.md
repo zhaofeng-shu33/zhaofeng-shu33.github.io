@@ -1,5 +1,5 @@
 # Keep something about my English study this semester
-Spring semester of year 2014
+2014/5/25
 
 What has happened came beyond one’s comprehension. I know little about English courses in Normal University. But there are some problems I know during my life for non-major students learning English.
 
