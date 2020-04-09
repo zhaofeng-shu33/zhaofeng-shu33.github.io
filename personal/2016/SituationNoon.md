@@ -1,4 +1,5 @@
 ﻿# Situation Noon
+2016/9/21
 
 This will be the final and critical afternoon for my future. The choice of whether rejecting being admitted into Department of Mathematics for graduate study must be made before the result of whether I am admitted by Department of Electronics.
 

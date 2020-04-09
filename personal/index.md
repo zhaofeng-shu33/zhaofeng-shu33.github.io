@@ -56,11 +56,11 @@ For most materials, see [personal-archive.leidenschaft.cn](http://personal-archi
 
 > > [2015_10_3/关于史铁生想念地坛读后感](2015/关于史铁生想念地坛读后感)
 
-> > [2015/on_education](2015/on_education)
+> > [2015_4_30/on_education](2015/on_education)
 
 > > [2015_7_6/UNESCO](2015/UNESCO)
 
-> [2016/计原大实验完成感想](2016/计原大实验完成感想)
+> [2016_12_1/计原大实验完成感想](2016/计原大实验完成感想)
 
 > [2017/statistics](2017/statistics.html)
 
