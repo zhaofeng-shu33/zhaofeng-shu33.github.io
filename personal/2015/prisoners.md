@@ -1,5 +1,6 @@
 # Reading Reaction
 ## 读“铁窗里的最后三月”，from a journal called 瞭望东方
+2015/4/24
 
 It is always interesting to notice the life trajectory of other types of people. Throwing always all the concepts of social class and psychological analysis, what can I see from the short story told indirectly by the reporters?
 

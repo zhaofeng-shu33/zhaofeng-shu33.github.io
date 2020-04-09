@@ -1,4 +1,5 @@
 # On the sandstorm and heavy wind 
+2015/4/15
 
 This evening and night, a heavy sandstorm struck Tsinghua campus. It gave everything exposed directly to atmosphere a thin dust in short time. Such scene naturally reminded students of the old problem—environment protection.
 

@@ -1,4 +1,5 @@
 # On computer games (cultural approach)
+2015/6/7
 
 This is a quite informal email. I wrote it because I tried to summarize my current views on one kind of thing, which had greatly influence on my past, or more generally, on the past of one generation.
 

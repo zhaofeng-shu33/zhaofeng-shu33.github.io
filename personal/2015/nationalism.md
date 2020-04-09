@@ -1,4 +1,5 @@
 # over the view of nationalism
+2015/3/5
 
 But over the view of nationalism, “Necessity of Sinicizing Marxism” is only limited to one aspect of the circulation of western ideas in modern China. Magnifying this aspect and neglecting all of the others are typically the task of political courses. I skipped the latter part of the first course and went directly to library, where I happened to find a selected work of 严复. In our orthodox middle school textbook, this great thinker had only one chance to be remembered by us---through his translation of work of Darwin. But in reality, he studied Confucianism in childhood and stuck to it the whole life. But in his adolescence, he studied a branch of western technology---轮船. Then he went to the Great Britain, where he met 郭嵩焘，who was a diplomat at that time. Both of them observed British society carefully and had much better understanding than their companions at home over the question called “世变之亟”. I only read one essay of Yan over this issue but I can already feel his concern. “尝谓中西之事理，其最不同而断乎不可合者，莫大于中之人好古而忽今，西之人力今以胜古，中之人以一治一乱，一盛一衰为天行人事之自然，西之人以日进无疆既胜不可复衰，既治不可复乱为学术政化之极，则盖我中国圣人之意…
 
