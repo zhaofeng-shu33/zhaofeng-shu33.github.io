@@ -1,4 +1,5 @@
 # My retrospect of this past week
+2014/10/12
 
 Imagine such occasion, when you are taking your major class such as Ordinary Differential Equations and you are sitting at the first row. However, a couple sat beside you and to make things worse, the female side is one of the scarce-number lady group of your class. How do you feel during these whole periods?
 

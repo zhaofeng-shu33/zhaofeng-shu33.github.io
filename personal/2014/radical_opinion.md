@@ -1,4 +1,5 @@
 # Radical opinion summary
+2014/10/26
 
 Dear Denny
 

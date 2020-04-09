@@ -1,4 +1,5 @@
 # Reaction to my scant reading of Iliad
+2014/10/4
 
 Type your English name next time,
 

@@ -1,4 +1,6 @@
 # Abstraction of “Science”
+2014/10/4
+
 Denny:
 
 Thanks for your remind. But I’m sorry I stayed up late again finishing the unfinished essay started yesterday. Before girls, boys tend to exhibit their aspects of strength and I’m of no exception if I really had some strength. Hope next time I will not talk about my “strength”. 

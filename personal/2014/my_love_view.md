@@ -1,5 +1,6 @@
 # My love view 
-## 2014年11月11日
+2014/11/11
+
 Dear Denny,
 
 At the very beginning, you should understand my motive to write about such a subtle topic, which has no relation with the date of boys, which is endowed special meanings by the numbers of this date.

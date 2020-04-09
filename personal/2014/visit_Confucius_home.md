@@ -1,4 +1,4 @@
-# Untitled
+# sketch of my ideas on July 22nd
 2014/7/22
 
 Geting home meaning being cutting off the Internet. Maybe you can check your Email adress using your smart phone.
