@@ -1,4 +1,5 @@
 # My reconsidering about computer science
+2015/9/7
 
 Almost about four and half years ago when I was at Senior One, I happened to seek out one 成绩单 of my grade from the email of my physics teacher (Chen). Using Excel to open this, it is quite easy to visualize every detail. This is about the final exam of autumn semester and your classmate DaNing got third place but the total scores of the first three are indeed very near. Actually I can recall every detail around this unforgettable exam if I would like, (even including th psychological activity then) but this is not the key point here. 
 

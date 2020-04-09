@@ -1,4 +1,5 @@
 # After reading a comic biography of Nietzsche (or Fritz in short)
+2015/9/13
 
 Recently I showed some kind of interest in history book arranged in comic way, several of which are went through page by page and the speed is quite fast. Among them were Leonhard Euler, Friedrich Nietzsche (outstanding persons) and Cartoon History of Taiwan, Propaganda pictures in modern history, and if only picture is considered,  Xi Jinping, the governance of China (in which dozens of personal pictures are contained). Indeed, such tendency is likely to consider such problem like “Picture Effect”, which belongs to specific region of art design. However, specific life stage and era stage and even past life experience puts on different interpretation on life stories read. And Fritz and Euler provide suitable comparison for me to start my interpretation.
 

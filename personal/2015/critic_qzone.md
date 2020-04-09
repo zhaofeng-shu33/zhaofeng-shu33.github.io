@@ -1,4 +1,5 @@
 # Critic on four personal diaries from QQ zone
+2015/7/3
 
 A tells his watch reactions to popular documentary chips. 
 

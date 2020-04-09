@@ -1,4 +1,5 @@
 # summary of graphics programming learning
+2015/9/6
 
 ![](./graphic_programming.png)
 

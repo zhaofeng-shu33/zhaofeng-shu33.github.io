@@ -1,6 +1,5 @@
-On education
-
-（作于2015年春季学期期末复习周左右）
+# On education
+2015/4/30
 
 ## Background
 给黄冬瑜写的邮件

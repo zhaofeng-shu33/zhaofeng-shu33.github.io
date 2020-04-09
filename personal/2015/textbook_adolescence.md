@@ -1,4 +1,5 @@
-Reading Notes on Textbook “Adolescence”
+# Reading Notes on Textbook “Adolescence”
+2015/7/14
 
 This afternoon I quickly looked through this general introductory textbook to this academic area, mainly focusing on the topic “Gender, Sexuality and Romantic Relationships”.
 

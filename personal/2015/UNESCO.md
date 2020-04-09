@@ -1,6 +1,5 @@
 # On our secondary school education and others
-## Background
-应该作于2015年暑假前后
+2015/7/6
 
 论吾人之中学教育及其他
 

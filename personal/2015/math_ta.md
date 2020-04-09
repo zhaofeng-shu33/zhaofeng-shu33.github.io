@@ -1,4 +1,5 @@
 # Do a personal summary about the TA of all my past courses. 
+2015/7/10
 
 Forgive me to talk this problem in such a detail. You can notice in such a discussion, only very simple English is used (normal high school education of English is enough to understand.) So I will not betray my habits of writing serious articles in English.
 In this article, two topics are explored. One is the role of female teacher assistant. The other is the behavior of teacher assistants (助教表现). My motivation is from my own experiences in different college courses. And maybe such reflection can help us in the future if we choose this path to help us financially. 
