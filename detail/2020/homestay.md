@@ -48,3 +48,10 @@ dass sie auf demselben Wege abgeleitet werden kann, auf dem Euler
 den Zusammenhang zwischen B- und Γ-Function gefunden hat.
 
 
+## Obstacle to go to Mount Tai
+2020/4/10
+
+Today my middle school friend told me he did not go to Mount Tai
+due to possible weather problem. My mother was also very opposing.
+I am very unpleasant about such opinions. Any way, I can still go
+there myself if the weather is not so bad.
