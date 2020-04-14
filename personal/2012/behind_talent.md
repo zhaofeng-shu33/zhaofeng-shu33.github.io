@@ -32,7 +32,7 @@ to our spectators. Besides the poor girl, there are also those who
 lose their medals because of controversial actions. There are also
 teams who were defeated in every ball game. There should also be
 a miserable man who quit the race just before the gun was to shoot.
-Behind those exultation there hid so many sorrows beloning to those who are called "the defeated".
+Behind those exultation there hid so many sorrows belonging to those who are called "the defeated".
 
 The sport career is all for them. As far as it goes, every career covers
 a value which is of vital importance. Another old marine biological scientist, Liu Ruiyu passed away a few days since. His unusual contribution is without doubt but the responsibility of career, which
@@ -44,8 +44,3 @@ No medicine can cure all disease. A powerful sentence, a warm memory
 or even a sneaking affection have their effective dates. Even they passed
 the dates, we are supposed to regain them. We are often told "No man is immortal" or "Life is too short" and it's time to bend your mind to real
 importance. I dare to say those truths never fade despite of our suspicion at times.
-
-If you don't know the meaning of the word "thesaurus", how can you ascertain it? Yes, referring to a dictionary is an instinctive choice.
-
-
-
