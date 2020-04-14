@@ -1,10 +1,15 @@
 # 记录个人生活的点滴（长文）
 
 ## Pre Univeristy
-For most materials, see [personal-archive.leidenschaft.cn](http://personal-archive.leidenschaft.cn).
+For archived paper materials, see [personal-archive.leidenschaft.cn](http://personal-archive.leidenschaft.cn).
 
+> 2013
 
-## Whinin University
+> > [2013_2_27/百日誓师告高三同胞书](2013/百日誓师告高三同胞书（赵丰）.html)
+
+> > [2013_8_18/美好与可敬之处](2013/从别人那里发现美好与可敬之处.html)
+
+## Within University
 
 > 2013
 
