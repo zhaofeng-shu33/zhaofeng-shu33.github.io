@@ -65,7 +65,21 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > > [2015_7_6/UNESCO](2015/UNESCO)
 
-> [2016_12_1/计原大实验完成感想](2016/计原大实验完成感想)
+> 2016
+
+> > [2016_1_8/关于中文字长的统计分析和语言学解读](2016/2016/chinese_statistics.html)
+
+> > [2016_1_9/Recently I think experiments weight heavier than theory](2016/2016/experiments_vs_theory.html)
+
+> > [2016_6_17/大三下考试周的感想](2016/2016/exam_week.html)
+
+> > [2016_9_23/工业4.0时代下个人对传统制造业转型的看法](2016/2016/manufacture_change.html)
+
+> > [2016_10_27/二外初学者记单词调查问卷](2016/2016/questionaire.html)
+
+> > [2016_12_1/计算机原理大实验有感](2016/2016/计原大实验完成感想.html)
+
+> > [2016_12_6/读穷有感](2016/2016/读穷有感.html)
 
 > [2017/statistics](2017/statistics.html)
 
