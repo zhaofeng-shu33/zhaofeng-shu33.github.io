@@ -65,7 +65,7 @@ def collect_index(_dir, url_prefix='.'):
             date_obj = datetime(year=_year, month=_month, day=_day)
             date_num = date_num.replace('/', '_').rstrip('\n')
             content =  date_num + '/' + title
-            url = url_prefix + '/' + i.replace('md', 'html')
+            url = i.replace('md', 'html')
             article_list.append([content, url, date_obj])
     article_list.sort(key=lambda x: x[2])
     dic[url_prefix] = article_list
