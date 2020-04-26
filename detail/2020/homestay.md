@@ -55,3 +55,12 @@ Today my middle school friend told me he did not go to Mount Tai
 due to possible weather problem. My mother was also very opposing.
 I am very unpleasant about such opinions. Any way, I can still go
 there myself if the weather is not so bad.
+
+## Teaching English
+2020/4/26
+
+When I am in junior school, the English textbook was from People's Education Press.
+In 2012, new edition was released. It was not a fundamental change. As far as I
+can remember, I went to English assisting club hold by the father of Ding Ning. He was
+a teacher of No.28 middle school. Actually he taught no more than 5 units including
+the international phonetic symbol.
