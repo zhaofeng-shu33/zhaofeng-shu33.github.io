@@ -23,8 +23,6 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > > [2009/踏青（校园小说）](2009/踏青.html)
 
-> > [2009/“轮流当班长”的亮点](2009/轮流当班长的亮点.html)
-
 > > [2009/To Han](2009/涵.html)
 
 > > [2009/学《敬业与乐业》的一堂语文课](2009/敬业与乐业.html)
