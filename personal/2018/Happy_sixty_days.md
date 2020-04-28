@@ -1,6 +1,7 @@
-<center>
 # Happy sixty days
-## 2018年5月1号完成
+2018/5/1
+
+<center>
 
 你说<br/>
 我是清华、男生<br/>

@@ -1,6 +1,7 @@
-<center>
 # Happy ninety days
-## 2018年5月31号完成
+2018/5/31
+
+<center>
 
 本月<br/>
 我讲了三个睡前小故事<br/>

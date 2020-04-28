@@ -95,25 +95,50 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > > [2016_12_6/读穷有感](2016/读穷有感.html)
 
-> [2017/statistics](2017/statistics.html)
+> 2017
+
+> > [2017_7_23/关于三国演义以及现在思想状态的一些思考](2017/three_kingdom.html)
+
+> > [2017_12_26/温暖蓝马甲](2017/温暖蓝马甲.html)
+
+> > [2017_12_31/晒一晒2017年的部分数据](2017/statistics.html)
+
 
 > 2018
 
-> > [2018/元旦志愿、旅游收获](2018/元旦志愿、旅游收获.html)
+> > [2018_1_1/元旦志愿、旅游收获](2018/元旦志愿、旅游收获.html)
 
-> > [2018/去深圳前那些人与事](2018/去深圳前那些人与事.html)
+> > [2018_1_6/去深圳前那些人与事](2018/去深圳前那些人与事.html)
 
-> > [2018/深圳大学城第一次面试](2018/深圳大学城第一次面试.html)
+> > [2018_1_9/深圳大学城第一次面试](2018/深圳大学城第一次面试.html)
 
-> > [2018/返乡公益实践小节](2018/返乡公益实践小节.html)
+> > [2018_2_4/凉州区志愿者协会筑梦者义教服务队交流](2018/volunteer_teaching_communication.html)
 
-> > [2018/遇见](2018/遇见.html)
+> > [2018_2_23/关于四线城市高中请竞赛教练来当地培训的事宜](2018/math_competition.html)
 
-> > [2018/致歉](2018/致歉.html)
+> > [2018_2_24/平面几何讲座实施纲要](2018/geometry_v3.html)
 
-> > [2018/Happy_thirty_days](2018/Happy_thirty_days.html)
+> > [2018_2_24/关于平面几何讲座的调查问卷](2018/questionaire.html)
 
-> > [2018/骗子为什么能得逞](2018/骗子为什么能得逞.html)
+> > [2018_2_24/返乡公益实践小节](2018/返乡公益实践小节.html)
+
+> > [2018_3_25/遇见](2018/遇见.html)
+
+> > [2018_3_28/致歉](2018/致歉.html)
+
+> > [2018_3_30/Happy thirty days](2018/Happy_thirty_days.html)
+
+> > [2018_4_1/骗子为什么能得逞](2018/骗子为什么能得逞.html)
+
+> > [2018_4_5/杨绛故事](2018/杨绛故事.html)
+
+> > [2018_5_1/Happy sixty days](2018/Happy_sixty_days.html)
+
+> > [2018_5_31/Happy ninety days](2018/Happy_ninety_days.html)
+
+> > [2018_6_30/Happy 120 days](2018/Happy_120_days.html)
+
+> > [2018_7_31/Happy 150 days](2018/Happy_150_days.html)
 
 > 2019
 

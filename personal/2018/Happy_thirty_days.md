@@ -1,6 +1,7 @@
-<center>
 # Happy thirty days
-## 2018年3月30号完成
+2018/3/30
+
+<center>
 
 大二那年<br/>
 I say<br/>
