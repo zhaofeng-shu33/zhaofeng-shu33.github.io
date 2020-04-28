@@ -1,5 +1,6 @@
 # Death of Doctor Li
-## 2020/2/6
+2020/2/6
+
 I am shocked when I see so many friends comments on this news. It may be a symbol of the ongoing
 coronavirus disaster in China. Yesterday a Poland friend and I went back from the discussion meetup
 in a Russian restaurant. She asked me whether China blocked some websites and whether people protect.
