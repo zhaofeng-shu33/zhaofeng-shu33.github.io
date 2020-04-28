@@ -142,11 +142,29 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > 2019
 
-> > [2019/2018年度总结](2019/summary.html)
+> > [2019_1_23/2018年末个人总结](2019/summary.html)
 
-> > [2019/我对公益的理解](2019/my_understanding_of_charity.html)
+> > [2019_3_13/星语报名情况](2019/development_of_star_language.html)
 
-> > [2019/星语发展](2019/development_of_star_language.html)
+> > [2019_5_13/我对公益的理解](2019/my_understanding_of_charity.html)
+
+> > [2019_7_21/北滘见闻](2019/北滘见闻.html)
+
+> > [2019_7_23/对专长的反思](2019/对专长的反思.html)
+
+> > [2019_8_15/出世](2019/seek_others.html)
+
+> > [2019_8_16/论GPU之不足与其他](2019/gpu_lack.html)
+
+> > [2019_11_10/Three values of IT](2019/three_values_of_IT.html)
+
+> > [2019_11_24/To Yueyan](2019/email_to_yueyan.html)
+
+> > [2019_11_26/2019秋季学期星语总结会发言稿](2019/2019秋季学期星语总结会发言稿.html)
+
+> > [2019_11_27/2019年末个人总结](2019/summary_end_year.html)
+
+> > [2019_12_2/星语数据统计结果](2019/星语数据统计结果.html)
 
 > 2020
 
