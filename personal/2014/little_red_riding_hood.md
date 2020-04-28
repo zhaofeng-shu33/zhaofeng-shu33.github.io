@@ -1,4 +1,3 @@
-
 # Reaction to "little red riding hood"
 2014/8/11
 

@@ -1,5 +1,5 @@
 # Before the day when the singing competition is held
-2015/8/18
+2014/8/18
 
 Smile:
 

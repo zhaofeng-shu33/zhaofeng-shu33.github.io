@@ -1,5 +1,5 @@
 # Worldly?
-2015/8/4
+2014/8/4
 
 In ancient China, maybe study for imperial examination is a pretty worldly issue for high-spirited persons to talk about(like hermit) because it is targeted at worldly political status. The opposite word against worldly is elegant(adj),which often include writing poems or join literary ceremonies. 吴敬梓 Actually belongs to the latter though he probably intended not. In his novel The Scholars some figures are also attributed to such characters---out of the worldly trend.
 For example, a figure(first appears from chapter eight) called 蘧駪夫, who is referred as belonging to  young distinguished type, often connects with imperial exam with extreme worldly business. On the contrast, his newly-wedded wife, 魯小姐，who is very concerned about the his husbands’ distraction from “proper occupation”, often interrogates him by questions of Confucian morale. 

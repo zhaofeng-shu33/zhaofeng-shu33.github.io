@@ -1,6 +1,5 @@
-
 # To skeleton spirit
-2015/8/8
+2014/8/8
 
 Dear skeleton spirit,
 

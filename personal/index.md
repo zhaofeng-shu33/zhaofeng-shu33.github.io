@@ -1,6 +1,6 @@
 # 记录个人生活的点滴（长文）
 
-## Pre Univeristy
+## Pre University
 For archived paper materials, see [personal-archive.leidenschaft.cn](http://personal-archive.leidenschaft.cn).
 
 > 2013
@@ -49,13 +49,101 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > 2014
 
-> > [2014_9_3/Snow Darling](2014/snow_darling.html)
+> > [2014_1_6/Meine Deutsche Lehrerin](2014/Meine_Deutsche_Lehrerin.html)
 
-> > [2014_9_15/education of junior math teacher](2014/education_of_junior_math_teacher)
+> > [2014_1_9/憶高考前的那些人與事](2014/高考前的那些人与事.html)
 
-> > [2014_5_19/from LuXun to Maxism](2014/from_LuXun_to_Maxism)
+> > [2014_1_11/Before final exams](2014/before_final_exams.html)
 
-> > [2014_11_11/my love view](2014/my_love_view)
+> > [2014_1_15/期末杂感](2014/期末杂感.html)
+
+> > [2014_1_29/像水管工那样的数学人](2014/像水管工那样的数学人.html)
+
+> > [2014_2_1/明史與母校與價值實現隨筆](2014/明史.html)
+
+> > [2014_2_7/雁寄寧：Whimsy想望飛翔在心底](2014/想望飛翔在心底.html)
+
+> > [2014_2_10/做一輩子的事](2014/做一辈子的事.html)
+
+> > [2014_2_22/Choices influenced by environment](2014/choices_env.html)
+
+> > [2014_3_18/开学以来第一次日记与课程回顾](2014/new_spring_semester_first_diary.html)
+
+> > [2014_3_24/升旗有感](2014/升旗有感.html)
+
+> > [2014_4_5/对迟来的实践感想的评论](2014/对张宇迟来的实践感想的评论.html)
+
+> > [2014_4_8/对过往的回顾与大一下旋律的梳理](2014/大一下的旋律.html)
+
+> > [2014_5_19/從魯迅到馬克思](2014/from_LuXun_to_Maxism.html)
+
+> > [2014_5_23/Overview of my humanity study in spring semester](2014/overview_of_humanity_study_spring_semester.html)
+
+> > [2014_5_25/Keep something about my English study this semester](2014/English_study.html)
+
+> > [2014_5_25/工物系的女生](2014/工物系的女生.html)
+
+> > [2014_6_8/高考后的第366天](2014/高考后的第366天.html)
+
+> > [2014_6_12/简谈如风的心理武器](2014/简谈如风的心理武器.html)
+
+> > [2014_6_24/Exam week, got and lost](2014/exam_weak_got_and_lost.html)
+
+> > [2014_7_8/Two times when I had a slip of the tongue ](2014/slip_of_the_tongue.html)
+
+> > [2014_7_22/sketch of my ideas on July 22nd](2014/visit_Confucius_home.html)
+
+> > [2014_8_4/Worldly?](2014/wordly.html)
+
+> > [2014_8_8/To skeleton spirit](2014/missing.html)
+
+> > [2014_8_9/my English draft on Senior Two mobilization meeting](2014/draft_on_senior_two_meeting.html)
+
+> > [2014_8_11/Reaction to "little red riding hood"](2014/little_red_riding_hood.html)
+
+> > [2014_8_11/Three senior three classmates](2014/three_senior_three_classmates.html)
+
+> > [2014_8_11/Reread on two texts which I learned at Senior One](2014/review_classic_chinese.html)
+
+> > [2014_8_14/Evaluation of Literature](2014/evaluation_of_literature.html)
+
+> > [2014_8_15/To Tiffney about Japan](2014/Japan.html)
+
+> > [2014_8_18/Before the day when the singing competition is held](2014/before_singing_competition.html)
+
+> > [2014_8_19/Untitled](2014/oliver_twist.html)
+
+> > [2014_9_3/Pursuing Dream](2014/snow_darling.html)
+
+> > [2014_9_9/Quick sketch of my feelings towards our language disadvantage in 21st century](2014/language_disadvantage.html)
+
+> > [2014_9_13/Thoughts about Mathematical History](2014/mathematical_history.html)
+
+> > [2014_9_15/八年级时您对我的“栽培” ](2014/education_of_junior_math_teacher.html)
+
+> > [2014_9_16/亲爱的学弟学妹们，你们好：](2014/亲爱的学弟学妹们.html)
+
+> > [2014_9_29/To Denny](2014/denny0929.html)
+
+> > [2014_10_4/Abstraction of “Science”](2014/abstraction_of_science.html)
+
+> > [2014_10_4/Reaction to my scant reading of Iliad](2014/Iliad.html)
+
+> > [2014_10_12/My retrospect of this past week](2014/retrospect_past_week.html)
+
+> > [2014_10_19/To Denny](2014/denny1019.html)
+
+> > [2014_10_26/Radical opinion summary](2014/radical_opinion.html)
+
+> > [2014_11_7/Opinions towards political influence on university education](2014/political_influence_uni_edu.html)
+
+> > [2014_11_9/From the value sense](2014/value_sense.html)
+
+> > [2014_11_11/My love view ](2014/my_love_view.html)
+
+> > [2014_11_12/《远方的月亮》读后感](2014/远方的月亮.html)
+
+> > [2014_11_21/To Liu](2014/liu1121.html)
 
 > 2015
 
