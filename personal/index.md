@@ -73,9 +73,23 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > > [2016_6_17/大三下考试周的感想](2016/exam_week.html)
 
+> > [2016_7_8/我对教育技术的认识](2016/我对教育技术的认识.html)
+
+> > [2016_8_4/致孙学长](2016/致孙学长.html)
+
+> > [2016_8_21/致小凯](2016/致小凯.html)
+
+> > [2016_9_3/To SunMeng](2016/ToSunMeng.html)
+
+> > [2016_9_19/Choice of Major](2016/ChoiceOfMajor.html)
+
+> > [2016_9_21/Situation Noon](2016/SituationNoon.html)
+
 > > [2016_9_23/工业4.0时代下个人对传统制造业转型的看法](2016/manufacture_change.html)
 
 > > [2016_10_27/二外初学者记单词调查问卷](2016/questionaire.html)
+
+> > [2016_10_28/数理基科](2016/MathematicPhysicsBases.html)
 
 > > [2016_12_1/计算机原理大实验有感](2016/计原大实验完成感想.html)
 
