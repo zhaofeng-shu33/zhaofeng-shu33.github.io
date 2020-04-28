@@ -50,10 +50,10 @@ def collect_index(_dir, url_prefix='.'):
             continue
         with open(os.path.join(_dir, i)) as f:
             title = f.readline()
-            if title[0] != '#':
+            if title.find('#') < 0:
                 print('invalid title for file {0}'.format(i))
                 continue
-            title = title[1:].lstrip().rstrip('\n')
+            title = title.split('#')[1].lstrip().rstrip('\n')
             date_num = f.readline()
             if date_num.count('/') != 2:
                 print('invalid date for file {0}'.format(i))
