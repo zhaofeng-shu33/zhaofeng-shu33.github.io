@@ -1,6 +1,7 @@
 # on educational policy
-## 论教育决策
 2015/7/7
+
+## 论教育决策
 
 Since I am concentrating on general principle of education, (notice such area is different from personal opinion on current education and imagination about ideal education.), what I learned from Behavioral Social Science provided me a good norm to apply its principles to what happened around me on the area of education. I will not systematically show the principles, with the only intention of analyzing some examples。
 

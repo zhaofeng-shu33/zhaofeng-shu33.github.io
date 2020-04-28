@@ -1,6 +1,7 @@
 # Personal orientation in mathematics
-## Recent thoughts
 2015/5/26
+
+## Recent thoughts
 
 It was a few weeks that I did not write essays in English. Its usage is confined mainly within science study. Hope my degenerated English expressions will not induce your laugh.
 

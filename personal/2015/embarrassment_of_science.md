@@ -1,6 +1,7 @@
 # Embarrassment of Science
-## Talk about 教化
 2015/3/24
+
+## Talk about 教化
 
 I reread the keynote answer to my question about the choice made by 寒春. Scientific research is also a social activity. But except for those direct influences on the material life of ourselves brought about by scientific progress, do you think we really change fundamentally in mind? Below is my shallow observations and thoughts during my short absence from the intellectual center. 
 

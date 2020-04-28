@@ -1,6 +1,7 @@
 # 论个人史学
-## Dwelling on something
 2015/7/17
+
+## Dwelling on something
 
 近期人生哲学有大波动，欲以此文而记之。
 

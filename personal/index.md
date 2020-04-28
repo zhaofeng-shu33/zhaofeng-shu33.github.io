@@ -59,11 +59,101 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > 2015
 
-> > [2015_10_3/关于史铁生想念地坛读后感](2015/关于史铁生想念地坛读后感)
+> > [2015_2_7/A letter to Professor Sun](2015/1984.html)
 
-> > [2015_4_30/on_education](2015/on_education)
+> > [2015_2_8/To Liu](2015/liu0208.html)
 
-> > [2015_7_6/UNESCO](2015/UNESCO)
+> > [2015_3_5/over the view of nationalism](2015/nationalism.html)
+
+> > [2015_3_15 /儒学中“君子疾没世而名不称焉”之现实版本](2015/jump_to_dormitory.html)
+
+> > [2015_3_24/To Denny](2015/denny.html)
+
+> > [2015_3_24/Embarrassment of Science](2015/embarrassment_of_science.html)
+
+> > [2015_3_30/About Complex Analysis](2015/complex_analysis.html)
+
+> > [2015_3_30/分析性质之科目求索](2015/分析性质之科目求索.html)
+
+> > [2015_4_3/由一次在食堂里发生的对话引起的关于科技与伦理关系的问答](2015/科技伦理之辩.html)
+
+> > [2015_4_10/On the final pursuit of Confucianism](2015/pursuit_of_Confucianism.html)
+
+> > [2015_4_15/On the sandstorm and heavy wind ](2015/sandstorm_and_wind.html)
+
+> > [2015_4_24/Reading Reaction](2015/prisoners.html)
+
+> > [2015_4_26/Nepal earthquake](2015/earthquake.html)
+
+> > [2015_4_30/On education](2015/on_education.html)
+
+> > [2015_5_3/再论 A link between college education and high school one](2015/link_of_edu.html)
+
+> > [2015_5_7/on education, new interpretation](2015/edu_new_interpretation.html)
+
+> > [2015_5_16/徭役](2015/徭役.html)
+
+> > [2015_5_26/Personal orientation in mathematics](2015/orientation_in_math.html)
+
+> > [2015_6_1/To Denny](2015/denny0601.html)
+
+> > [2015_6_7/谈读 Research Article](2015/read_research_article.html)
+
+> > [2015_6_7/On computer games (cultural approach)](2015/on_games.html)
+
+> > [2015_6_15/致玺君](2015/致玺君.html)
+
+> > [2015_6_18/Looking back at my progress in science education](2015/science_education.html)
+
+> > [2015_7_3/致冬瑜 Confucianism](2015/summary_Confucianism.html)
+
+> > [2015_7_3/Critic on four personal diaries from QQ zone](2015/critic_qzone.html)
+
+> > [2015_7_6/On our secondary school education and others](2015/UNESCO.html)
+
+> > [2015_7_7/on educational policy](2015/educational_policy.html)
+
+> > [2015_7_10/Do a personal summary about the TA of all my past courses. ](2015/math_ta.html)
+
+> > [2015_7_14/Reading Notes on Textbook “Adolescence”](2015/textbook_adolescence.html)
+
+> > [2015_7_17/论个人史学](2015/personal_history.html)
+
+> > [2015_7_17/大学生视角之个人史学](2015/personal_history_student.html)
+
+> > [2015_7_24/近期思想动态](2015/edu_view_mind.html)
+
+> > [2015_7_24/QQ号疑似被盗记](2015/steal_qq.html)
+
+> > [2015_9_6/summary of graphics programming learning](2015/graphic_programming.html)
+
+> > [2015_9_7/My reconsidering about computer science](2015/reconsider_cs.html)
+
+> > [2015_9_9/论生命观之教育](2015/life_view_edu.html)
+
+> > [2015_9_13/After reading a comic biography of Nietzsche (or Fritz in short)](2015/Nietzsche.html)
+
+> > [2015_9_19/2015年秋季学期初数3.3班班会第一环节素质测评个人陈述记录](2015/class_students.html)
+
+> > [2015_9_21/Miscellaneous ideas and thoughts](2015/on_prose.html)
+
+> > [2015_10_1/我试图用自然语言写一篇读后感，探讨大学生之学业。](2015/student_study.html)
+
+> > [2015_10_3/关于史铁生《想念地坛》读后感](2015/关于史铁生想念地坛读后感.html)
+
+> > [2015_10_6/重读三页高一时日记有感](2015/reliability.html)
+
+> > [2015_11_3/个人文学史兼个人德语文读史回顾](2015/deutsche_literatur.html)
+
+> > [2015_11_3/About Children's Literature](2015/children_literature.html)
+
+> > [2015_11_15/实用技术之转型](2015/useful_tech.html)
+
+> > [2015_11_17/致叶子晏](2015/to_ziyan.html)
+
+> > [2015_11_28/Some ideas sharing](2015/dic_software_idea.html)
+
+> > [2015_12_4/2016 寒假焙烤类食品的外形设计初步实践项目预拟计划书](2015/bake_practice.html)
 
 > 2016
 
@@ -168,6 +258,65 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > 2020
 
-> > [2020_1_16/高三小班](2020/高三小班)
+> > [2020_1_10/蔡主任您好](2020/蔡主任您好.html)
+
+> > [2020_1_16/](2020/高三小班.html)
+
+> > [2020_1_18/物非人非](2020/物非人非.html)
+
+> > [2020_1_19/三位职场女性](2020/三位职场女性.html)
+
+> > [2020_1_21/王瑜](2020/王瑜.html)
+
+> > [2020_1_24/交流会及其他](2020/交流会及其他.html)
+
+> > [2020_1_27/俄罗斯之旅](2020/Russian_visit.html)
+
+> > [2020_2_6/Death of Doctor Li](2020/death_of_Doctor_Li.html)
+
+> > [2020_2_13/begging for money](2020/begging_for_money.html)
+
+> > [2020_2_14/Thoughts on indeterminacy](2020/thoughts_on_indeterminacy.html)
+
+> > [2020_2_14/Russian visit review](2020/Russian_visit_review.html)
+
+> > [2020_2_16/电话卡代理赚钱](2020/earn_money_how_much_operator.html)
+
+> > [2020_2_17/Thoughs on Masks](2020/thoughts_on_masks.html)
+
+> > [2020_2_17/Blocked in WC](2020/Blocked_in_WC.html)
+
+> > [2020_3_5/wuhan2020 thoughts](2020/wuhan2020-thoughts.html)
+
+> > [2020_3_20/To Little Dragon](2020/ToLittleDragon.html)
+
+> > [2020_3_23/过去的书和本子](2020/past_notebooks.html)
+
+> > [2020_3_23/Reading in Lockdown](2020/Reading_in_lockdown.html)
+
+> > [2020_3_24/Fake News](2020/fake_news.html)
+
+> > [2020_3_26/我和大学城图书馆的故事](2020/story_of_utsz_lib.html)
+
+> > [2020_3_26/Missing](2020/missing.html)
+
+> > [2020_3_26/False Landing Place](2020/landing_false_place.html)
+
+> > [2020_3_28/Extension of contingency](2020/extension_of_contingency.html)
+
+> > [2020_3_30/“佛山”之旅](2020/佛山之旅.html)
+
+> > [2020_3_31/生命之旅](2020/life_travel.html)
+
+> > [2020_4_4/同桌的你](2020/WangHan.html)
+
+> > [2020_4_12/東岳游記](2020/MountTaiVisit.html)
+
+> > [2020_4_15/Sex Assault](2020/sex_assault.html)
+
+> > [2020_4_25/Different life and roles](2020/different_life_and_roles.html)
+
+> > [2020_4_26/What happens around me and WangHan after high school](2020/WangHanAfterHighSchool.html)
+
 
 ------
