@@ -23,28 +23,28 @@
 
 > 感想
 
-> > [At the very ending of the temporary tutorial course presided by me](classical_mechanics_intro/At the very ending of the temporary tutorial course presided by me.doc)
+> > [At the very ending of the temporary tutorial course presided by me](classical_mechanics_intro/temporary_tutorial_course.html)
 
-> > [Economics of Education---Career Orientation](classical_mechanics_intro/Economics of Education---Career Orientation.doc)
+> > [Economics of Education---Career Orientation](classical_mechanics_intro/Economics_of_Education_Career_Orientation.html)
 
-> > [On Olympic](classical_mechanics_intro/classical_mechanics_intro/On Olympic.doc)
+> > [On Olympic](classical_mechanics_intro/On_Olympic.html)
 
 
 > 给老师的话
 
-> > [致王化典尊师](classical_mechanics_intro/致王化典尊师.doc)
+> > [致王化典尊师](classical_mechanics_intro/致王化典尊师.html)
 
-> > [致马莉尊师](classical_mechanics_intro/致马莉尊师.doc)
+> > [致马莉尊师](classical_mechanics_intro/致马莉尊师.html)
 
 > 教案相关
 
-> > [前三次课程回顾](classical_mechanics_intro/前三次课程回顾.doc)
+> > [前三次课程回顾](classical_mechanics_intro/前三次课程回顾.html)
 
-> > [经典力学引论结业考试](classical_mechanics_intro/经典力学引论结业考试.doc)
+> > [经典力学引论结业考试](classical_mechanics_intro/classical_mechanics_exam.pdf)
 
-> > [课程实施要求](classical_mechanics_intro/课程实施要求.doc)
+> > [课程实施要求](classical_mechanics_intro/课程实施要求.html)
 
-> > [课程实施纲要修改版](classical_mechanics_intro/课程实施纲要修改版.doc)
+> > [课程实施纲要修改版](classical_mechanics_intro/课程实施纲要修改版.html)
 
 > 作业批改情况
 
