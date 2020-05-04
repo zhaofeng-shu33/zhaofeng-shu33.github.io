@@ -64,3 +64,10 @@ In 2012, new edition was released. It was not a fundamental change. As far as I
 can remember, I went to English assisting club hold by the father of Ding Ning. He was
 a teacher of No.28 middle school. Actually he taught no more than 5 units including
 the international phonetic symbol.
+
+## Ordering mac disk
+2020/5/4
+
+Today I am trying to delete unused files on my Macbook to save some disk space.
+Some materials are not suitable be put on GitHub due to their randomness I think.
+For example, I helped Zhang Xiaobing in 2018/6/28 for a data-processing task, in which I write a matlab script.
