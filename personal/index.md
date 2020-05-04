@@ -473,7 +473,7 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > > [2016_9_23/工业4.0时代下个人对传统制造业转型的看法](2016/manufacture_change.html)
 
-> > [2016_10_27/二外初学者记单词调查问卷](2016/questionaire.html)
+> > [2016_10_27/二外初学者记单词调查问卷](2016/questionnaire.html)
 
 > > [2016_10_28/数理基科](2016/MathematicPhysicsBases.html)
 
