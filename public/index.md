@@ -48,21 +48,21 @@
 
 > 作业批改情况
 
-> > [第一次作业](classical_mechanics_intro/第一次作业.xls)
+> > [第一次作业](classical_mechanics_intro/第一次作业.csv)
 
-> > [第二次作业](classical_mechanics_intro/第二次作业.xls)
+> > [第二次作业](classical_mechanics_intro/第二次作业.csv)
 
-> > [第二三次作业](classical_mechanics_intro/第二三次作业.xls)
+> > [第二三次作业](classical_mechanics_intro/第二三次作业.csv)
 
-> > [第三四次作业](classical_mechanics_intro/第三四次作业.xls)
+> > [第三四次作业](classical_mechanics_intro/第三四次作业.csv)
 
-> > [第四五次作业](classical_mechanics_intro/第四五次作业.xls)
+> > [第四五次作业](classical_mechanics_intro/第四五次作业.csv)
 
-> > [第五六次作业](classical_mechanics_intro/第五六次作业.xls)
+> > [第五六次作业](classical_mechanics_intro/第五六次作业.csv)
 
-> > [第七次作业](classical_mechanics_intro/第七次作业.xls)
+> > [第七次作业](classical_mechanics_intro/第七次作业.csv)
 
-> > [第八次作业](classical_mechanics_intro/第八次作业.xls)
+> > [第八次作业](classical_mechanics_intro/第八次作业.csv)
 
 ------
 
