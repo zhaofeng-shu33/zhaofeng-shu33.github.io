@@ -71,3 +71,15 @@ the international phonetic symbol.
 Today I am trying to delete unused files on my Macbook to save some disk space.
 Some materials are not suitable be put on GitHub due to their randomness I think.
 For example, I helped Zhang Xiaobing in 2018/6/28 for a data-processing task, in which I write a matlab script.
+
+## Rent
+2020/5/5
+Yesterday night I went to eat in a Chinese fast food restaurant, near to the
+place of "Deskmate You". My father told me that this house opened recently
+in August last year, in place of "Love Lotus Saying". Indeed this house is
+owned by my father. I forget the familiar position when I chose this place
+to meet Wang Han about one and half months ago. My father also told me
+that since the renting fee is pre-paid, these can not be reduced during the
+pandemic. Also, the place of No.1 high school is used to build new buildings
+and the business of this food street is influenced to some extent. But still
+it had some bright future when excellent high school students came back.
