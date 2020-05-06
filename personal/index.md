@@ -81,6 +81,8 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > 2011
 
+> > [2011/调味剂与必需品](2011/saucer_and_necessity.html)
+
 > > [2011_1_10/紧张的备考复习](2011/紧张的备考复习.html)
 
 > > [2011_1_27/谈数学公式](2011/谈数学公式.html)
@@ -160,8 +162,6 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 > > [2012/Leaver](2012/leaver.html)
 
 > > [2012/Behind a fleeting blast of talent](2012/behind_talent.html)
-
-> > [2012/调味剂与必须品](2012/saucer_and_necessity.html)
 
 > > [2012/Using dictionaries](2012/Using_Dic.html)
 
