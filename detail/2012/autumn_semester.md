@@ -81,3 +81,24 @@ I feel I will break down when the short vocation came to an end.
 
 At the first class of Monday, I suddenly felt depressed.
 State mind is above all other things...
+
+## Morning Reading
+2012/12/10
+
+I changed my style of morning reading, the new way of which seemed crazy.
+Speed is put for the top priority. As for English, I found more expressions
+you didn't know how to use though you knew the meaning. Change is
+a long process and ought to consist of no anxiety.
+
+## Authority
+2012/12/11
+
+Which part can one hold tightly in mind? piles of words tortured us in
+Chinese class. I often forgot what I was reading and what purpose I hold.
+If one experienced more or read more, could he have more unusual life
+level? Our physics teacher claimed that Wang Weijia became an authority
+of our class, as his answers to physics questions have more persuasion
+than the teacher's.
+
+## 
+2012/12/13
