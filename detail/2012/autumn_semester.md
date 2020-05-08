@@ -102,3 +102,5 @@ than the teacher's.
 
 ## 
 2012/12/13
+
+I, by accident, wandered in front of the library when

@@ -79,6 +79,7 @@ For example, I helped Zhang Xiaobing in 2018/6/28 for a data-processing task, in
 
 ## Rent
 2020/5/5
+
 Yesterday night I went to eat in a Chinese fast food restaurant, near to the
 place of "Deskmate You". My father told me that this house opened recently
 in August last year, in place of "Love Lotus Saying". Indeed this house is
@@ -88,3 +89,8 @@ that since the renting fee is pre-paid, these can not be reduced during the
 pandemic. Also, the place of No.1 high school is used to build new buildings
 and the business of this food street is influenced to some extent. But still
 it had some bright future when excellent high school students came back.
+
+## Group meeting
+2020/5/8
+
+Hi, I am Feng Zhao, third year PhD student. This winter I came to Russia with Fei Ma. We had a winter camp in SanPertergs Polytech University for two weeks. Fei Ma came earlier than me when the virus situation of China was improving. I cam back to China on late Febrary when the situation of Russia and China was quite well. However, there were more than 10,000 confirmed cases each day in Russia and it would be difficult for Chinese to come back. After I came back to China, I stayed at home until now. My hometown is at ShanDong Province. I did some research on Infomation Theory Clustering and some Community Detection problems, guided by Professor Huang and Professor Ye Min.
