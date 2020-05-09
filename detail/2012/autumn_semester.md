@@ -100,7 +100,20 @@ level? Our physics teacher claimed that Wang Weijia became an authority
 of our class, as his answers to physics questions have more persuasion
 than the teacher's.
 
-## 
+## Printing room
 2012/12/13
 
-I, by accident, wandered in front of the library when
+I, by accident, wandered in front of the library when the second
+evening class was to start. The light, on the first floor (note: printing room), which
+was producing our papers continuously, was still on. I pushed,
+with some difficulty, the heavy woody door, walked into the
+machine-echoing room and came up to the maid, who was standing by
+the printing machines, "I come here with the intention of returning
+one yuan for the temporary in-and-out card. By the way, when should I fetch my new applied student card?" I inquired. She, with a rough voice,
+answered directly." One yuan need not have been brought there.
+Your application, I intend, will be met in unison with others'."
+The machine clang nearly submerged her reply. The dim light
+and the uncomfortable smell drove me away when I obtained her reply,
+which was nearly submerged by the machinery clang.
+
+note(2020/5/9): The job at the printing room seems not to belong to official jobs and is provided with very low salary.
