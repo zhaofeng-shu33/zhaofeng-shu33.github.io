@@ -97,7 +97,7 @@ There was a salt marsh that bounded part of the millpond(贮水池），on the e
 
 Franklin小时候读书的环境可不妙：
 
-I was put to a grammar school.However,he scarcely continued  a year when my father, from a view of the expense of a college education ,which having so large a family he could not afford,and the mean living many so educated were after graduation able to obtain,altered his first intention,took me from the grammer school and let me assist him in his bussiness.
+I was put to a grammar school.However,he scarcely continued  a year when my father, from a view of the expense of a college education ,which having so large a family he could not afford,and the mean living many so educated were after graduation able to obtain,altered his first intention,took me from the grammar school and let me assist him in his business.
 
 小时候我们总听到名人少时在艰苦的环境中刻苦学习的故事，但Franklin只是客观叙述他的这一段经历，少了主观的渲染更引起了如风理性的思考：
 客观环境并不能决定一切。
@@ -113,3 +113,13 @@ expense which he could not afford 和 living (that) many people obtain
 having family 逻辑主语是 my father,而 after graduation(原文是 afterward)又被放在了一个割裂系表结构的位置。
 
 第二句大意是说父亲考虑到学费（Franklin 有十几个兄妹）和很多大学生上完还是 mean living，就改变了初衷（让我上大学），让我帮他打点生意。
+
+## 载人飞船
+2013/6/13
+
+ 距离第一次载人飞船发射我们走过了10年。 
+
+## 航天事业
+2013/6/20
+
+ 中国的航天事业又被西方怀疑为军事目的。 
