@@ -94,3 +94,8 @@ it had some bright future when excellent high school students came back.
 2020/5/8
 
 Hi, I am Feng Zhao, third year PhD student. This winter I came to Russia with Fei Ma. We had a winter camp in SanPertergs Polytech University for two weeks. Fei Ma came earlier than me when the virus situation of China was improving. I cam back to China on late Febrary when the situation of Russia and China was quite well. However, there were more than 10,000 confirmed cases each day in Russia and it would be difficult for Chinese to come back. After I came back to China, I stayed at home until now. My hometown is at ShanDong Province. I did some research on Infomation Theory Clustering and some Community Detection problems, guided by Professor Huang and Professor Ye Min.
+
+## Reading in high school
+2020/5/20
+
+我高中三年读书可以大概划分为两个阶段，以高二寒假为分界线。前一个阶段主要是利用比较短暂的寒暑假读一些课外书，当时看了一些关于孔子的通俗读物，五代和宋代的词等。读书一方面是出于兴趣，另一方面也想多积累一些知识。后一个阶段主要是利用零散的时间读书，比如晨读课、晚自习之后的部分时间，这一阶段开始读一些有难度的经典著作，比如大学、中庸、李清照词、辛弃疾词，当时买了一些英语的课外书，从中还读了一些外国名人的演讲，比如马丁·路德·金的“我有一个梦想”。除此之外，比较系统地读的要说《简·爱》这部长篇小说。每天坚持读几页英文，在高三比较紧张的学习环境下还是在高考前看完了。总体来说，第二阶段读的内容一方面是出于提高古文和英文素养，另一方面也是希望能够对课内的学习有所帮助。现在回顾这两个阶段，发现集中时间读书反而效果不如利用零散时间细水长流效果好。第一阶段我读的书印象没有第二阶段深刻了。
