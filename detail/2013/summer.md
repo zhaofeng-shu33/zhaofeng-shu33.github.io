@@ -38,7 +38,7 @@ DongPu has lived four years.It's strange that he never mentioned LiQi.But the ca
 
 欧洲宗教改革后，原来的旧教势力仍十分强大，美国著名人物Franklin回忆他的祖先的文字是这样的：
 
-My obscure ancesters joined early in the Reformation 宗教改革,and
+My obscure ancestors joined early in the Reformation 宗教改革,and
 they continued (to be)Protestants 新教徒 when they were sometimes in danger of trouble on account of their zeal against popery 旧的教皇势力.
 
 They had got an English Bible.(旧的教皇势力只允许拉丁文版的，由于一般人看不懂，所以他们曲解圣经）
