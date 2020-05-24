@@ -23,8 +23,6 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > > [2009/踏青（校园小说）](2009/踏青.html)
 
-> > [2009/To Han](2009/涵.html)
-
 > > [2009/学《敬业与乐业》的一堂语文课](2009/敬业与乐业.html)
 
 > > [2009_3_31/不可以遗忘的](2009/属予作文以记之.html)
@@ -40,8 +38,6 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 > > [2010/写给初中三年的话](2010/写给初中三年的话.html)
 
 > > [2010/斑干部竞选](2010/班干部竞选.html)
-
-> > [2010/樱花树下](2010/樱花树下-sjj.html)
 
 > > [2010/我的全运向前冲](2010/我的全运向前冲.html)
 
@@ -198,8 +194,6 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 > > [2013_7_5/佩伦的志愿](2013/佩伦的志愿.html)
 
 > > [2013_7_8/给冬瑜的未完的信](2013/给冬瑜的未完的信.html)
-
-> > [2013_7_10/济南，艰难一日](2013/王琛玺的济南之行.html)
 
 > > [2013_7_16/you practice first,read my summary second,write down sth. third](2013/一个听力材料，给晓梅.html)
 
