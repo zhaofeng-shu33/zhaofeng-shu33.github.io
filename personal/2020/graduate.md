@@ -20,3 +20,5 @@ At the graduation time, there are only 4 students:
 
 Good luck to those who are exploring new life in new cities!
 
+能够与 8 位小伙伴一起有过一段难忘的经历，在车站话别后，包括我在内的6位深圳的同学还能偶尔一聚，
+但可惜有一位每次都不凑巧，直到毕业季也只是凑了4人局。祝各位在新的城市里探索新的美好生活~
