@@ -12,6 +12,8 @@
 
 > [qzone articles](qzone_blog/index.html)
 
+> [baidu zhidao](baidu-zhidao/index.html)
+
 ------
 
 ## Profile

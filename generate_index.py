@@ -42,8 +42,23 @@ def generate_md_inner(dic):
             st += '> > [%s](%s)\n\n' %(content, url)
     return st
 
-def collect_index(_dir, url_prefix='.', ignore_invalid_date=False):
-    dic = {}
+def print_article_list(article_list):
+    st = ''
+    for item in article_list:
+        content = item[0]
+        url = item[1]
+        st += '* [%s](%s)\n' %(content, url)
+    print(st)
+
+def collect_index_baidu():
+    print('## Answers')
+    article_list = collect_index_inner('baidu-zhidao/answer','answer', '-')
+    print_article_list(article_list)
+    print('\n## Questions')
+    article_list = collect_index_inner('baidu-zhidao/questions','questions', '-')
+    print_article_list(article_list)
+
+def collect_index_inner(_dir, url_prefix='.', date_separator='/', ignore_invalid_date=False):
     article_list = []
     for i in os.listdir(_dir):
         if i.find('.md') < 0:
@@ -55,7 +70,7 @@ def collect_index(_dir, url_prefix='.', ignore_invalid_date=False):
                 continue
             title = title.split('#')[1].lstrip().rstrip('\n')            
             date_num = f.readline()
-            if date_num.count('/') != 2:
+            if date_num.count(date_separator) != 2:
                 if ignore_invalid_date == False:
                     print('invalid date for file {0}'.format(i))
                     continue
@@ -63,9 +78,10 @@ def collect_index(_dir, url_prefix='.', ignore_invalid_date=False):
                     date_invalid = True
             else:
                 date_invalid = False
-            url = i.replace('md', 'html')    
+            url = i.replace('md', 'html')
+            url = url_prefix + '/' + url
             if date_invalid == False:
-                date_list = date_num.split('/')
+                date_list = date_num.split(date_separator)
                 _year = int(date_list[0])
                 _month = int(date_list[1])
                 _day = int(date_list[2].rstrip('\n'))
@@ -75,17 +91,22 @@ def collect_index(_dir, url_prefix='.', ignore_invalid_date=False):
                 _month = 1
                 _day = 1
             date_obj = datetime(year=_year, month=_month, day=_day)
-            date_num = date_num.replace('/', '_').rstrip('\n')
+            date_num = date_num.replace(date_separator, '_').rstrip('\n')
             content =  date_num + '/' + title            
             article_list.append([content, url, date_obj])
     article_list.sort(key=lambda x: x[2])
-    dic[url_prefix] = article_list
+    return article_list
+
+def collect_index(_dir, url_prefix='.', ignore_invalid_date=False):
+    dic = {}    
+    dic[url_prefix] = collect_index_inner(_dir, url_prefix, '/', ignore_invalid_date)
     return dic
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--dir', default='./', help='working dir')
-    parser.add_argument('--task', default='personal_diary', choices=['personal_diary', 'qzone_blog'])
+    parser.add_argument('--task', default='personal_diary',
+        choices=['personal_diary', 'qzone_blog', 'baidu_zhidao'])
     parser.add_argument('--year', default='2016')
     parser.add_argument('--ignore_invalid_date', default=False, const=True, nargs='?')
     args = parser.parse_args()
@@ -97,3 +118,5 @@ if __name__ == '__main__':
         dic = collect_index(args.year, url_prefix=args.year, ignore_invalid_date=args.ignore_invalid_date)
         st = generate_md_inner(dic)
         print(st)
+    elif args.task == 'baidu_zhidao':
+        collect_index_baidu()
