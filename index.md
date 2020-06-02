@@ -37,7 +37,7 @@
 公益虽未见于果，然 有 义工之伙伴，且歌且行～
 
 ## Copyright
-See [](./copyright.html)
+See [copyright](./copyright.html)
 
 -------
 
