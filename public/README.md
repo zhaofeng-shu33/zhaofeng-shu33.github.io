@@ -2,20 +2,20 @@
 
 > 服务器
 
-> > [2018/Deploying_Django_on_Windows_Server](2018/Deploying_Django_on_Windows_Server.html)
+> > [2018/Deploying_Django_on_Windows_Server](2018/Deploying_Django_on_Windows_Server.md)
 
-> > [2018/Deploying_VNC_Server_on_Ubuntu](2018/Deploying_VNC_Server_on_Ubuntu.html)
+> > [2018/Deploying_VNC_Server_on_Ubuntu](2018/Deploying_VNC_Server_on_Ubuntu.md)
 
-> > [2018/Deploying_Wordpress_on_Windows_Server](2018/Deploying_Wordpress_on_Windows_Server.html)
+> > [2018/Deploying_Wordpress_on_Windows_Server](2018/Deploying_Wordpress_on_Windows_Server.md)
 
 
 > 工作站
 
-> > [2018/Installing_HP_driver_on_Ubuntu](2018/Installing_HP_driver_on_Ubuntu.html)
+> > [2018/Installing_HP_driver_on_Ubuntu](2018/Installing_HP_driver_on_Ubuntu.md)
 
-> > [2018/New_workstation_setup](2018/New_workstation_setup.html)
+> > [2018/New_workstation_setup](2018/New_workstation_setup.md)
 
-> > [2018/Build_Miktex_on_Windows](2018/Build_Miktex_on_Windows.html)
+> > [2018/Build_Miktex_on_Windows](2018/Build_Miktex_on_Windows.md)
 
 ------
 
@@ -23,28 +23,28 @@
 
 > 感想
 
-> > [At the very ending of the temporary tutorial course presided by me](classical_mechanics_intro/temporary_tutorial_course.html)
+> > [At the very ending of the temporary tutorial course presided by me](classical_mechanics_intro/temporary_tutorial_course.md)
 
-> > [Economics of Education---Career Orientation](classical_mechanics_intro/Economics_of_Education_Career_Orientation.html)
+> > [Economics of Education---Career Orientation](classical_mechanics_intro/Economics_of_Education_Career_Orientation.md)
 
-> > [On Olympic](classical_mechanics_intro/On_Olympic.html)
+> > [On Olympic](classical_mechanics_intro/On_Olympic.md)
 
 
 > 给老师的话
 
-> > [致王化典尊师](classical_mechanics_intro/致王化典尊师.html)
+> > [致王化典尊师](classical_mechanics_intro/致王化典尊师.md)
 
-> > [致马莉尊师](classical_mechanics_intro/致马莉尊师.html)
+> > [致马莉尊师](classical_mechanics_intro/致马莉尊师.md)
 
 > 教案相关
 
-> > [前三次课程回顾](classical_mechanics_intro/前三次课程回顾.html)
+> > [前三次课程回顾](classical_mechanics_intro/前三次课程回顾.md)
 
 > > [经典力学引论结业考试](classical_mechanics_intro/classical_mechanics_exam.pdf)
 
-> > [课程实施要求](classical_mechanics_intro/课程实施要求.html)
+> > [课程实施要求](classical_mechanics_intro/课程实施要求.md)
 
-> > [课程实施纲要修改版](classical_mechanics_intro/课程实施纲要修改版.html)
+> > [课程实施纲要修改版](classical_mechanics_intro/课程实施纲要修改版.md)
 
 > 作业批改情况
 
@@ -174,8 +174,8 @@
 
 # 社工思考
 
-- [机器人主题支教](2018/robot_teaching.html)
-- [场务人员](2018/other_volunteer.html)
+- [机器人主题支教](2018/robot_teaching.md)
+- [场务人员](2018/other_volunteer.md)
 
 # 其他公开的文件
 [http://file-archive.leidenschaft.cn](http://file-archive.leidenschaft.cn)

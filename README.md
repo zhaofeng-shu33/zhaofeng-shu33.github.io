@@ -4,15 +4,15 @@
 > [616545598@qq.com](mailto:616545598@qq.com) 
 
 
-> [personal](personal/index.html)
+> [personal](personal/)
 
-> [public](public/index.html)
+> [public](public/)
 
-> [moment](detail/index.html)
+> [moment](detail/)
 
 > [qzone articles](qzone_blog/index.html)
 
-> [baidu zhidao](baidu-zhidao/index.html)
+> [baidu zhidao](baidu-zhidao/)
 
 ------
 
@@ -37,7 +37,7 @@
 公益虽未见于果，然 有 义工之伙伴，且歌且行～
 
 ## Copyright
-See [copyright](./copyright.html)
+See [copyright](./copyright.md)
 
 -------
 
