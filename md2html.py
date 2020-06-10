@@ -7,7 +7,7 @@ from argparse import ArgumentParser
 
 # read template.html
 template_st=open('template.html').read()
-def parse_one_md_file(file_name):
+def parse_one_md_file(file_name, replace_md_to_html=False):
     global template_st
     # read input file
     st2=open(file_name, 'rb').read()
@@ -25,6 +25,8 @@ def parse_one_md_file(file_name):
     st = st.replace('{css}', style_sheet_relative_path)
     # relace markdown main file
     st = st.replace('{markdown}', html_str)
+    if replace_md_to_html:
+        st = st.replace('.html', '.md')
     # write to file with file_name with suffix html
     open(file_name.replace('.md','.html'),'wb').write(st.encode('utf-8'))
     print('write %s' % file_name)
@@ -34,7 +36,11 @@ def parse_all_md_files(path):
     for dir_path,dir_name,file_names in os.walk(path):
         for file_name in file_names:
             if(file_name[-3:] == '.md'):
-                parse_one_md_file(os.path.join(dir_path,file_name))
+                if file_name == 'index.md':
+                    replace_md_to_html = True
+                else:
+                    replace_md_to_html = False
+                parse_one_md_file(os.path.join(dir_path,file_name), replace_md_to_html)
     return
 if __name__ == '__main__':
     parser = ArgumentParser(description='Convert a single md file to html or convert the whole dir trees')
