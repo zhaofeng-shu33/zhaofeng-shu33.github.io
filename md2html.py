@@ -28,7 +28,10 @@ def parse_one_md_file(file_name, replace_md_to_html=False):
     if replace_md_to_html:
         st = st.replace('.html', '.md')
     # write to file with file_name with suffix html
-    open(file_name.replace('.md','.html'),'wb').write(st.encode('utf-8'))
+    inner_file_name = file_name
+    if file_name == 'README.md':
+        inner_file_name = 'index.md'
+    open(inner_file_name.replace('.md','.html'),'wb').write(st.encode('utf-8'))
     print('write %s' % file_name)
     return
 
@@ -36,7 +39,7 @@ def parse_all_md_files(path):
     for dir_path,dir_name,file_names in os.walk(path):
         for file_name in file_names:
             if(file_name[-3:] == '.md'):
-                if file_name == 'index.md':
+                if file_name == 'README.md':
                     replace_md_to_html = True
                 else:
                     replace_md_to_html = False

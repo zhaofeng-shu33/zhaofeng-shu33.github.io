@@ -78,7 +78,7 @@ def collect_index_inner(_dir, url_prefix='.', date_separator='/', ignore_invalid
                     date_invalid = True
             else:
                 date_invalid = False
-            url = i.replace('md', 'html')
+            # url = i.replace('md', 'html')
             url = url_prefix + '/' + url
             if date_invalid == False:
                 date_list = date_num.split(date_separator)
