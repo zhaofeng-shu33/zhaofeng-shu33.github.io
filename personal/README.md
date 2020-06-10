@@ -165,8 +165,6 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > > [2012/Is No. 8 better than No.1?](2012/No8VsNo1.md)
 
-> > [2012_1_21/高处不胜寒](2012/高处不胜寒（回忆初中）.md)
-
 > 2013
 
 > > [2013/大富翁](2013/大富翁.md)
