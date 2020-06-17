@@ -608,5 +608,18 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > > [2020_4_26/What happens around me and WangHan after high school](2020/WangHanAfterHighSchool.md)
 
+> > [2020_5_12/Open diary](2020/2020/open_diary.md)
+
+> > [2020_5_15/Thoughts on archive](2020/2020/thoughts_on_archive.md)
+
+> > [2020_5_16/Sister Xiaoyu](2020/2020/xiaoyu.md)
+
+> > [2020_5_20/Recruitment of teachers](2020/2020/recruitment_of_teachers.md)
+
+> > [2020_5_25/关于 OEF 我的想法](2020/2020/oef.md)
+
+> > [2020_5_26/Graduate](2020/2020/graduate.md)
+
+> > [2020_6_14/Personal Pursuit](2020/2020/personal_pursuit.md)
 
 ------
