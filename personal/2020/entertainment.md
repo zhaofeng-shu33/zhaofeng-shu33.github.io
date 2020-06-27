@@ -4,7 +4,7 @@
 Yesterday Xinyi Tong suggested we can have an outside dinner together to celebrate the dragon
 boot festival. This dinner party includes him, me, Fei Ma and Zhiyuan Wu. All are Ph.D. students of Lab 2c.
 
-After some intial discussing, we agreed to eat "hot pot of beaf from Chaoshan". We chose a famous restaurant in the nearby of XiLi Metro Station. The other three came there from
+After some initial discussing, we agreed to eat "hot pot of beaf from Chaoshan". We chose a famous restaurant in the nearby of XiLi Metro Station. The other three came there from
 the campus while I headed towards there from iPark.
 
 We ordered some common recipes, talked causally and waited for the delicious food.
