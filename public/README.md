@@ -150,9 +150,9 @@
 | --------------------------------------------------------  | ------------------------------------------------------------ |
 | [第二章作业](signal_processing/chapter2.pdf)              | [第一章笔记+作业](signal_processing/signal_detection.pdf)    |
 | [第三章作业](signal_processing/chapter3.pdf)              | [波形估计理论](signal_processing/waveform_estimation.pdf)    |
-| [信号检测](signal_processing/signal_detection.pdf)        | [参数估计](signal_processing/signal_estimation.pdf)          |
+| [考试复习题](signal_processing/exam_prepare.pdf)        | [参数估计](signal_processing/signal_estimation.pdf)          |
 | [连续Kalman滤波](signal_processing/kalman_continuous.pdf) | [非参数估计](signal_processing/non-parametric_estimation.pdf)|
-| [考试复习题](signal_processing/exam_prepare.pdf)          | None                                                         |
+
 
 # 社工思考
 
