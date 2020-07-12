@@ -10,7 +10,8 @@
 
 ## 发展--科研与产业
 <!-- 国内外现状 -->
-在智慧医疗流行以前，即有尝试利用仿生机器人与心智障碍的孩子进行交互[6]。 但这些机器人只能
+在智慧医疗流行以前，
+<!-- Wizard of Oz method tells us that we can remote control the robot to interact with children. --> 即有尝试利用仿生机器人与心智障碍的孩子进行交互[6]。 但这些机器人只能
 基于特定的规则与儿童进行交互，为克服这一困难，研究者开始利用人工智能技术设计一些智能的
 算法，能够达到自动捕捉儿童的 affective state 并做出反应[7]。这方面的研究需要多维度
 的数据才能取得较好的效果。也有研究者仅针对眼动数据探讨自闭症谱系障碍倾向预测的准确性的问题
@@ -44,4 +45,5 @@ https://www.hotbak.net/key/苏震巍从盛泽走向世界的精英.html -->
 <!--
 Not cited articles:
 1. Benni robot: https://www.sltrib.com/news/education/2018/07/20/meet-benni-robot-created/
+2. actually retelling of story of 2018 journal: https://cordis.europa.eu/article/id/123847-teaching-robots-how-to-interact-with-children-with-autism/de
 -->
