@@ -7,7 +7,10 @@
 
 ## 发展--科研与产业
 <!-- 国内外现状 -->
-在智慧医疗的大背景下，将人工智能技术用于发现、诊断与干预自闭症这一领域几乎是创业公司与科研机构同时开始关注的。2019年即有清华大学的课题组从事“基于机器学习和眼动数据的自闭症谱系障碍倾向预测”等相关领域的研究[1]。在创业领域，也有公司为自闭症儿童设计机器人[3]。
+在智慧医疗流行以前，国内即有尝试利用仿生机器人与心智障碍的孩子进行交互[6]。 但由于
+
+在智慧医疗的大背景下，将人工智能技术用于发现、诊断与干预自闭症这一领域几乎是创业公司与科研机构同时开始关注的。2019年即有清华大学的课题组从事“基于机器学习和眼动数据的自闭症谱系障碍倾向预测”等相关领域的研究[1]。在创业领域，也有公司为自闭症儿童设计机器人[3]
+或者专门的诊断设备 [5]。
 
 ## 批评的声音
 针对智慧医疗能否成为自闭症治疗的稻草，有分析师指出现阶段的AI技术难以实现个性化的定制，可能在实际使用中会大打折扣 [4]。
@@ -19,9 +22,21 @@
 
 ## 参考资料
 1. 基于机器学习和眼动数据的自闭症谱系障碍倾向预测，2019, 清华大学硕士学位论文， 林弋琪、彭凯平
+<!-- I knew 林弋琪 since we are in the same campus. We invited her to give a talk about her thesis to autism volunteers in University Town of Shenzhen.  -->
 2. 动脉网：AI诊断、数字康复治疗、陪伴机器人……自闭症市场能否走出供求困境 https://www.jiqizhixin.com/articles/2020-04-02-2
+<!-- this article focuses more on capitcal investment.-->
 3. 微软科技 科技予力众生，尽在 Ignite human of IT https://www.sohu.com/na/354344618_181341
 <!-- this person 苏震巍 is MVP of Microsoft, he talked this topic on many conferences， to see more details about this person, please see 
 https://www.hotbak.net/key/苏震巍从盛泽走向世界的精英.html -->
 4. 硅谷洞察 “来自星星”的机器人并不是自闭症儿童的“救命稻草” http://www.svinsight.com/post.html?id=87
+<!-- negative view on this area -->
 5. Cognoa: https://www.forbes.com/sites/cognitiveworld/2020/03/19/can-ai-help-with-autism-diagnosis/
+<!-- necessary: waiting line in USA is long for diagnosis of ASD (autism spectral disorder). advantage of cognoa is that it's tring to develop a device which is approved by FDA. -->
+6. Kaspar: https://www.herts.ac.uk/kaspar/the-social-robot
+<!-- a pioneer work on robot therapy-->
+
+
+<!--
+Not cited articles:
+1. Benni robot: https://www.sltrib.com/news/education/2018/07/20/meet-benni-robot-created/
+-->
