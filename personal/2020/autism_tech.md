@@ -7,9 +7,11 @@
 
 ## 发展--科研与产业
 <!-- 国内外现状 -->
-在智慧医疗流行以前，国内即有尝试利用仿生机器人与心智障碍的孩子进行交互[6]。 但由于
-
-在智慧医疗的大背景下，将人工智能技术用于发现、诊断与干预自闭症这一领域几乎是创业公司与科研机构同时开始关注的。2019年即有清华大学的课题组从事“基于机器学习和眼动数据的自闭症谱系障碍倾向预测”等相关领域的研究[1]。在创业领域，也有公司为自闭症儿童设计机器人[3]
+在智慧医疗流行以前，即有尝试利用仿生机器人与心智障碍的孩子进行交互[6]。 但这些机器人只能
+基于特定的规则与儿童进行交互，为克服这一困难，研究者开始利用人工智能技术设计一些智能的
+算法，能够达到自动捕捉儿童的 affective state 并做出反应[7]。这方面的研究需要多维度
+的数据才能取得较好的效果。也有研究者仅针对眼动数据探讨自闭症谱系障碍倾向预测的准确性的问题
+[1]。除了科学研究，在创业领域，也有公司为自闭症儿童设计机器人[3]
 或者专门的诊断设备 [5]。
 
 ## 批评的声音
@@ -34,7 +36,7 @@ https://www.hotbak.net/key/苏震巍从盛泽走向世界的精英.html -->
 <!-- necessary: waiting line in USA is long for diagnosis of ASD (autism spectral disorder). advantage of cognoa is that it's tring to develop a device which is approved by FDA. -->
 6. Kaspar: https://www.herts.ac.uk/kaspar/the-social-robot
 <!-- a pioneer work on robot therapy-->
-
+7. Rudovic, Ognjen, et al. "Personalized machine learning for robot perception of affect and engagement in autism therapy." Science Robotics 3.19 (2018).
 
 <!--
 Not cited articles:
