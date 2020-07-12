@@ -10,6 +10,7 @@
 在智慧医疗的大背景下，将人工智能技术用于发现、诊断与干预自闭症这一领域几乎是创业公司与科研机构同时开始关注的。2019年即有清华大学的课题组从事“基于机器学习和眼动数据的自闭症谱系障碍倾向预测”等相关领域的研究[1]。在创业领域，也有公司为自闭症儿童设计机器人[3]。
 
 ## 批评的声音
+针对智慧医疗能否成为自闭症治疗的稻草，有分析师指出现阶段的AI技术难以实现个性化的定制，可能在实际使用中会大打折扣 [4]。
 
 ## 结论
 现代科技包罗万象，除近两年新兴的智慧医疗外，移动APP、相关领域新兴的药物等也有可能对自闭症
@@ -17,6 +18,10 @@
 特殊教育。
 
 ## 参考资料
-1 基于机器学习和眼动数据的自闭症谱系障碍倾向预测，2019, 清华大学硕士学位论文， 林弋琪、彭凯平
-2 AI诊断、数字康复治疗、陪伴机器人……自闭症市场能否走出供求困境 https://www.jiqizhixin.com/articles/2020-04-02-2
-3 微软科技 科技予力众生，尽在 Ignite human of IT https://www.sohu.com/na/354344618_181341
+1. 基于机器学习和眼动数据的自闭症谱系障碍倾向预测，2019, 清华大学硕士学位论文， 林弋琪、彭凯平
+2. 动脉网：AI诊断、数字康复治疗、陪伴机器人……自闭症市场能否走出供求困境 https://www.jiqizhixin.com/articles/2020-04-02-2
+3. 微软科技 科技予力众生，尽在 Ignite human of IT https://www.sohu.com/na/354344618_181341
+<!-- this person 苏震巍 is MVP of Microsoft, he talked this topic on many conferences， to see more details about this person, please see 
+https://www.hotbak.net/key/苏震巍从盛泽走向世界的精英.html -->
+4. 硅谷洞察 “来自星星”的机器人并不是自闭症儿童的“救命稻草” http://www.svinsight.com/post.html?id=87
+5. Cognoa: https://www.forbes.com/sites/cognitiveworld/2020/03/19/can-ai-help-with-autism-diagnosis/
