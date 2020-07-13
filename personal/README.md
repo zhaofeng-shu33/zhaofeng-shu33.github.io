@@ -622,4 +622,28 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > > [2020_6_14/Personal Pursuit](2020/personal_pursuit.md)
 
+> > [2020_6_26/Playing mahjong](2020/2020/entertainment.md)
+
+> > [2020_6_27/Visit of Nanshan Museum](2020/2020/shenzhen_history.md)
+
+> > [2020_6_28/House moving](2020/2020/house-moving.md)
+
+> > [2020_6_29/Professor Yang](2020/2020/professor_yang.md)
+
+> > [2020_6_30/Chinese GSOC](2020/2020/chinese_gsoc.md)
+
+> > [2020_7_1/Seek jobs](2020/2020/seek_jobs.md)
+
+> > [2020_7_6/Entering school](2020/2020/entering_school.md)
+
+> > [2020_7_7/Gaokao](2020/2020/gaokao.md)
+
+> > [2020_7_10/How to resist seduction](2020/2020/how_to_resist_seduction.md)
+
+> > [2020_7_11/Birthday](2020/2020/birthday.md)
+
+> > [2020_7_12/智慧医疗能否救得了自闭症儿童](2020/2020/autism_tech.md)
+
+> > [2020_7_13/Celebration of graduation](2020/2020/celebration_of_graduation.md)
+
 ------

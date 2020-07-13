@@ -13,7 +13,7 @@ master students. As the oldest study sister Rui Ma said, "I think the hardest
 part of phd process is overcoming the fear of your heart." Xiangxiang Xu
 is more out-going as he may stay at the University Town for more time.
 
-Xinyu Liu rarely appeared at the lab but this time he came and he was the only one
+Xinyu Liu rarely appeared at the lab but this time he came and he was the only
 graduated student on spot. There is some technical problems when the joint meeting
 is going but almost every participant was devoted to the meeting and it was not a
 bad ending for the nine students, I think.

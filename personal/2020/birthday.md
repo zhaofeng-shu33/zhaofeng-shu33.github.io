@@ -14,6 +14,39 @@ in profession and social life. I thought it was different.  When we parted, Yang
 me she had reached the graduate goal and I suddenly knew the reason why Yang did not
 talk much about paper any more.
 
+So what Yang Bai and I really talked about? As Yang Bai said, there may be some
+treasure in this talking since it was between two senior Tsinghua students.
+She said: Nowadays, Internet celebrity ("Web Red" in Chinese) is a popular trend in popular culture and there are many ways to create a new "Web Red". For example, we can record this
+kind of talking and make it online. I think there may be some different when we know there
+is a recording. Some opinions will be restricted for example.
+
+YB: I had not so good relationship with my roommate. She had stayed in USA for almost two years
+and now I finished the time of one-person-dormitory. The problem is that she takes it
+for granted that she could ask me to do some convenience for her.
+
+I scanned the chat history Yang Bai sent me and brought the first example to the eating table.
+
+me: You meant, for example, she asked you to put on some of her bedding clothing before she actually
+returned to university?
+
+YB: Indeed, it was an unpleasant thing but I did. I think we are different types and keeping "face friendship" is enough. She sometimes told lies that she did not have boyfriend but actually she had.
+
+me: So you did not like people who did not tell the truth. Maybe that is the reason why you did not
+like Fei Ma as well. Fei Ma is a little bit inconsistent in some trivial matters but I think he did
+nothing wrong in big matters.
+
+YB: Maybe. Actually I met a lot of people in the company. And I did not like some styles of them.
+There is one trainee who is seducing some ideas from nearby engineers. Even the boss had given some
+help to her I think. I think her identification is inferior to her behavior. Winning popularity mainly
+by establishing relationship.
+
+me: Probably.
+
+I thought of the trainee Ruhui Shen, in my lab. What Yang Bai described had some similarity with her.
+
+YB: Another unpleasant thing is some gender bias I think. You know in AI lab, there are very few female
+engineers.
+
 Indeed, we behave differently in different situations. When the biggest pressure
 is removed, you can think more about spiritual pursuit but for other students,
 it still needs a hard balance between life and interests.
