@@ -11,3 +11,9 @@ can't do such thing any more.
 Reunion with partial members of 2018 summer volunteer teaching students
 since Shaoping is going to leave the campus tommorrow.
 ![](./images/group_member.jpg)
+
+## Climbing
+2020/7/15
+
+This is the second time I went to TangLang Mountain with my roommate, Pengyang Zhao.
+Usually I went climbing once a time every weak.
