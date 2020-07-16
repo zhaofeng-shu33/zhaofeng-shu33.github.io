@@ -17,3 +17,13 @@ since Shaoping is going to leave the campus tommorrow.
 
 This is the second time I went to TangLang Mountain with my roommate, Pengyang Zhao.
 Usually I went climbing once a time every weak.
+
+## Poem
+2020/7/16
+
+When I went to iPark this morning, a poem flowed to my mind:
+
+曾幻年来事非空
+笔底飞鸿已无踪
+春风杨柳花开日
+粉面桃花人不同
