@@ -47,6 +47,14 @@ I thought of the trainee Ruhui Shen, in my lab. What Yang Bai described had some
 YB: Another unpleasant thing is some gender bias I think. You know in AI lab, there are very few female
 engineers.
 
+Bai also talked about other unpleasant things she saw and heard.
+For example, she disliked those male engineers talking about women
+as goods. Recently there is a really bad news on one engineer of Alibaba,
+who did unpleasant things to "recruit" some lady unofficially using his high salary. 
+
+YB: They think it is easy to attract females as long as they are rich. I am
+very disgusted about such attitude.
+
 Indeed, we behave differently in different situations. When the biggest pressure
 is removed, you can think more about spiritual pursuit but for other students,
 it still needs a hard balance between life and interests.
