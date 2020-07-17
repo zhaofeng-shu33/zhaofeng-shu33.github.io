@@ -622,28 +622,38 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > > [2020_6_14/Personal Pursuit](2020/personal_pursuit.md)
 
-> > [2020_6_26/Playing mahjong](2020/2020/entertainment.md)
+> > [2020_6_17/答闻兄](2020/reply_to_wen.md)
 
-> > [2020_6_27/Visit of Nanshan Museum](2020/2020/shenzhen_history.md)
+> > [2020_6_20/再答闻兄](2020/reply_againt_to_wen.md)
 
-> > [2020_6_28/House moving](2020/2020/house-moving.md)
+> > [2020_6_24/Diary of Fangfang](2020/diary_of_fangfang.md)
 
-> > [2020_6_29/Professor Yang](2020/2020/professor_yang.md)
+> > [2020_6_26/Playing mahjong](2020/entertainment.md)
 
-> > [2020_6_30/Chinese GSOC](2020/2020/chinese_gsoc.md)
+> > [2020_6_27/Visit of Nanshan Museum](2020/shenzhen_history.md)
 
-> > [2020_7_1/Seek jobs](2020/2020/seek_jobs.md)
+> > [2020_6_28/House moving](2020/house-moving.md)
 
-> > [2020_7_6/Entering school](2020/2020/entering_school.md)
+> > [2020_6_29/Professor Yang](2020/professor_yang.md)
 
-> > [2020_7_7/Gaokao](2020/2020/gaokao.md)
+> > [2020_6_30/Chinese GSOC](2020/chinese_gsoc.md)
 
-> > [2020_7_10/How to resist seduction](2020/2020/how_to_resist_seduction.md)
+> > [2020_7_1/Seek jobs](2020/seek_jobs.md)
 
-> > [2020_7_11/Birthday](2020/2020/birthday.md)
+> > [2020_7_6/Entering school](2020/entering_school.md)
 
-> > [2020_7_12/智慧医疗能否救得了自闭症儿童](2020/2020/autism_tech.md)
+> > [2020_7_7/Gaokao](2020/gaokao.md)
 
-> > [2020_7_13/Celebration of graduation](2020/2020/celebration_of_graduation.md)
+> > [2020_7_10/How to resist seduction](2020/how_to_resist_seduction.md)
+
+> > [2020_7_11/Birthday](2020/birthday.md)
+
+> > [2020_7_12/智慧医疗能否救得了自闭症儿童](2020/autism_tech.md)
+
+> > [2020_7_13/Celebration of graduation](2020/celebration_of_graduation.md)
+
+> > [2020_7_15/Incident of travel](2020/incident_of_travel.md)
+
+> > [2020_7_17/Prediction becomes true](2020/prediction_become_true.md)
 
 ------

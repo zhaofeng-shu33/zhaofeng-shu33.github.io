@@ -38,7 +38,7 @@ def generate_md_inner(dic):
         st += '> ' + k + '\n\n'
         for i in v:
             content = i[0]
-            url = k + '/' + i[1]
+            url = i[1]
             st += '> > [%s](%s)\n\n' %(content, url)
     return st
 
