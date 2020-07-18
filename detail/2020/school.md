@@ -9,7 +9,7 @@ can't do such thing any more.
 2020/5/26
 
 Reunion with partial members of 2018 summer volunteer teaching students
-since Shaoping is going to leave the campus tommorrow.
+since Shaoping is going to leave the campus tomorrow.
 ![](./images/group_member.jpg)
 
 ## Climbing
