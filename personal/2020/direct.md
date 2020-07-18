@@ -163,3 +163,21 @@ misunderstanding and bring the mutual relationship to a new level.
 I even can remember the same meaning in other languages I had tried to keep
 up with: Ich liebe dich in German; J'adore tu in French; Я люблю тебя in Russian; 私はあなたを好きです　in Japanese. But I did not think any
 necessity to use foreign language. Every dialog is in Chinese.
+
+Yang Bai was also direct. Maybe it benefits from the several minutes
+she could form a reply. She told me she would consider
+my request sincerely but there was some other trouble she was facing now.
+The most urgent is coming from her hometown and there is some bad news.
+There may be also some unpleasant things in the company.
+I accepted her decision and expressed some admiration for her firm attitude
+to troubles. Initially I thought she would not accept my flowers but to
+my surprise, she finally accepted it and expressed grand thankfulness to my
+kind.
+
+"You know. My mother told me the tragedy just this morning and your phone call
+brought me to reality." She said.
+
+"Take care of your tough affair first." I said.
+
+The dialog lasted only for a short minutes. Though no intense reverting
+is promised, I think there is some possibility to still keep original relationship before 7/11 night for a while.
