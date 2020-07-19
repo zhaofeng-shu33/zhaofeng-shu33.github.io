@@ -34,7 +34,7 @@
 1. 基于机器学习和眼动数据的自闭症谱系障碍倾向预测，2019, 清华大学硕士学位论文， 林弋琪、彭凯平
 <!-- I knew 林弋琪 since we are in the same campus. We invited her to give a talk about her thesis to autism volunteers in University Town of Shenzhen.  -->
 2. 动脉网：AI诊断、数字康复治疗、陪伴机器人……自闭症市场能否走出供求困境 https://www.jiqizhixin.com/articles/2020-04-02-2
-<!-- this article focuses more on capitcal investment.-->
+<!-- this article focuses more on capital investment.-->
 3. 微软科技 科技予力众生，尽在 Ignite human of IT, 2019/11 https://www.sohu.com/na/354344618_181341
 <!-- this person 苏震巍 is MVP of Microsoft, he talked this topic on many conferences， to see more details about this person, please see 
 https://www.hotbak.net/key/苏震巍从盛泽走向世界的精英.html -->
