@@ -12,6 +12,11 @@ Reunion with partial members of 2018 summer volunteer teaching students
 since Shaoping is going to leave the campus tomorrow.
 ![](./images/group_member.jpg)
 
+## Eating with lab members
+
+![](./images/reunion1.jpg)
+![](./images/reunion2.jpg)
+
 ## Climbing
 2020/7/15
 
@@ -27,3 +32,8 @@ When I went to iPark this morning, a poem flowed to my mind:
 笔底飞鸿已无踪
 春风杨柳花开日
 粉面桃花人不同
+
+## Eating with lab members
+2020/7/22
+
+![](./images/reunion2.jpg)
