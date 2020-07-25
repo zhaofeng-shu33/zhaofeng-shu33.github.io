@@ -11,6 +11,22 @@
 
 
 ## 发展--科研与产业
+### 早期诊断
+自闭症和其他精神类的表现比较相似，从而延误了最佳干预的时期。
+传统的诊断方法主要是通过具有丰富经验的专家收集各方面的信息以及对孩子的观察做出评估报告,
+耗时比较长 [10 页3]。
+
+近年来，研究者尝试利用人工智能技术做自闭症的早期诊断，不断有新的突破。
+
+有研究者仅针对眼动数据探讨自闭症谱系障碍倾向预测的准确性的问题
+[1]。在实验条件下能达到70%以上的准确率。
+
+另一方面，随着深度学习技术的发展，通过分析大脑的人脑数据可以在某种程度上预测自闭症 [9]，
+在特定的实验环境下达到 85% 的准确率。
+
+以上的例子仅用到了单一的数据源作为诊断的依据，
+
+### 辅助干预
 <!-- 国内外现状 -->
 在智慧医疗流行以前，
 <!-- Wizard of Oz method tells us that we can remote control the robot to interact with children. --> 即有尝试利用仿生机器人与心智障碍的孩子进行交互[6]。 但这些机器人只能
@@ -22,11 +38,8 @@
 
 为克服这一困难，研究者开始利用人工智能技术设计一些智能的
 算法，能够达到自动捕捉儿童的 affective state 并做出反应[7]。这方面的研究需要多维度
-的数据才能取得较好的效果。也有研究者仅针对眼动数据探讨自闭症谱系障碍倾向预测的准确性的问题
-[1]。在实验条件下能达到70%以上的准确率。除了科学研究，在创业领域，也有公司为自闭症儿童设计机器人[3]
+的数据才能取得较好的效果。除了科学研究，在创业领域，也有公司为自闭症儿童设计机器人[3]
 或者专门的诊断设备 [5]。
-
-另一方面，随着深度学习技术的发展，通过分析大脑的人脑数据可以在某种程度上预测自闭症 [9]。
 
 ## 批评的声音
 针对智慧医疗能否成为自闭症治疗的稻草，有分析师指出现阶段的AI技术难以实现个性化的定制，可能在实际使用中会大打折扣 [4]。
@@ -54,11 +67,18 @@ the introduction webpage -->
 <!-- a pioneer work on robot therapy-->
 7. Rudovic, Ognjen, et al. "Personalized machine learning for robot perception of affect and engagement in autism therapy." Science Robotics 3.19 (2018).
 8. Autismus-Therapie, 2008: https://www.spiegel.de/wissenschaft/mensch/autismus-therapie-roboter-nimmt-angst-vor-menschen-a-569595.html
-9. Yahata, Noriaki, et al. "A small number of abnormal brain connections predicts adult autism spectrum disorder." Nature communications 7.1 (2016): 1-12.
 <!-- Spiegel is a reliable source I think.-->
+9. Yahata, Noriaki, et al. "A small number of abnormal brain connections predicts adult autism spectrum disorder." Nature communications 7.1 (2016): 1-12.
+10. Autism Speaks 100 Day Kit, 2019, https://www.autismspeaks.org/tool-kit/100-day-kit-young-children
+<!-- the translation of the first chapter is available: https://oef.org.cn/autism-book/ -->
+11. Jain, Shomik, et al. "Modeling engagement in long-term, in-home socially assistive robot interventions for children with autism spectrum disorders." Science Robotics 5.39 (2020).
+<!-- this journal article is introduced in Deutsche Sprache Nachricht:
+https://www.heise.de/hintergrund/KI-Hilfe-fuer-autistische-Kinder-4670622.html -->
 <!--
 Not cited articles:
 1. Benni robot: https://www.sltrib.com/news/education/2018/07/20/meet-benni-robot-created/
 2. actually retelling of story of 2018 journal: 2018 August, https://cordis.europa.eu/article/id/123847-teaching-robots-how-to-interact-with-children-with-autism/de
 3. 2016/4 人工知能（ＡＩ）で自閉症判定　専門医診断と８割一致, https://www.sankei.com/life/news/160414/lif1604140028-n1.html, referred by http://wap.sciencenet.cn/blog-310774-970264.html The original paper is published on the same day: https://www.nature.com/articles/ncomms11254
+4. a data science competition on using multi-modal data to improve
+the prediction accuracy: 2018, https://paris-saclay-cds.github.io/autism_challenge/
 -->
