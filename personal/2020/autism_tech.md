@@ -38,7 +38,8 @@
 但随着人工智能技术的进步，研究者不再满足于设计简单的机器人。他们利用人工智能技术设计一些智能的算法，能够达到自动捕捉儿童的 affective state 并做出反应 [7]，但这项研究局限于实验室条件。2020年有一篇研究论文尝试在家庭环境下在1个月左右的时间段内测试智能机器人的交互能力。
 并且，这个机器人具有自我学习的能力 [11]。
 总体说来，这方面的研究需要多维度
-的数据才能取得较好的效果。除了科学研究，在创业领域，也有公司为自闭症儿童设计机器人[3]
+的数据才能取得较好的效果。除了科学研究，在创业领域，也有公司为自闭症儿童设计机器人[3]、
+辅助治疗的App [14]
 或者专门的诊断设备 [5]。
 
 ## 支持的声音
@@ -82,8 +83,8 @@ the introduction webpage -->
 11. Jain, Shomik, et al. "Modeling engagement in long-term, in-home socially assistive robot interventions for children with autism spectrum disorders." Science Robotics 5.39 (2020).
 12. KI-Hilfe für autistische Kinder, Technology Review, 2020 Feb, https://www.heise.de/hintergrund/KI-Hilfe-fuer-autistische-Kinder-4670622.html
 13. https://www.heise.de/forum/p-36210627/
-<!-- this journal article is introduced in Deutsche Sprache Nachricht:
-https://www.heise.de/hintergrund/KI-Hilfe-fuer-autistische-Kinder-4670622.html -->
+14. http://www.impute.co.jp/jp/health_care
+<!-- It sounds not reliable for the product of this company-->
 <!--
 Not cited articles:
 1. Benni robot: https://www.sltrib.com/news/education/2018/07/20/meet-benni-robot-created/
