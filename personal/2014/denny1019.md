@@ -3,7 +3,7 @@
 
 Dear Denny:
 
-Glad to receive your short reply so that I can continue this email.  Maybe I can use a term  “empiricism” to summary your description. I know it is never accurate, since your humor and liveliness contradicted with any archaic theory, which impressed me a lot.
+Glad to receive your short reply so that I can continue this email.  Maybe I can use a term  “empiricism” to summarize your description. I know it is never accurate, since your humor and liveliness contradicted with any archaic theory, which impressed me a lot.
 
 This time, I tried to arrange the structure differently and abandoned my theory-based writing style. Since you express your world view generally, you’d better omit the third Chinese essay of this email, which will share the analogous tone with all my preceding email.
 
@@ -22,7 +22,7 @@ I changed slowly in my first semester at THU, which is fully exhibited by the fo
 2013 12 12 从机房出来的无热情引起的回顾
 
 Another remark should be supplemented is that I am loyal and devoted to Red Education at that time.  Since I lived so narrowly in the past three years, I naturally hold the military and political education last September as absolute truth at that time. The first time the 党建辅导员 argued us to join the party, I actively replied her by a sincere application form and took corresponding course called 党课. When I suddenly found my unfamiliarity with 党章 at the exam, I felt a little guilty. 
-Fundamental change happened during my second semester and this summer vacation, which is the indirect result of what courses I take, what association I join into.
+Fundamental change happened during my second semester and this summer vacation, which is the indirect result of courses I take and associations I join into.
 
 A typical writing goes like follows:
 
