@@ -30,19 +30,27 @@
 <!-- 国内外现状 -->
 在智慧医疗流行以前，
 <!-- Wizard of Oz method tells us that we can remote control the robot to interact with children. --> 即有尝试利用仿生机器人与心智障碍的孩子进行交互[6]。 但这些机器人只能
-基于特定的规则与儿童进行交互。
-
-考虑到自闭症儿童的特殊性，在某种程度上其实并不需要“特别像人”的机器人来陪伴他们。因为现阶段的机器人
-表情比较简单而且具有一定的智能交互能力，反而更能吸引自闭症儿童的注意力，从而有可能取得比特教老师和家长
+基于特定的规则与儿童进行交互。当时的看法是
+自闭症儿童具有一定的特殊性，在某种程度上其实并不需要“特别像人”的机器人来陪伴他们。机器人
+表情比较简单而且具有一定的交互能力，反而更能吸引自闭症儿童的注意力，从而有可能取得比特教老师和家长
 干预更好的效果 [8]。
 
-为克服这一困难，研究者开始利用人工智能技术设计一些智能的
-算法，能够达到自动捕捉儿童的 affective state 并做出反应[7]。这方面的研究需要多维度
+但随着人工智能技术的进步，研究者不再满足于设计简单的机器人。他们利用人工智能技术设计一些智能的算法，能够达到自动捕捉儿童的 affective state 并做出反应 [7]，但这项研究局限于实验室条件。2020年有一篇研究论文尝试在家庭环境下在1个月左右的时间段内测试智能机器人的交互能力。
+并且，这个机器人具有自我学习的能力 [11]。
+总体说来，这方面的研究需要多维度
 的数据才能取得较好的效果。除了科学研究，在创业领域，也有公司为自闭症儿童设计机器人[3]
 或者专门的诊断设备 [5]。
 
-## 批评的声音
+## 支持的声音
+由于自闭症儿童的特殊性，小班化教学才能取得比较好的效果，
+然而目前特殊教育老师供不应求，有网友认为相比于弥补老师的缺口，应大力
+发展机器人辅助干预技术，这也符合信息化社会的趋势 [12]。
+
+## 反对的声音
 针对智慧医疗能否成为自闭症治疗的稻草，有分析师指出现阶段的AI技术难以实现个性化的定制，可能在实际使用中会大打折扣 [4]。
+
+有网友指出目前这类陪伴机器人相比于特教老师，还具有较高的成本，不同国家人口老龄化程度不一样并
+不能一概而论 [13]。
 
 ## 结论
 现代科技包罗万象，除近两年新兴的智慧医疗外，移动APP、相关领域新兴的药物等也有可能对自闭症
@@ -72,6 +80,8 @@ the introduction webpage -->
 10. Autism Speaks 100 Day Kit, 2019, https://www.autismspeaks.org/tool-kit/100-day-kit-young-children
 <!-- the translation of the first chapter is available: https://oef.org.cn/autism-book/ -->
 11. Jain, Shomik, et al. "Modeling engagement in long-term, in-home socially assistive robot interventions for children with autism spectrum disorders." Science Robotics 5.39 (2020).
+12. KI-Hilfe für autistische Kinder, Technology Review, 2020 Feb, https://www.heise.de/hintergrund/KI-Hilfe-fuer-autistische-Kinder-4670622.html
+13. https://www.heise.de/forum/p-36210627/
 <!-- this journal article is introduced in Deutsche Sprache Nachricht:
 https://www.heise.de/hintergrund/KI-Hilfe-fuer-autistische-Kinder-4670622.html -->
 <!--
