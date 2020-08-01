@@ -10,7 +10,7 @@ When she eyed me she asked immediately: "So what is
 your purpose of coming this time?"
 
 I explained to her that there was a tiny problem with
-my credit card and I wanted to prolong its expire time.
+my credit card and I wanted to prolong its expiry time.
 
 She changed her face from seriousness to kindness and
 would like to help me to deal with this problem.
@@ -73,7 +73,7 @@ found her attitude was dedicating.
 
 After the duty was done, I said I would like to visit someone in Lotus 4.
 She said she remembered I had come at the night of the day before yesterday.
-So this time I had to told the truth that I would like to visit
+So this time I had to tell the truth that I would like to visit
 a student called Fei Ma.
 
 Aunt: Fei Ma. oh, I knew him very well.
