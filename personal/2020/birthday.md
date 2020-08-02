@@ -5,14 +5,14 @@ Everything was happening according to schedule until Yang Bai asked me to recomm
 some good boy to her.
 
 I booked a birthday cake and took it out at the cake store. Then I went to
-the scheduled restaurant called "coco chicken". Yang Bai had came to occupy
-a place. Actually I had came to book for a place three days before but it does not
+the scheduled restaurant called "coco chicken". Yang Bai had come to occupy
+a place. Actually I had come to book for a place three days before but it does not
 matter since there were empty places at the time of 6:30 pm.
 
 To my surprise, Yang Bai talked about some noble things like the right way to behave
 in profession and social life. I thought it was different.  When we parted, Yang told
 me she had reached the graduate goal and I suddenly knew the reason why Yang did not
-talk much about paper any more.
+talk much about paper anymore.
 
 So what Yang Bai and I really talked about? As Yang Bai said, there may be some
 treasure in this talking since it was between two senior Tsinghua students.
@@ -20,7 +20,7 @@ She said: Nowadays, Internet celebrity ("Web Red" in Chinese) is a popular trend
 kind of talking and make it online. I think there may be some different when we know there
 is a recording. Some opinions will be restricted for example.
 
-YB: I had not so good relationship with my roommate. She had stayed in USA for almost two years
+YB: I had not so good relationship with my roommate. She had stayed in the USA for almost two years
 and now I finished the time of one-person-dormitory. The problem is that she takes it
 for granted that she could ask me to do some convenience for her.
 
@@ -49,7 +49,7 @@ engineers.
 
 Bai also talked about other unpleasant things she saw and heard.
 For example, she disliked those male engineers talking about women
-as goods. Recently there is a really bad news on one engineer of Alibaba,
+as goods. Recently there is really bad news on one engineer of Alibaba,
 who did unpleasant things to "recruit" some lady unofficially using his high salary. 
 
 YB: They think it is easy to attract females as long as they are rich. I am
