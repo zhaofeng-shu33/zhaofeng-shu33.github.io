@@ -37,3 +37,15 @@ When I went to iPark this morning, a poem flowed to my mind:
 2020/7/22
 
 ![](./images/reunion2.jpg)
+
+## Split of Life and Study
+2020/8/3
+
+This night I said to my roommate PengYang Zhao,
+"In most time I studied in lab and
+take rest in our dormitory."
+"No, you should say, 'I take rest in the upper and
+study in the lower.'" Peng replied.
+
+Some background information: our bed is on the upper part of
+the furniture in the dormitory.
