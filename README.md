@@ -1,5 +1,4 @@
 # 赵丰
-## Department of Electronic Engineering, Graduate School at Shenzhen, Tsinghua University
 
 > [616545598@qq.com](mailto:616545598@qq.com) 
 
@@ -20,11 +19,11 @@
 
 余名丰，乡土近孔孟之故地，民风淳朴而知礼。
 
-既受成年礼，余就学于北清华，攻数学之学位，
+既受成年礼，攻数学之学位，
 沐二年象牙塔之纯粹，然感所学无可用于世，慕创客之风而学电子，
 通网站前端之技术欲用于世，研数据科学之理论欲行于世，做志愿公益之工作欲报于世。
 
-今赴深圳欲展学术之体，扬技术之用，行公益之实，于南山智园工作，大学城生活。
+今于深圳欲展学术之体，扬技术之用，行公益之实。
 
 父母虽远在千里，然 今 二老身心健康   遂无忧;
 <!--
@@ -52,11 +51,8 @@ __2007-2010__
 Zao Zhuang No.1 Middle School: *High School Student*
 __2010-2013__
 
-Tsinghua University: *Undergraduate Student*
-__2013-2017__
-
-Graduate School at Shenzhen, Tsinghua University: *Phd Student*
-__2018-__
+Adult
+__2013-__
 
 ------
 
