@@ -49,3 +49,11 @@ study in the lower.'" Peng replied.
 
 Some background information: our bed is on the upper part of
 the furniture in the dormitory.
+
+## Delivery
+2020/8/4
+
+This noon when I was in the elevator of C2 Building, iPark.
+I heard,
+" 美女你到十四楼吗，能帮忙把这个（外卖）放前台吗，谢谢，我打电话给他。"
+
