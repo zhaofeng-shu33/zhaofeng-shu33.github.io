@@ -1,95 +1,33 @@
-# 智慧医疗能否救得了自闭症儿童
+# 智慧医疗--为星儿点灯
 2020/7/12
 
-近年来，随着以人工智能、物联网为代表的科学技术的发展，逐渐兴起了智慧医疗的产业。智慧医疗有望在心智障碍儿童的干预方面起到积极作用。其基本原理是通过定制化的可穿戴设备采集特殊儿童的生理信息，借助智能机器人与儿童进行互动，并通过数据分析帮助老师全面了解儿童的生理和心理情况。然而，当下也存在着技术不够成熟、市场盲目跟风等一系列问题。心智障碍儿童的干预是一个涉及心理与社会等诸多因素的复杂的行业，智慧医疗在其中扮演的角色仍需进一步观察。
+大家好，我是清华大学深圳研究生院一名从事人工智能相关领域研究的在读博士生，今天想跟各位家长、老师聊一聊
+最近比较热的智慧医疗这个领域能给我们自闭症的孩子带来什么。去年一个偶然的机会，我接触到了我们学院一位
+从事自闭症谱系障碍倾向预测的学姐。在相同的环境下，自闭症孩子的眼睛转动的规律和普通的孩子有一定差别。
+利用这一点，我的那位学姐尝试利用人工智能技术来预测一个孩子有没有自闭症的倾向。我觉得她做的研究
+有很强的现实意义。因为现在还没有比较简单的自闭症的诊断方法，需要专家收集孩子各方面的信息并对孩子的观察做出评估报告才能
+下初步的结论，假如我们有这样一个可穿戴的设备并且利用这个设备能实现自闭症预测的准确率很高的话，就能对孩子及早进行干预，避免耽误最佳的干预时间。
 
-## 什么是智慧医疗
-理想的智慧医疗主要是利用人工智能做决策、通过虚拟现实、增强现实或者普通的手机终端等让机器与人
-进行医疗方面的交互。现阶段由于人工智能技术在某些专业领域表现出超出人类专家的水平，让机器
-代替人类专家进行决策有了一定的依据。同时随着机器人硬件技术的不断完善，通过使用专用的设备，可以在一定程度上营造出真实的交流场景。
+今年1月份，我去深圳会展中心参加微软举办的一个关于云计算的活动，在现场也有幸听到了一位来自江浙的苏工讲述了他们公司在
+开发一款能用于陪伴自闭症儿童的机器人。根据他的描述，这款机器人是用了人工智能的技术，能够识别出孩子的情绪并做出积极
+的回应。这听起来很酷并用很实用。因为现在还没有比较省事并且对孩子负责的教育方法。孩子去干预中心的时间有限，大部分时间
+还是呆在家里，父母也不一定有时间时刻陪伴在孩子身边，而自闭症孩子和普通孩子很难玩到一起，这时候如果能有一个“能懂”孩子的机器人一起玩的话该是一件多么美好的事情呀。
 
+又过了一段时间，我利用业余的时间在国内外的网站上查了一些关于人工智能和自闭症两者均相关的新闻报道，也看了一些相关科技论文的摘要。给我总体的感受是，美国和日本在这方面要领先一步。日本某研究所利用全脑扫描的信息，
+实现了自闭症预测85%的准确率。
+而美国已经有一家机器人创业公司在申请政府的许可，希望能否利用他们的技术进行自闭症诊断这个行业。
+在自闭症干预方面，今年2月份《科技机器人》有一篇科技论文，美国南加利福尼亚大学的课题组将他们设计的机器人放到了家庭环境里，在1个月左右的时间里让机器人和自闭症孩子
+进行交互；他们的实验取得了一定的成功，自闭症孩子和机器人比较能和得来。
+总而言之，无论是自闭症的诊断还是干预，在不久的将来，人工智能技术好像能给自闭症孩子带来一些希望。我想这不仅是家长和老师
+所期待的，也是我们科研工作者甚至社会上各行各业的人共同的一个愿景。
 
+记得我刚来深圳的那一年，经常跟着学校的志愿组织到干预中心去辅助那里的老师陪伴孩子们。乍一看那里的孩子，天真无邪的
+笑脸，好像和普通的孩子没什么区别。但接触时间稍长会发现他们确实会做出一些奇怪的事，需要一遍一遍地纠正。这令我们
+很悲伤，有时候常会想，除了陪伴，我们还能做点什么。后来我内心似乎有了一个答案，深圳是一座科技之城，但很多科技
+公司也是很有社会责任感的公司；科技向善，不仅仅是人工智能，还有5G、虚拟现实、新药的研究等等，
+它们共同发力，构成了智慧医疗这个美好的蓝图。具体到自闭症这个领域，从早期的诊断到中期的干预甚至是最终能达到
+接近普通孩子的程度，这些都是不久的将来智慧医疗应该可以做到的事情呀。而深圳，作为改革开放的排头兵，定能
+率先享用智慧医疗最新的科研转化的成果。
 
-## 发展--科研与产业
-### 早期诊断
-自闭症和其他精神类的表现比较相似，从而延误了最佳干预的时期。
-传统的诊断方法主要是通过具有丰富经验的专家收集各方面的信息以及对孩子的观察做出评估报告,
-耗时比较长 [10 页3]。
+想到这里，我不由得加快了脚步。
 
-近年来，研究者尝试利用人工智能技术做自闭症的早期诊断，不断有新的突破。
-
-有研究者仅针对眼动数据探讨自闭症谱系障碍倾向预测的准确性的问题
-[1]。在实验条件下能达到70%以上的准确率。
-
-另一方面，随着深度学习技术的发展，通过分析大脑的人脑数据可以在某种程度上预测自闭症 [9]，
-在特定的实验环境下达到 85% 的准确率。
-
-以上的例子仅用到了单一的数据源作为诊断的依据，
-
-### 辅助干预
-<!-- 国内外现状 -->
-在智慧医疗流行以前，
-<!-- Wizard of Oz method tells us that we can remote control the robot to interact with children. --> 即有尝试利用仿生机器人与心智障碍的孩子进行交互[6]。 但这些机器人只能
-基于特定的规则与儿童进行交互。当时的看法是
-自闭症儿童具有一定的特殊性，在某种程度上其实并不需要“特别像人”的机器人来陪伴他们。机器人
-表情比较简单而且具有一定的交互能力，反而更能吸引自闭症儿童的注意力，从而有可能取得比特教老师和家长
-干预更好的效果 [8]。
-
-但随着人工智能技术的进步，研究者不再满足于设计简单的机器人。他们利用人工智能技术设计一些智能的算法，能够达到自动捕捉儿童的 affective state 并做出反应 [7]，但这项研究局限于实验室条件。2020年有一篇研究论文尝试在家庭环境下在1个月左右的时间段内测试智能机器人的交互能力。
-并且，这个机器人具有自我学习的能力 [11]。
-总体说来，这方面的研究需要多维度
-的数据才能取得较好的效果。除了科学研究，在创业领域，也有公司为自闭症儿童设计机器人[3]、
-辅助治疗的App [14]
-或者专门的诊断设备 [5]。
-
-## 支持的声音
-由于自闭症儿童的特殊性，小班化教学才能取得比较好的效果，
-然而目前特殊教育老师供不应求，有网友认为相比于弥补老师的缺口，应大力
-发展机器人辅助干预技术，这也符合信息化社会的趋势 [12]。
-
-## 反对的声音
-针对智慧医疗能否成为自闭症治疗的稻草，有分析师指出现阶段的AI技术难以实现个性化的定制，可能在实际使用中会大打折扣 [4]。
-
-有网友指出目前这类陪伴机器人相比于特教老师，还具有较高的成本，不同国家人口老龄化程度不一样并
-不能一概而论 [13]。
-
-## 结论
-现代科技包罗万象，除近两年新兴的智慧医疗外，移动APP、相关领域新兴的药物等也有可能对自闭症
-干预起到积极作用[2]。然而现阶段科技力量、特别是智慧医疗还有很大的局限性，并不能替代传统的
-特殊教育。
-
-## 参考资料
-1. 基于机器学习和眼动数据的自闭症谱系障碍倾向预测，2019, 清华大学硕士学位论文， 林弋琪、彭凯平
-<!-- I knew 林弋琪 since we are in the same campus. We invited her to give a talk about her thesis to autism volunteers in University Town of Shenzhen.  -->
-2. 动脉网：AI诊断、数字康复治疗、陪伴机器人……自闭症市场能否走出供求困境 https://www.jiqizhixin.com/articles/2020-04-02-2
-<!-- this article focuses more on capital investment.-->
-3. 微软科技 科技予力众生，尽在 Ignite human of IT, 2019/11 https://www.sohu.com/na/354344618_181341
-<!-- this person 苏震巍 is MVP of Microsoft, he talked this topic on many conferences， to see more details about this person, please see 
-https://www.hotbak.net/key/苏震巍从盛泽走向世界的精英.html -->
-4. 硅谷洞察 “来自星星”的机器人并不是自闭症儿童的“救命稻草”, 2019/3 http://www.svinsight.com/post.html?id=87
-<!-- negative view on this area -->
-5. Cognoa: https://www.forbes.com/sites/cognitiveworld/2020/03/19/can-ai-help-with-autism-diagnosis/
-<!-- necessary: waiting line in USA is long for diagnosis of ASD (autism spectral disorder). advantage of cognoa is that it's tring to develop a device which is approved by FDA. -->
-6. Kaspar, 2005: https://robots.ieee.org/robots/kaspar/
-<!-- the traced year 2005 is the beginning of robot making, not the year of
-the introduction webpage -->
-<!-- a pioneer work on robot therapy-->
-7. Rudovic, Ognjen, et al. "Personalized machine learning for robot perception of affect and engagement in autism therapy." Science Robotics 3.19 (2018).
-8. Autismus-Therapie, 2008: https://www.spiegel.de/wissenschaft/mensch/autismus-therapie-roboter-nimmt-angst-vor-menschen-a-569595.html
-<!-- Spiegel is a reliable source I think.-->
-9. Yahata, Noriaki, et al. "A small number of abnormal brain connections predicts adult autism spectrum disorder." Nature communications 7.1 (2016): 1-12.
-10. Autism Speaks 100 Day Kit, 2019, https://www.autismspeaks.org/tool-kit/100-day-kit-young-children
-<!-- the translation of the first chapter is available: https://oef.org.cn/autism-book/ -->
-11. Jain, Shomik, et al. "Modeling engagement in long-term, in-home socially assistive robot interventions for children with autism spectrum disorders." Science Robotics 5.39 (2020).
-12. KI-Hilfe für autistische Kinder, Technology Review, 2020 Feb, https://www.heise.de/hintergrund/KI-Hilfe-fuer-autistische-Kinder-4670622.html
-13. https://www.heise.de/forum/p-36210627/
-14. http://www.impute.co.jp/jp/health_care
-<!-- It sounds not reliable for the product of this company-->
-<!--
-Not cited articles:
-1. Benni robot: https://www.sltrib.com/news/education/2018/07/20/meet-benni-robot-created/
-2. actually retelling of story of 2018 journal: 2018 August, https://cordis.europa.eu/article/id/123847-teaching-robots-how-to-interact-with-children-with-autism/de
-3. 2016/4 人工知能（ＡＩ）で自閉症判定　専門医診断と８割一致, https://www.sankei.com/life/news/160414/lif1604140028-n1.html, referred by http://wap.sciencenet.cn/blog-310774-970264.html The original paper is published on the same day: https://www.nature.com/articles/ncomms11254
-4. a data science competition on using multi-modal data to improve
-the prediction accuracy: 2018, https://paris-saclay-cds.github.io/autism_challenge/
--->
