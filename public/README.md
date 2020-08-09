@@ -154,6 +154,18 @@
 | [连续Kalman滤波](signal_processing/kalman_continuous.pdf) | [非参数估计](signal_processing/non-parametric_estimation.pdf)|
 
 
+------
+
+## 2018年寒假平面几何相关讲义
+
+> > [第一次](planar_geometry/first.pdf)
+
+> > [第二次](planar_geometry/second_v2.pdf)
+
+> > [第三次](planar_geometry/third.pdf)
+
+> > [历年题目](planar_geometry/1217P.pdf)
+
 # 社工思考
 
 - [机器人主题支教](2018/robot_teaching.md)
