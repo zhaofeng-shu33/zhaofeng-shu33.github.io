@@ -5,9 +5,9 @@
 
 环境：
 公司服务器和阿里云服务器均为 Ubuntu 操作系统，
-需要修改阿里云服务器 的sshd_config 的相关配置与 公司服务器 ssh_config 的相关配置使得
+需要修改阿里云服务器的 sshd_config 的相关配置与 公司服务器 ssh_config 的相关配置使得
 
-1. sshd server 支持remote port forwarding
+1. sshd server 支持 remote port forwarding
 1. 会话不会自动断开
 
 具体操作见 [ssh preventing timeout](https://bjornjohansen.no/ssh-timeout).
