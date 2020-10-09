@@ -3,6 +3,8 @@ The mid-autumn festival overlapped with the National holiday
 this year. They are both at October first and this
 phenomenon is called "celebrating the double festival".
 
+![](./mf.jpg)
+
 An unforgettable activity was hosted by Xinyi Tong, during
 which we appreciated the beautiful moon light and talked
 leisurely on the open platform of 11th floor. A cultural
