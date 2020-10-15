@@ -14,7 +14,7 @@ ambitious.
 
 A graduate student from Science and Tech University of Dalian committed suicide yesterday and
 a wave of discussion emerged online. The direct cause was his posthumous letter, released on
-webo. Every student can find more or less clues from his experiences. I think that's why his
+weibo. Every student can find more or less clues from his experiences. I think that's why his
 death brought so much shock on our group.
 
 The situation became different gradually at my fourth year phd semester. I abandoned the
