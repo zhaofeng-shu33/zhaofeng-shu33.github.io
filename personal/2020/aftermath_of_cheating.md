@@ -9,3 +9,11 @@ the student any more. After I reported the case to professor Yang,
 I found Yang also changed. She thought no need to punish the student
 severer than others. Maybe after the turbulence of recent days, professor
 Yang was also tired.
+
+Recently I was taking the course "Poetic paths", which was a humanity  
+course for undergraduate students of HITSZ. The professor, Asha Huang
+talked about the "Fields and Gardens poetry" this week. When talking
+about Tao Qian's famous lyric, "I pluck chrysanthemums under the eastern hedge,
+Then gaze long at the distant summer hills." (translated by Arthur Waley)
+Huang said, why could we take walks in the campus of HIT and gaze at the Mount of
+Tang Lang? ("漫步哈工大，悠然见塘朗山。" in Chinese)
