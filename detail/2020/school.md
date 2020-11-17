@@ -82,3 +82,11 @@ I heard,
 读诗歌的典雅
 都不如想到你
 让我全神贯注
+
+## Teaching others
+2020/11/17
+
+Teaching others will not always improve yourself. I am again touched by such view when preparing a tutorial on the principle of neural network. This slide is intended for a meetup of a regional data science group.
+I think the problem with routine lies at the
+stale impression of knowledge.
+When I am quite familiar with something, I will get tired.
