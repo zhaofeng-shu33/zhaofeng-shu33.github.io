@@ -90,3 +90,10 @@ Teaching others will not always improve yourself. I am again touched by such vie
 I think the problem with routine lies at the
 stale impression of knowledge.
 When I am quite familiar with something, I will get tired.
+
+## a poem in dream
+2020/11/18
+
+浚江东上阻 河化入清流
+
+欲留人之意 不复旧时书
