@@ -97,3 +97,10 @@ When I am quite familiar with something, I will get tired.
 浚江东上阻 河化入清流
 
 欲留人之意 不复旧时书
+
+## a poem after wake in the morning
+2020/11/19
+
+春时去已尽 秋日水流长
+
+还将旧时意 怜取眼前人
