@@ -13,9 +13,9 @@ since Shaoping is going to leave the campus tomorrow.
 ![](./images/group_member.jpg)
 
 ## Eating with lab members
+2020/6/25
 
 ![](./images/reunion1.jpg)
-![](./images/reunion2.jpg)
 
 ## Climbing
 2020/7/15
