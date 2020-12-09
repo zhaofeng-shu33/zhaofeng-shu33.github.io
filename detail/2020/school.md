@@ -104,3 +104,16 @@ When I am quite familiar with something, I will get tired.
 春时去已尽 秋日水流长
 
 还将旧时意 怜取眼前人
+
+## Dreaming the wars of the Roses
+Yesterday I had a dream. In the dream, I went into a cultural shop and bought a souvenir coin memorizing "Wars of the Roses". The coin itself is quite expensive.
+
+## Crying for parents
+2020/12/9
+
+In the "Classic of Poetry" (诗经), there is a poem called
+（日月）, in which a lady is crying for her parents. Some
+reviewers thought it was natural for human to cry for parents
+when they were in trouble. I remember a similar thing happened
+in USA when George Floyd was stroked by a police. He also cried
+for her mother in the video clip.
