@@ -4,7 +4,7 @@
 After several days occupied with increasing domain of interest, I found
 it became impossible to parallel them any more. Decisions must be made
 to strip some parts while keeping others. At the highest level, I
-found myself learning three foreign languages, reading german newspapers,
+found myself learning three foreign languages, reading German newspapers,
 history of Ming dynasty in English, Chronicles of the Eastern Zhou Kingdoms,
 Classic of Poetry, translating a german HGR article, devoting to the preparation
 of return-teaching, dealing with the TA duty and worrying about the actual 
