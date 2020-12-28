@@ -47,6 +47,8 @@
 
 # 所修课程
 [course](./course.md)
+# 所借圖書
+[book](./2013_loan_history.md)
 
 ## 2017年夏季学期pde数值解作业
 
