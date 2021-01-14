@@ -656,4 +656,103 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > > [2020_7_17/Prediction becomes true](2020/prediction_become_true.md)
 
+> > [2020_7_18/Direct](2020/direct.md)
+
+> > [2020_7_19/Aunt](2020/aunt.md)
+
+> > [2020_7_20/WOLT first](2020/wolt_first.md)
+
+> > [2020_7_21/WOLT second](2020/wolt_second.md)
+
+> > [2020_7_22/Talk with Fei](2020/talk_with_fei.md)
+
+> > [2020_7_23/An unforgettable day](2020/an_unforgettable_day.md)
+
+> > [2020_7_24/Stomachache](2020/stomachache.md)
+
+> > [2020_7_25/Zero day](2020/zero_day.md)
+
+> > [2020_7_26/Work hard](2020/work_hard.md)
+
+> > [2020_7_29/Reject again](2020/reject_again.md)
+
+> > [2020_7_30/Eating with senior PHD](2020/eating_with_senior_phd.md)
+
+> > [2020_8_1/Memory of Yang Bai](2020/memory_of_yang_bai.md)
+
+> > [2020_8_2/Watching an old movie](2020/watching_an_old_movie.md)
+
+> > [2020_8_3/Change](2020/change.md)
+
+> > [2020_8_6/Talk with friends](2020/talk_with_friends.md)
+
+> > [2020_8_9/Afternoon tea with Xiangxiang](2020/afternoon_tea_with_xiangxiang.md)
+
+> > [2020_8_14/Eight Phds](2020/eight_phds.md)
+
+> > [2020_8_21/New lab](2020/new_lab.md)
+
+> > [2020_8_22/Story of pics](2020/story_of_pics.md)
+
+> > [2020_8_25/Qixi day](2020/qixi_day.md)
+
+> > [2020_8_28/Parallel world](2020/parallel_world.md)
+
+> > [2020_8_31/Perfect life](2020/perfect_life.md)
+
+> > [2020_9_3/Exploring the world](2020/exploring_the_world.md)
+
+> > [2020_9_9/Meet person](2020/meet_person.md)
+
+> > [2020_9_11/Common day](2020/common_day.md)
+
+> > [2020_9_12/Memory and priority](2020/memory_and_priority.md)
+
+> > [2020_9_14/Why busy](2020/why_busy.md)
+
+> > [2020_9_18/Flower Pie](2020/pie.md)
+
+> > [2020_9_18/Advice for not submit](2020/advice_for_not_submit.md)
+
+> > [2020_9_18/论内卷](2020/on_intra_turmoil.md)
+
+> > [2020_9_26/Conformance](2020/conformance.md)
+
+> > [2020_9_30/Reflection on the past week](2020/reflection_on_past_week.md)
+
+> > [2020_10_14/First research fail](2020/first_research_fail.md)
+
+> > [2020_10_15/Open study](2020/open_study.md)
+
+> > [2020_10_17/Parents](2020/parents.md)
+
+> > [2020_10_22/Help and inheritance](2020/help_and_inheritance.md)
+
+> > [2020_10_30/Before appointment](2020/before_appointment.md)
+
+> > [2020_11_07/Grading exam papers](2020/grading_exam_papers.md)
+
+> > [2020_11_8/Busy for oneself](2020/busy_for_oneself.md)
+
+> > [2020_11_11/Plagiarism](2020/plagiarism.md)
+
+> > [2020_11_13/Aftermath of cheating](2020/aftermath_of_cheating.md)
+
+> > [2020_11_13/Who cheats](2020/who_cheats.md)
+
+> > [2020_11_20/Organize or not](2020/organize_or_not.md)
+
+> > [2020_11_22/Social meeting](2020/social_meeting.md)
+
+> > [2020_11_30/Meeting interest people](2020/meeting_interest_people.md)
+
+> > [2020_12_05/lively chat](2020/lively_chat.md)
+
+> > [2020_12_12/Discussion of History](2020/discussion_of_history.md)
+
+> > [2020_12_13/Time splitting](2020/time_splitting.md)
+
+> > [2020_12_19/Call Yicheng library](2020/call_yicheng_library.md)
+
+> > [2020_12_28/Reading in the evening](2020/reading_in_the_evening.md)
 ------
