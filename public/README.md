@@ -168,6 +168,15 @@
 
 > > [历年题目](planar_geometry/1217P.pdf)
 
+## Learning From Data (2020 Fall) Teaching Assistant
+
+- [Programming Assignment 1](learning_from_data/pa1.pdf)
+- [Programming Assignment 2](learning_from_data/PA2.pdf)
+- [Programming Assignment 3](learning_from_data/PA3.pdf)
+- [Programming Assignment 1 Pre-knowledge](learning_from_data/scientific_programming.pdf)
+- [Programming Assignment 2 Pre-knowledge](learning_from_data/PA2_slides.pdf)
+- [Programming Assignment 3 After-knowledge](learning_from_data/pa3_slides.pdf)
+
 # 社工思考
 
 - [机器人主题支教](2018/robot_teaching.md)
