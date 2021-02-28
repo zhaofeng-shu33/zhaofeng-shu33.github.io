@@ -1,10 +1,5 @@
 # 大一下－大二上随感
 
-## Study for test oder die abschulussprüfung vorstellen.
-2014/6/22
-
-I have to think over my choice a day before the mathematical analysis exam. I sacrifice all my time preparing for this exam and although I feel not bad at the exam. I did not see much about the general integration of the academic world especially the art subject and science subject. Major is a road narrower and narrower. I probably can join in their talk about the problems after the exam, but I also feel confused about the paradox between the 4 directions I make up for myself. I learn that I neglect half part proof of the last problem but it all goes well according to my level. Most realistic problem is I must do not bad at the essential course and spend as possible as I can at other subjects. 
-
 ## 由偶然間和班長的一次聊天引起的思考
 2014/1/17
 
@@ -48,3 +43,14 @@ Project Euler 编程在一道数论色彩很浓的求循环节最大值的题目
 2014/3/28
 
 周助教竟在講正則曲線與曲面時提到了“正則”的漢語源來，屈、原、均都有平的意思，正則也不例外，像大地一樣，這源于離騷。臺下突然出現了嘖嘖的稱贊聲，這是經過八年數學磨練的人卻突然來了一個跨學科的“吐槽”，這是很自然的名詞稼接，從regular 到形容詞本身對事物的描述，令人油然而向往那種在這樣程式化公式化的世界中迷失的人兒突然發現了桃源，盡管是那么短暫。
+
+## Study for test (oder die Abschulussprüfung vorbreiten).
+2014/6/22
+
+I have to think over my choice a day before the mathematical analysis exam. I sacrifice all my time preparing for this exam and although I feel not bad at the exam. I did not see much about the general integration of the academic world especially the art subject and science subject. Major is a road narrower and narrower. I probably can join in their talk about the problems after the exam, but I also feel confused about the paradox between the 4 directions I make up for myself. I learn that I neglect half part proof of the last problem but it all goes well according to my level. Most realistic problem is I must do not bad at the essential course and spend as possible as I can at other subjects. 
+
+## An idea
+2014/7/22
+If there are some magazines or social-paper put at the entrance of the library, I often take a piece of several kinds away.
+
+While eating at canteen, I look through which interest me, as figures like ethnologist 民族學家 潘光旦. Probably I am his type. THe point of his life interest me most is his enthusiasm towards biology especially evolutionism. I more and more feel the figures during the early period of 20th century of China gave me many reference in behaving myself. Among them, I appreciate more and more on 錢忠書. To make things more ridiculous, I mentioned countless times of 華羅庚 during the period of English summer camp. This is because I use him as an example in my speech to demonstrate the benefits of learning foreign language towards mathematical research. Actually, I knew little about research and 華, only his disability and his genius. The key point lies that experience of others has little to do with one's realistic life.
