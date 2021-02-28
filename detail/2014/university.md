@@ -49,8 +49,71 @@ Project Euler 编程在一道数论色彩很浓的求循环节最大值的题目
 
 I have to think over my choice a day before the mathematical analysis exam. I sacrifice all my time preparing for this exam and although I feel not bad at the exam. I did not see much about the general integration of the academic world especially the art subject and science subject. Major is a road narrower and narrower. I probably can join in their talk about the problems after the exam, but I also feel confused about the paradox between the 4 directions I make up for myself. I learn that I neglect half part proof of the last problem but it all goes well according to my level. Most realistic problem is I must do not bad at the essential course and spend as possible as I can at other subjects. 
 
+## My story at summer camp
+2014/7/8
+
+### 剧本建议
+南華椿槿，五筆立就
+
+中式英語，介紹四聲
+
+不如參見，維基百科
+
+小小建議，并無他意
+
+關于劇本，人手不夠
+
+可否進行，人物刪減
+
+依愚拙見，自己制作
+
+汝愛文學，應兼中西
+
+莎翁原文，怎可忽略
+
+不妨截取，一二細讀
+
+方可添加，中國元素
+
+前輩默存，吾心慕之
+
+讀書氣質，汝可比肩
+
+融匯中西，汝不及之
+
+小小看法，并無他意
+
+### Reply
+何必一鼓作氣，不如明日大家 集思廣益
+莎翁不可小覷，如果我能助你 必當盡力
+
+### Two times when I had a slip of the tongue
+
+By free wind, Class 51 H province
+
+After our responsible male volunteer Richard had presented his travel experience with us, it was my turn to give a presentation. I just wanted a proper translation between his and mine. “A moment ago, Richard gave us a wonderful speech. Her destination is within China, but for my…”
+
+I hadn’t realized that I made a small but fatal mistake at the person usage. Laughter is unavoidable. My embarrassment is also unavoidable. I had to say, saying the third person in Chinese is much easier than English.
+
+This afternoon after 4 o’clock, I rushed to underground room to attend a lecture about the love poetry. My male classmate Jason sat just beside me. When the professor asked us about our reading about love poetry, I said something about Song poems. Jason put forward an example, “The great river is flowing towards the east…” So at that time I just wanted to pass the voice turn to him. “Jason can give more explanation. Her knowledge is wider.” I again paint the lily and made a joke. I have to say, mistakes are unavoidable if I try to express my opinion not in mother tongue. May this kind of wrong person be avoided next time!
+
+## Reply for birthday gift
+2014/7/12
+
+Nowadays English summer camp is going in Tsinghua University.
+
+Several days ago I went to a Lecture about love poetry.
+The young female poet made a love poetry relay among us. Winners (wrote the best sentences in the made-up poetry) are rewarded by the newly-published poetry collection. I appreciate little about the love poetry while my classmate won the collection by writing the way seems so long, never ended...
+
+Yesterday a one minute debate was going on and many groups choose the topic about social network. Some claim that you are tempted to use your phone even if you are studying. Others retort that communication is more convenient and can not be neglected. I think social network is negative as I little use it.
+
+That's part of my life. How about you?
+Ps: Katherine is the Name of a volunteer in my class.
+Is is a very common English female name.
+
 ## An idea
 2014/7/22
+
 If there are some magazines or social-paper put at the entrance of the library, I often take a piece of several kinds away.
 
 While eating at canteen, I look through which interest me, as figures like ethnologist 民族學家 潘光旦. Probably I am his type. THe point of his life interest me most is his enthusiasm towards biology especially evolutionism. I more and more feel the figures during the early period of 20th century of China gave me many reference in behaving myself. Among them, I appreciate more and more on 錢忠書. To make things more ridiculous, I mentioned countless times of 華羅庚 during the period of English summer camp. This is because I use him as an example in my speech to demonstrate the benefits of learning foreign language towards mathematical research. Actually, I knew little about research and 華, only his disability and his genius. The key point lies that experience of others has little to do with one's realistic life.
