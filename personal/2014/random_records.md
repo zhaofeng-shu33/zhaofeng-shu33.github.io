@@ -1,0 +1,28 @@
+# Random record of my life and thought
+2014/7/18
+
+## On Final speech competition
+Actually I am not a participator but a member of audience. But I with wonder listen to the 24 speeches given by my
+Contemporary. I describe most speeches as "full of passion and dream".
+Mike (a yellow fish) mentioned that the most frequent word during the final is "dream".
+Someone talks about Chinese dreams --- apparently he was a patriot. Someone else talks about dream of Tsinghua University. He hopes that the role of study score can be lower in the system of evaluation. But the part that impresses me the most belongs to a dreamer who talks about herself.
+
+"I have been crazy about Chinese literature since I was 5 years old. Once I worked for it till midnight, once I cried for it the whole afternoon. Once I read it aloud at six o'clock every morning. Once... When the critical time came --- I must choose my major. My uncle, who was an expert at Chinese literature opposed me strongly to choose Chinese literature as my major. But I insist. I insist popular major can not bring satisfaction to myself even through they can bring fame, money and comfortable life."
+
+Another young lady who seems to major in journalism talks about her two-year Senior three only because her grade of the first year was one point lower than the admission of THU. She tends to be more pragmatic and shows her strong wish to help poor kids to realize their dreams and she was on the way. (Her team will go to South West of China this summer vacation... (Two days ago)
+
+## A lecture
+I'm pretty enthusiastic about a lecture about the crazy thing about language. The student from Edinburgh is majoring in linguistics and master three languages. He used many examples about German to talk about the influence of language on behavior of people. One interesting thing is that German people seldom use future tense and tend to treat present and future the same. One of his beliefs touches me: "the history of language is more than five thousand years while writing form exists only about a half long time of the spoken language. So learning to listen and speak matters more when learning a language. Trying to speak as much as possible in your non-native language is very important thing. Of course you can read and write a lot but it helps not so much as direct communication." This is actually his opinion and proves the importance of our summer camp that is going on. However, I found difficulty in joining the activity about a topic which I had little interest in. Unless life forces me to have some knowledge about food in English-speaking country. Foreign language learners must admit that it is impossible to be competent in every aspects of your foreign languages. But free wind, prepare for your western language classes, because they may present you also with areas you are unwilling to be active in.
+I wonder at the difficulty to understand some English accent. If some native speakers go too fast, I am totally out of comprehension. Another big obstacle came from the video. I can only distinguish scrapes of the words in the video. Access to information by video is totally impossible for me now. (one day ago)
+
+## Writing on the end day of the English summer camp.
+Details touch me.
+
+Some students are discussing the short-time small class tuition with the daily wage of 600RMB nearby Beijing. "I can earn a total of 12 thousand in just 20 days." " I'd like to do but time is limited." The other student showed his regret.
+
+This is what happened during one break. Even if money is not taken into consideration. Going somewhere else or making summer practice is an important topic for most students --- but not for me. I tried to prepare for math lessons of the next semester recently at the interval of English activity. Tiredness and difficulty can not be avoided. But whatever to say, it is distant from current life. Mathematic and classical literature, both are away from contemporary. Occupying them is often accompanied with loneliness. I wondered if it would be possible when a humanity girl chose Mathematic as her second major. I also wondered how much time I can spare to humanity.
+
+Small Yellow Fish is already an expert in Chinese poetry (Tang), while Broad and Wide had widely read about history of physics and philosophy of science, which I heard for the first time. These examples happened beside me. The two students mentioned above had a common point shared with me ---- never skip the English activity. Somehow the activity, organized by foreign volunteers, focuses too much about popular matters of English world, which were
+unfamiliar to Chinese students.
+
+If I can cherish something about these concentrative English activities, which lasted for three weeks. It is merely Drama of Shakespeare and three-minute speech. Gain is always accompanied with problems. I only show my dominance in our group as team members are somewhat passive in it. If I am unfamiliar with the play, I will be totally confused when the other group was giving their performance. Especially one group remove all the original text of the last Act of Hamlet to the stage. After drama, I found I could not spare time reading original shakespeare even if I knew it is not so difficult with my check of much time. This Monday evening was called Shakespeare's evening because students who major in English at THU gave three performances at larger stage with abundant clothes, tools, lights and music. Actually they had special courses about drama play of S while at the same time we had summer camp activities. Speech is treated above other abilities. It is just like the so-called water course except your appreciation of particular points. This paragraph seems loosely organized. (Today)
