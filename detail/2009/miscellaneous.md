@@ -99,6 +99,9 @@ Unfortunately,I left my bike downstairs at noon today and I couldn't find it any
 
 10月1日～6日在武汉来着，不过现在回来了。
 
+最近生活的不是太舒心，今天，6日just came back from 武汉。这次集训给我的感觉并不comfortable。因为遇到真正的对手了。八年级组仅仅3个人，共4试，每次one half and two hours，6题。every time 我都有空题，last time 几乎交了白卷。Though I had tried my best to test,
+I could not pass because a boy named Zhao Yue did better than me.He worked out almost the problem in the exams .I really admired his talent。I know I have a chance to go to Paris ,but I lost it.That's why I am not happy.
+
 ## Untitled 21
 2009/10/11
 
