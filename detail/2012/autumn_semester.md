@@ -1,3 +1,8 @@
+## Simple life
+2012/8/15
+
+I'm preparing for physics and math contests recently, thus racking my mind. Maybe I feel the same as you a year ago at these hard exercises. At the same time, I spared some time reading and writing, all related to paper, not screen. As for the contents of my reading, parts are concerned with music and art, which also low my spirit. The rest are famous books. The main purpose of my reading is for further improvement of test scores, especially Chinese literature and the basic skills. The efforts, which I can't see, may be small. But I gradually indulge in literature including the Dream of the Red Chamber and Jane Eyre. This is my simple life at this specific time.
+
 ## English class
 2012/9/18
 
@@ -11,12 +16,12 @@ we will inattentively read if we dwell on the agony of the past.
 ## English class representative Tai
 2012/9/20
 
-Sun Shoutai showed me his new diary book, it saids "Though
+Sun Shoutai showed me his new diary book, it said "Though
 the wheel of years pushed us forward, though the tunnel of times buries our past, though the eternal truth accelerates our growing adolescence and makes our naive countenance lost..."
 
 Guy Tai had hardly given the listening paper away when the music rang.
 He got so anxious as to fling a pile towards the front row. As we
-pridicted, some back students would nearly missed the beginning but
+predicted, some back students would nearly missed the beginning but
 for Tai's timely distribution.
 
 ## P.E. class

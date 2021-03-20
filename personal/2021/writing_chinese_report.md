@@ -6,7 +6,7 @@ The report should contain literature review and my research plan in at least 500
 Chinese characters. At the same time, Yang Bai requested my help on some mathematical
 problem in her next paper. Besides, I also spent some hours to figure out
 a rendering problem in mediawiki software. To balance these tasks, I found I had no time
-to prepare for the coming german exam.
+to prepare for the coming German exam.
 
 During the process of writing the review in Chinese, I wondered why there was no Chinese
 entry for terminology in wikipedia. Some of them are used in spoken language when I discussed
