@@ -1,4 +1,4 @@
-# Someting went wrong
+# Something went wrong
 2021/3/26
 
 The student sitting on my left is called Weitao Tang. A few days
@@ -12,7 +12,7 @@ also allowed no useful information. The secretary was not technician and the job
 one by one. Then it vanished. Very amazing.
 
 Another trouble happened to me in recent days. One afternoon I found my
-workstation could not reach the network. After some initial debugging I suspected
+workstation could not reach the network. After some initial debugging, I suspected
 there were some problems with the physical internet connection point. The network
 engineer in the Information Building did not believe in my judgement and tested it
 by himself. However, it came with few positive results.
