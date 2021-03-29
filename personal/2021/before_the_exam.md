@@ -18,7 +18,7 @@ An important cause of her return was to prepare for her upcoming qualification e
 I accompanied her to the bustling shopping mall (Yifang Center) in Baoan for a supper on our way back to school.
 She complained the detour was inconvenient and not well arranged since we brought two big cases
 and a heavy bag all the way. It was rush hour. Many popular restaurants were full and the queue was
-long. Finally we found a small brand selling stewed chicken which admitted seat immediately.
+long. Finally, we found a small brand selling stewed chicken which admitted seat immediately.
 The taste was not bad, and the hospitality was pleasing. Most of our talk focused on realistic
 issues, and I found the topic was too restricted.
 
