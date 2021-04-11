@@ -197,8 +197,6 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > > [2013_7_3/致佩伦](2013/致佩伦.md)
 
-> > [2013_7_5/佩伦的志愿](2013/佩伦的志愿.md)
-
 > > [2013_7_8/给冬瑜的未完的信](2013/给冬瑜的未完的信.md)
 
 > > [2013_7_16/you practice first,read my summary second,write down sth. third](2013/一个听力材料，给晓梅.md)
