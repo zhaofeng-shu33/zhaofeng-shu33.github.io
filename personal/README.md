@@ -556,7 +556,7 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > > [2020_1_10/蔡主任您好](2020/蔡主任您好.md)
 
-> > [2020_1_16/](2020/高三小班.md)
+> > [2020_1_16/高三小班](2020/高三小班.md)
 
 > > [2020_1_18/物非人非](2020/物非人非.md)
 
