@@ -43,10 +43,23 @@ he said "幸せな顔". "Why don't you use 美味しい ?" I wondered.
 He replied, "Such word is too common, and you can even add some adverbs in front like
 とでも美味しい." Weida suggested me to speak in different languages to different people.
 As Weida behaved like an English gentleman, I can speak English with him.
-"With Xinyi, it is definitely ancient Chinese. For Zhiyuan, it should be linux language." Such comment astonished Zhiyuan, who
+"With Xinyi, it is definitely ancient Chinese. For Zhiyuan, it should be linux language."Such comment astonished Zhiyuan, who
 said "I think I could occupy the position of Chinese."
 
 When we returned from the fast food restaurant to our Information Building, we had
 to pass the square in front of the bureau of university town. Last evening
 it was occupied by the exhibition of Huawei cloud. But we could not have an inside look, since we did not
-have the tickets.
+have the tickets. When we chatted on the way back to lab, somehow the topic diverted to an amusing anecdote about me.
+The story went as follows:
+
+Xinyi had one bottle of cola in the refrigerator. After drinking the first cup, I put
+it in the cooler mistakenly. WHen I wanted to drink for the second time,
+I found that I could not open the lid since the liquid is frozen. As an alternative way, I made a hole on the upper side of the plastic bottom with the scissors.
+
+This story happened a few months ago. Afterwards, Xinyi pointed out that I was lacking
+of the common knowledge of physics. On one side, soft drink is forbidden to be placed
+in cooler, as it is easier to explode. On the other side, if I could wait for the
+frozen material becomes liquid again, the lid can be opened in the normal way.
+
+So last evening, this story was told again by Weida to make our four laugh.
+Thus we reached the Information Building.
