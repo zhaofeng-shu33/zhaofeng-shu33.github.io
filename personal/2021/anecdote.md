@@ -41,7 +41,7 @@ is healthier than eating habits of others.
 When Xinyi ate burgers like a wolf, I asked him to describe in Japanese his feeling,
 he said "幸せな顔". "Why don't you use 美味しい ?" I wondered.
 He replied, "Such word is too common, and you can even add some adverbs in front like
-とでも美味しい." Weida suggested me to speak in different languages to different people.
+とても美味しい." Weida suggested me to speak in different languages to different people.
 As Weida behaved like an English gentleman, I can speak English with him.
 "With Xinyi, it is definitely ancient Chinese. For Zhiyuan, it should be linux language."Such comment astonished Zhiyuan, who
 said "I think I could occupy the position of Chinese."
