@@ -6,7 +6,7 @@ in the main campus of Tsinghua, we discussed more on what we could get in Shenzh
 Originally I forwarded a message of registration to the wechat group of our lab.
 This registration is for attending the Shenzhen branch venue, which will play the global
 broadcast of the anniversary evening party. The next day, Xinyi reminded us that this
-registration was rewardable, "Don't forget that it will distribute the souvenir shirt
+registration was rewarding, "Don't forget that it will distribute the souvenir shirt
 for attendees." So Weida, Xinyi and I all applied for the allocation. I found that
 the channel for students was simply to fill an online doc. Editing the doc doesn't
 need authentication, which means that outsiders who subscribed the wechat account
