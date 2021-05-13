@@ -173,6 +173,22 @@ For archived paper materials, see [personal-archive.leidenschaft.cn](http://pers
 
 > > [2012/Is No. 8 better than No.1?](2012/No8VsNo1.md)
 
+> > [2012_1_22/作文](2012/作文.md)
+
+> > [2012_4_1/平衡状态](2012/平稳状态.md)
+
+> > [2012_6_10/No option but to continue](2012/no_option_but_to_continue.md)
+
+> > [2012_9_1/Cleaning the room](2012/Cleaning_the_room.md)
+
+> > [2012_10_1/My present, your past](2012/my_present_your_past.md)
+
+> > [2012_10_27/笔记](2012/笔记.md)
+
+> > [2012_10_27/Gain and lost](2012/gain_and_lost.md)
+
+> > [2012_10_29/Mo yan](2012/moyan.md)
+
 > 2013
 
 > > [2013/大富翁](2013/大富翁.md)
