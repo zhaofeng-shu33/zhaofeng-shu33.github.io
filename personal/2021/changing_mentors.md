@@ -18,4 +18,9 @@ large deviation except for the first one. Jian Xu said, "I liked the research ar
 could publish papers easily and helpful for my future career. In such measure, information measure
 is not helpful and even useless."
 
-Compared with him, Yi Yan was more easy-going.
+Compared with him, Yi Yan was more easy-going. He did not have great ambition
+to compute with others in academic domain. Recently he made acquaintance with
+her current girlfriend by the go-between, Yifei Zhu, and he felt satisfied.
+To his contrary, Jian Xu had no great interests in seeking a girlfriend at current
+stage. He thinks more on personal success and holds several hard requirement
+for his future partner.
