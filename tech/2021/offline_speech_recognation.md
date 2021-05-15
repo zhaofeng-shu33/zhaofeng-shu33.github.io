@@ -1,9 +1,12 @@
 # Offline speech recognition
 2021/4/19
 
+working directory:
+`/home/zhaofeng/Documents/tech/julius/ENVR-v5.4.Dnn.Bin`
+
 Using `julius`, which supports Japanese.
 ```
-../julius/julius -C julius.jconf -dnnconf dnn.jconf -nolog > a.txt
+../julius/julius -C julius.jconf -dnnconf dnn.jconf > a.txt
 grep "sentence1.*" a.txt
 ```
 
