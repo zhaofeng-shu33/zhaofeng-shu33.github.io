@@ -41,14 +41,14 @@ on the differentiation of hobbies. In my view, hobbies or activities are
 put on one level of a huge pyramid. More people undertake it, the higher its position will be.
 Xinyi admitted that this standard came from matter of fact, but insisted on
 the similar feeling obtained from the activities. He said, "When I was busy, I played games for leisure. When
-I was not busy, I could study ancient Chinese. That's all their difference."
+I was not busy, I could study classical Chinese. That's all their difference."
 
 "Apart from mental pleasure, does the satisfactory feeling consist of other components?" I asked and
 explained further, "For example, when you were fans of Beijing opera. You found pleasure
 from appreciating the show, but you also felt a sense of mission to impart this
 quintessence to the next generation."
 
-"No sense, I didn't have such strange feeling when I was studying ancient Chinese." Xinyi replied.
+"No sense, I didn't have such strange feeling when I was studying classical Chinese." Xinyi replied.
 "Maybe it is your mindset. You learn foreign languages because they were at the top of the
 imaginary pyramid. The more you are capable of, the more superior you feel towards others."
 
