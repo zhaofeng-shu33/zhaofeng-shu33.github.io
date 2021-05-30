@@ -45,7 +45,7 @@ story of Asa Huang, whose confidant changed a word of her dedication from "best"
 to "beautiful". I said, "In the future, there will also be happiness to be expected.
 Though the pleasant time of the past could not come back, they are worth cherishing."
 After the discussion of the influence of family life on our growth, the topic comes
-to reality. Yang Bai sticks to her point that I should focus on the immedient return,
+to reality. Yang Bai sticks to her point that I should focus on the immediate return,
 trying to publish papers with high citation and trying to obtain a job with high salary.
 
 When our discussion finished, we went to the nearby shopping malls to seek good
