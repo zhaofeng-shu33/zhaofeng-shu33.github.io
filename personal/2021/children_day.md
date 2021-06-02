@@ -3,7 +3,7 @@
 
 Tomorrow Fei Ma would go to Tencent AI Lab for an internship. Within
 this circumstance, we gathered together for a buffet in Gaoneng Mall
-near Taolang Station. According to my regular plan, I would go climbing
+near Tanglang Station. According to my regular plan, I would go climbing
 from 4.30 pm on Tuesday. But today's weather is not good, and it rained
 now and then. Besides, it was not polite to refuse such occasion though my
 physical condition is not well recently. So this afternoon, I stayed

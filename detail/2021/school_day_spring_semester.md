@@ -22,3 +22,12 @@ the career path for translators in China becomes harder. But she manages
 to help those newcomers for their deserved rights. Translators
 are often cheated by some bad companies. Sometimes the manuscript charges
 can be returned only by legal way.
+
+## Resume the relationship
+2021/6/2
+
+Last night I dwelt on the contents I needed to write to show
+my sincereness towards Yang Bai. But after I got up, I found
+it was difficult to start. To my pleasant surprise,
+this afternoon Yang Bai apologized to me through wechat message.
+I immediately accepted her expression. So our relationship resumes.
