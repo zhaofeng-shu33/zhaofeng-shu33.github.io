@@ -40,7 +40,7 @@ we teased one another to kill the waiting time until the guard let us
 into the mysterious building.
 
 Feeling cool and nervous, we carefully showed our identity cards on the
-threshold of the examing room, which was similar to those in No.1 high
+threshold of the examination room, which was similar to those in No.1 high
 school. Perhaps they served as chemistry labs judging from the tap
 in the middle of each table.
 
@@ -49,7 +49,7 @@ were hard to guess, though each was a choice from A, B, C, D or E.
 It was very cruel to think that others might know how to make it out while
 you couldn't, which was also true in other cases.
 
-When we escaped from the examing rooms, we found the school gate was crowded
+When we escaped from the examination rooms, we found the school gate was crowded
 with so many students in spite of the opening gate. It was enough to prove
 that No.1 high school was too small to have the necessity to open the
 larger gate. Perhaps we were all frogs under the well except you went to more
