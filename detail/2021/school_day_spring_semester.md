@@ -31,3 +31,15 @@ my sincereness towards Yang Bai. But after I got up, I found
 it was difficult to start. To my pleasant surprise,
 this afternoon Yang Bai apologized to me through wechat message.
 I immediately accepted her expression. So our relationship resumes.
+
+# Massive testing
+2021/6/7
+
+When I woke up this morning, I heard that negative Covid test result
+became necessary for passengers leaving Shenzhen airport.
+If this measure continued to the end of this month, it will definitely
+influence my plan. I had not enough time to worry before Mr. Huang
+told us in class that the massive testing for staffs and students in
+the university town would take place tomorrow. I thought the testing
+was not beneficial for students. But Mr. Huang claimed that it was
+compulsory for students until you quit the education.
