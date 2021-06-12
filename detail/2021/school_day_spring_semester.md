@@ -43,3 +43,27 @@ told us in class that the massive testing for staffs and students in
 the university town would take place tomorrow. I thought the testing
 was not beneficial for students. But Mr. Huang claimed that it was
 compulsory for students until you quit the education.
+
+# CET 6 test
+2021/6/12
+
+This afternoon I went to take the CET 6 exam. By accident,
+I met Kong Deqiang and Xiong Zhenwen. I made acquaintance with them
+long time ago. The first is a sports figure in our campus. He is
+famous for his running. As a senior phd student, on one hand,
+he uses running to release his pressure in scientific research.
+On the other hand, he loves this kind of sports. The second is
+a third-year master student of TBSI. I was surprised when I heard
+that his destination was not determined yet. Both of the two
+had some tendency for the job of public service. Even for the track
+of sole graduates of current year, the admitted ratio for one post is several
+scores. The situation of Xiong is not so optimistic. Before he started his master
+study, he had worked for six years in Shenzhen. As a result, he was not young now. Many
+institutions have age limitation for applicants. So it becomes impossible for him
+to apply for some positions. When we ate together after the exam in the village,
+brother Kong encouraged Xiong not to be disappointed for his hard situation.
+"There are many choices in each turning point of life. Some are secure while others
+are risky. Secure ones make your life plain while risky choices bring some hope
+for you to make greater achievement. Once determined, don't be afraid of your choices."
+Kong said to us.
+
