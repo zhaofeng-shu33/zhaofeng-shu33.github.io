@@ -32,7 +32,7 @@ it was difficult to start. To my pleasant surprise,
 this afternoon Yang Bai apologized to me through wechat message.
 I immediately accepted her expression. So our relationship resumes.
 
-# Massive testing
+## Massive testing
 2021/6/7
 
 When I woke up this morning, I heard that negative Covid test result
@@ -44,7 +44,7 @@ the university town would take place tomorrow. I thought the testing
 was not beneficial for students. But Mr. Huang claimed that it was
 compulsory for students until you quit the education.
 
-# CET 6 test
+## CET 6 test
 2021/6/12
 
 This afternoon I went to take the CET 6 exam. By accident,
@@ -66,4 +66,5 @@ brother Kong encouraged Xiong not to be disappointed for his hard situation.
 are risky. Secure ones make your life plain while risky choices bring some hope
 for you to make greater achievement. Once determined, don't be afraid of your choices."
 Kong said to us.
+
 
