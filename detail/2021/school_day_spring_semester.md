@@ -67,4 +67,16 @@ are risky. Secure ones make your life plain while risky choices bring some hope
 for you to make greater achievement. Once determined, don't be afraid of your choices."
 Kong said to us.
 
+## A brand-new path
+2021/6/21
 
+Yesterday Yang Bai told me that she was admitted by a promising lab of Berkley University
+as a visiting student. This was a milestone for her plan of going aboard. If I was her
+good friend, I would definitely congratulate her on such matter. But I was her boyfriend,
+so I could not be happy when I heard the brand-new plan of Yang Bai: "Becoming post-doc
+in USA if the research is smooth". I knew this was only an initial idea, and I was thankful
+that she told me this possibility to me in advance instead of acting first and reporting afterwards.
+But what I worried was that our life would become out of sync. A few months ago, I considered
+a little about the possibility of going aboard for a post-doc position, and soon abandoned this
+immature idea. For me now I only considered one path, entering Huawei or Alibaba in Beijing.
+ 
