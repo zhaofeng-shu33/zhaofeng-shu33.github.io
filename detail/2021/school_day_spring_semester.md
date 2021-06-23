@@ -79,4 +79,17 @@ that she told me this possibility to me in advance instead of acting first and r
 But what I worried was that our life would become out of sync. A few months ago, I considered
 a little about the possibility of going aboard for a post-doc position, and soon abandoned this
 immature idea. For me now I only considered one path, entering Huawei or Alibaba in Beijing.
- 
+
+## A box of walnut
+2021/6/23
+
+This noon I saw xiangxiang was eating something in front of the trash can of our lab.
+"What are you eating?" I asked him. "Walnut." He said while shelling the food in his hand.
+As he pointed, I found a box of walnut in the food area of our lab. This is the only remaining
+food on the surface of the cabinet. "Whose box of walnut?" I questioned him further.
+"It's provided by myself." Xiangxiang said slowly.
+"Nobody eats it except you, because everybody likes eating soft food while only you like eating
+hard food." I commented. Actually this comment hints on the difference of research topic in our lab.
+Xiangxiang seems to be the sole person to have some achievement in theoretical exploration while
+others tend to pick topics on algorithm or application level. The latter sells much better than
+the former when it comes to seeking a good job.
