@@ -177,6 +177,36 @@
 - [Programming Assignment 2 Pre-knowledge](learning_from_data/PA2_slides.pdf)
 - [Programming Assignment 3 After-knowledge](learning_from_data/pa3_slides.pdf)
 
+## Probability Theory (2021 Spring) Teaching Assistant
+
+- [Exercise 1](probability/Probability_Theory_Exercise_1.pdf)
+- [Exercise 2](probability/Probability_Theory_Exercise_2.pdf)
+- [Exercise 3](probability/Probability_Theory_Exercise_3.pdf)
+- [Exercise 4](probability/Probability_Theory_Exercise_4.pdf)
+- [Exercise 5](probability/Probability_Theory_Exercise_5.pdf)
+- [Exercise 6](probability/Probability_Theory_Exercise_6.pdf)
+- [Exercise 7 and 8](probability/Probability_Theory_Exercise_7_and_8.pdf)
+- [Midterm Exam](probability/Probability_Theory_Spring_2021_Exam.pdf)
+- [Solution to Midterm exam](probability/answer.pdf)
+- [Midterm Review Session, Solution to Exercise 1-5](probability/review_session.pdf)
+- [Solution to Exercise 6](probability/p6.pdf)
+- [Solution to Exercise 7 and 8](probability/p78.pdf)
+
+## Large deviation (2021 Spring)
+
+- [Exercise 1](large_deviation/ldhsps1.pdf)
+- [Exercise 2](large_deviation/ldhsps2.pdf)
+- [Exercise 3](large_deviation/ldhsps3.pdf)
+- [Exercise 4](large_deviation/ldhsps4.pdf)
+- [Exercise 1 Solution](large_deviation/ldp-1.pdf)
+- [Exercise 2 Solution](large_deviation/ldp-2.pdf)
+- [Exercise 3 Solution](large_deviation/ldp-3.pdf)
+- [Exercise 4 Solution](large_deviation/ldp-4.pdf)
+- [Large deviation and Hypothesis Testing](large_deviation/hypothesis_testing.pdf)
+- [Cramér Theorem](large_deviation/cramer_thm.pdf)
+- [Final Presentation](large_deviation/presentation.pdf)
+
+
 # 社工思考
 
 - [机器人主题支教](2018/robot_teaching.md)

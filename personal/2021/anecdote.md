@@ -53,7 +53,7 @@ have the tickets. When we chatted on the way back to lab, somehow the topic dive
 The story went as follows:
 
 Xinyi had one bottle of cola in the refrigerator. After drinking the first cup, I put
-it in the cooler mistakenly. WHen I wanted to drink for the second time,
+it in the cooler mistakenly. When I wanted to drink for the second time,
 I found that I could not open the lid since the liquid is frozen. As an alternative way, I made a hole on the upper side of the plastic bottom with the scissors.
 
 This story happened a few months ago. Afterwards, Xinyi pointed out that I was lacking

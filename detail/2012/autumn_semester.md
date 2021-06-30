@@ -121,4 +121,28 @@ The machine clang nearly submerged her reply. The dim light
 and the uncomfortable smell drove me away when I obtained her reply,
 which was nearly submerged by the machinery clang.
 
+As I can remember, a few days ago, I hurried here and entreated her, "My card was lost. Could you please..."
+
 note(2020/5/9): The job at the printing room seems not to belong to official jobs and is provided with very low salary.
+
+## Universities
+2021/12/18
+
+The teacher asked us to fill our names in the chosen blank form, which listed important
+domestic universities. Many cudgel their brains but made no final decision. Tai said, "
+I can't focus my attention on schoolwork last class because I am incapable of
+preventing myself from considering my prosperity." Hesitation is the woe to our
+happiness, in every aspect of life.
+
+Arrangement in advance is hard to fulfill adequately.
+Some boys like Cheng Weizheng signed up for 8 universities (or more).
+"You can't deal with all your choices, and will be destined to abandon
+part by doomy situation." The teacher said.
+
+When I cast my eyes on the crumpled form paper to seek the name of Tsinghua
+University and another famout one. Tai (at my side) said casually,
+"You don't need to do it. Everyone knows clearly your choice."
+
+Sun Zhongkai, while proclaiming that the deliberate consideration of which
+universities to attend takes up his limited time, was still cautiously choosing a few
+destinations for himself. Without consciousness, we performed what we hated inwardly.
