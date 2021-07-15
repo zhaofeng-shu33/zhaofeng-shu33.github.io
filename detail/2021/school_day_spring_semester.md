@@ -93,3 +93,9 @@ hard food." I commented. Actually this comment hints on the difference of resear
 Xiangxiang seems to be the sole person to have some achievement in theoretical exploration while
 others tend to pick topics on algorithm or application level. The latter sells much better than
 the former when it comes to seeking a good job.
+
+## The most difficult obstacle
+2021/7/14
+
+It is already two weeks since I came to Beijing. I gradually found that the most difficult obstacle for me is loneliness. My good friends are either in Shanghai or Shenzhen while my parents live in Guangzhou. When I tried to arrange some offline occasion for the reunion of friends from my junior school, they seem not to be available currently. In the evening before I went to sleep, I regularly read the poems of Du Fu. The topics of his poems are diversified. The ones which touch me most are those which expressed his memory about precious days in his youth when he travelled with friends. Du Fu was unable to do anything except expressing his feeling through writing when he became old. In my case, I felt more and more about the hypocrisy in social engagement, which disgusts me a lot. In some perspective it’s an art of contact, but it can also be understood as the encoded message
+of communication. It’s indirect and you need to think for a while before you decipher its real intention. For example, in the company one colleague who sits nearby me suggests me to have more rest in the noon. But he follows his suggestion by the comment that the sound of my keyboard has high amplitude, which means that he is bothered while sleeping. Indeed, I have a earlier biological clock than my companions. I come earlier, eat lunch earlier, have a noon snap earlier and start using computer earlier.
