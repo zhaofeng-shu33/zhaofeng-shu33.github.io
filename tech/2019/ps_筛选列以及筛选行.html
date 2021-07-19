@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ps_筛选列以及筛选行</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>ps 筛选列以及筛选行</h1>
+<p>2019/07/17</p>
+<p>Unix 操作系统上的 ps 命令用于查看系统进程相关的信息。</p>
+<p>除了用 <code>ps -ef | grep xxx</code> 的方式外，利用一些 ps 内置的选项也能完成同样的功能，并且避免了无关的信息。</p>
+<p><code>-o</code> 参数用于筛选列。</p>
+<p><code>ps -e -o pid,command</code></p>
+<p><code>-p</code> 参数用于根据pid 筛选进程
+<code>ps -p 12345</code></p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

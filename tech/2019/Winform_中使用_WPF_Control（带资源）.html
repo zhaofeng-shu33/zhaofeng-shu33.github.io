@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Winform_中使用_WPF_Control（带资源）</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Winform 中使用 WPF Control（带资源）</h1>
+<p>2019/07/17</p>
+<p>.Net 中 winform 中使用 WPF 控件已有较多的讨论，但若控件本身带有引用的资源，则情况变得复杂，笔者亲测可以在
+全局的 Application 对象中动态增加资源的方法解决。</p>
+<ol>
+<li>
+<p>由于WinForm 默认不含 Application 全局变量，需手动引入。
+首先在exe 项目中增加 PresentationForm 的引用
+<code>C#
+using System.Windows
+if (null == System.Windows.Application.Current)
+{
+    new System.Windows.Application();
+}</code></p>
+</li>
+<li>
+<p>在自定义的 UserControl 子类的构造函数 <code>InitializeComponent</code> 执行之前动态增加所需要的资源
+ <code>C#
+ using System.Collections.ObjectModel;
+ System.Uri resourceLocater = new System.Uri("/ACMonitorSystemUserControl;component/myresource.xaml", System.UriKind.Relative);
+ ResourceDictionary rd = (ResourceDictionary)Application.LoadComponent(resourceLocater);
+ Application.Current.Resources.MergedDictionaries.Add(rd);</code>
+这样做不需要在 xaml 文件里引用资源（xaml 引用方式不能在其他项目中使用该控件。）</p>
+</li>
+</ol>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

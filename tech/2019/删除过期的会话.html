@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>删除过期的会话</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>删除过期的会话</h1>
+<p>2019/01/31</p>
+<h1>背景</h1>
+<p>SSH远程登录Ubuntu服务器因网络原因导致会话中断，重新登录后原会话仍存在但不可重入，需要手动删除之。</p>
+<h1>命令</h1>
+<p><code>shell
+skill -KILL -t pts/3</code>
+其中 <code>pts/3</code> 填写要删除的会话号，可以用 <code>who</code>命令查看。</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

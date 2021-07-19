@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>内网ssh穿透</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>内网ssh穿透</h1>
+<p>2019/04/10</p>
+<p>公司服务器没有公网IP，只有内网IP，利用自己的阿里云服务器（有公网ip）做ssh内网穿透，使得外网可访问。方法如下：</p>
+<p>环境：
+公司服务器和阿里云服务器均为 Ubuntu 操作系统，
+需要修改阿里云服务器的 sshd_config 的相关配置与 公司服务器 ssh_config 的相关配置使得</p>
+<ol>
+<li>sshd server 支持 remote port forwarding</li>
+<li>会话不会自动断开</li>
+</ol>
+<p>具体操作见 <a href="https://bjornjohansen.no/ssh-timeout">ssh preventing timeout</a>.</p>
+<p>首先配置公司服务器可以ssh无密登录阿里云服务器，具体方法是用基于密匙的方法，见 <a href="https://help.ubuntu.com/community/SSH/OpenSSH/Keys">ssh keys</a>。</p>
+<p>然后在公司用工作站ssh登录公司服务器, 在公司服务器上登录阿里云服务器，后面一个登录需要用 nohup 处理，避免前一个会话断开后导致后一个登录会话失效，后面一个完整的ssh登录语句为：</p>
+<p><code>shell
+nohup ssh -tt -R aliyun_server_port_number:company_server_intranet_ip_address:company_server_ssh_port_number aliyun_server_username@aliyun_server_domain_name 2&gt;&amp;1 &amp;</code>
+后面一个登录不会打开新的 terminal。退出前一个ssh会话。用如下的方法测试公司服务器ssh内网穿透（在工作站上）
+<code>shell
+ssh -p aliyun_server_port_number aliyun_server_username@aliyun_server_domain_name</code>
+参考：
+1. <a href="https://www.ssh.com/ssh/tunneling/example">ssh tunneling example</a>
+1. <a href="https://help.ubuntu.com/community/SSH/OpenSSH/PortForwarding">ssh port forwarding</a></p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

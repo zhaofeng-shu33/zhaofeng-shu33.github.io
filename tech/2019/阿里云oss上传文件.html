@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>阿里云oss上传文件</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>阿里云oss上传文件</h1>
+<p>2019/12/07</p>
+<h1>方法一</h1>
+<p>使用 web interface 上传</p>
+<h1>方法二</h1>
+<p>使用 <a href="https://github.com/aliyun/oss-browser">oss browser</a> 官方客户端软件上传，支持桌面操作系统，首次打开时输入 appid 和 secret 登陆，预设 oss 路径为 <code>oss://oef</code>，地域选深圳。
+登陆后可上传文件。</p>
+<h1>方法三</h1>
+<p>使用 <a href="https://github.com/aliyun/ossutil">oss util</a> 官方命令行工具上传，可以通过 <code>cron</code> 定时任务实现定期上传、备份等。
+首先下载 <code>ossutil64</code> 这个可执行文件（不同系统名字可能不一样），使用方法为首先创建配置文件（修改id 和 secret）：
+<code>shell
+cat &lt;&lt;EOF &gt;&gt; ~/.ossutilconfig
+[Credentials]
+language=EN
+endpoint=http://oss-cn-shenzhen-internal.aliyuncs.com
+accessKeyID=aaa
+accessKeySecret=aaa</code>
+然后用<code>ossutil64 cp local_file oss://oef/remote_dir/</code>，常用的命令有 <code>ossutil64 ls oss://oef/</code>，<code>ossutil64 mkdir oss://oef/test_dir2</code> 与Linux <code>ls</code>, <code>cp</code> 类似命令。</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

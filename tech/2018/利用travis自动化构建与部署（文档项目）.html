@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>利用travis自动化构建与部署（文档项目）</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>利用travis自动化构建与部署（文档项目）</h1>
+<p>2018/12/15</p>
+<h1>背景</h1>
+<p>保持网站上文档的最新性有比较重要的意义， travis ci 提供了免费的解决方案，本文基于 latex 构建+ aliyun oss 部署对此作了尝试。
+项目链接为 <a href="https://travis-ci.org/zhaofeng-shu33/lab2c_presentation_template">https://travis-ci.org/zhaofeng-shu33/lab2c_presentation_template</a></p>
+<h1>构建</h1>
+<p>travis 本身不提供 texlive 的编译环境，需要用脚本安装，为减少每次下载大量包的延时，可采用 cache 的配置方法。为此在 <code>.travis.yml</code> 配置文件中通过
+判断 <code>tlmgr</code> 有没有安装来区分是否是首次构建，从而决定是否需要下载texlive并安装。</p>
+<h2>构建时遇到的问题</h2>
+<p>texlive 不能很好的解决包依赖的问题，一方面安装了一些在编译过程中没有用到的宏包，另一方面会因为基本 collection 里面没有安装的包而报错。我们采用比较笨的方法是用 tlmgr 安装缺失的宏包。</p>
+<h1>部署</h1>
+<p>aliyun oss 部署有多种编程语言的sdk可供选择，这里我们使用python sdk。为此需要下载 oss2 的包，同样用 cache 来加快以后的部署速度。
+为确保 appsecret 的安全性，采用在travis 项目设置里面配置环境变量的方法，有自动加密的功能。使用时像读取普通环境变量一样读取即可。</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

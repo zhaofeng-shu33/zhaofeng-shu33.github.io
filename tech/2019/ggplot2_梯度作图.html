@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ggplot2_梯度作图</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>ggplot2 梯度作图</h1>
+<p>2019/01/31</p>
+<p><code>ggplot2</code>是R语言的绘图包</p>
+<p>```R
+library('ggplot2')
+df &lt;- data.frame(var=c("a","b","c","d","e","f","g","h","i","j"), nums=c(1:10))</p>
+<h1>fill group should be within [0,1]</h1>
+<p>plot2 &lt;- ggplot(df, aes(x=var, y=nums, fill= df$nums/10)) + geom_col() + scale_fill_gradient(low="red", high="green") + guides(fill = guide_colourbar(barwidth = 2, barheight = 10))
+print(plot2)
+```</p>
+<p>效果图：
+<img alt="" src="https://img2018.cnblogs.com/blog/1503439/201901/1503439-20190131235721815-1557311910.png" /></p>
+<p>参考：
+<a href="https://ggplot2.tidyverse.org/reference/guide_colourbar.html">ggplot2</a></p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>deep_learning_reproducibility</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Deep Learning Reproducibility</h1>
+<p>2019/10/20</p>
+<p>We propose a Cloud DevOps-based method for this. GitLab large file storage is used to save the model (10GB per repo). Kaggle is used to save the data (20GB per dataset). To reduce the storage, we only save the latest version of the model and data. Also, model and data should be compressed before uploading to the server. We do not version the data and model since it will make the storage exploding, especially for model since it is frequently updated. Also, model cannot be saved as training artifact. Also, we think it is not necessary to make version of the data and model. Traditional computer algorithm only cares about code itself and often uses randomly gnerated data to test the algorithm (also some very small-scaled hand made data is used). In deep learning, method is highly coupled with data. In DevOps, we update the code frequently and old code has good results on old data. From this point of view, we should make version of the data. But the reality does not allow us to do so. This is one aspect. Another aspect is that dataset is the output of an output of another project. For most research, it is stable enough. We do not need to version it. Model is the output of training stage and one of input to the test stage. Indeed there are some drawbacks of only providing the latest version of model. Old version of test code may not produce good results. But we believe the verification of latest stable version is more important than hesitating on how to start.</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

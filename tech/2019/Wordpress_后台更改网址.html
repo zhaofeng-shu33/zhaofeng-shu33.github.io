@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Wordpress_后台更改网址</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Wordpress 后台更改网址</h1>
+<p>2019/02/12</p>
+<p>在 `wp_options`&nbsp;数据库执行下面两条命令</p>
+<p>```sql</p>
+<p>update wp_options set option_value = 'your_new_url' where option_name = 'home';</p>
+<p>update wp_options set option_value =&nbsp;'your_new_url' where option_name = 'siteurl';</p>
+<p>```</p>
+<p>新的URL为wordpress&nbsp;主页的url。</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

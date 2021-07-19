@@ -1,0 +1,19 @@
+language: python
+install:
+  - pip install -r requirements.txt
+script:
+  - python md2html.py --mode whole ./
+
+before_deploy:
+  # Set up git user name and tag this commit
+  - git config --local user.name "robot"
+  - git config --local user.email "robot@localhost"
+  - git tag "$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)"
+
+deploy:
+  - provider: pages
+    skip_cleanup: true
+    github_token: $GITHUB_TOKEN
+    local_dir: ./
+    on:
+      branch: master

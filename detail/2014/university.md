@@ -1,0 +1,119 @@
+# 大一下－大二上随感
+
+## 由偶然間和班長的一次聊天引起的思考
+2014/1/17
+
+“我給自己的自我評價是，前半學期忙過去了，后半學期玩過去了。”班長傅岱三石如是說。
+
+我并不知道“管不住自己玩游戲是怎樣一種狀態”我所能看到的，只是每次我晚歸時傅同學在玩游戲。
+
+我們都隱隱的知道，專業數學以外學不好沒什么關系，但專業學不好與人生無望似乎已經可以劃等號。
+
+有時候我也會很心急地被 peer pressure 推著復習，也會對學期中的在專業課上的抱殘守缺（只讀課本和做作業）有一些想法，但總體來說，我在積極向上一點上初衷沒有變掉，只是因為種種原因虛度了一些青春時光。
+
+然而面對他人的痛苦與彷徨時我會怎么選擇，因為傅謝我主動給了他幾道高代題目而他談及自己的一些隱秘的想法。涉及每每碼字而熬夜我也有一些矛盾，畢竟在價值選擇上考慮了往往也沒有結果，但我覺得及時記下自己的感受是非常重要的。石發強已經退出了這里，那么我們怎么會希望傅同學無奈地步其后塵？而不無私心地講，在高女神的剪影中和傅的例子中我也在不斷調整自己的價值選擇。特別是必須無條件把一天的大部分時間交給數學，其實達不到本年級的中上游自己其他方面的發展會很有后顧之憂。這一點足以把生命中的其他部分一票否決，于是我只能更加謹慎地選擇。希望有機會能幫一下傅同學。
+
+## 從一道物理題目到琛璽
+2014/1/24
+
+誠懇的一位高三學弟問了我一道物理題目，我一直試圖用忘得快差不多的高中知識解決，后來稍用微積分就拿下，又不免沉思。作為一個還沒接受大物訓練的同學，和他們這些對付自招題的學弟在一起，在肯定高三是rewarding的同時，是不是他們也被緊緊地束縛住了呢？
+
+琛璽大一上比較刻苦、辛苦，但他們的文科教學模式似乎存在很大問題。
+每晚和文耀一同回家，從他的言談中我聽出的是摻雜著自卑與達觀的心態，但愿兒時的玩伴能有一個美好的未來。
+
+## 送东阳马生序
+2014/1/20
+
+午間小憩時忽然憶起送東陽馬生贈序來，又找來看了一下，馬生與宋濂少時的學習條件真是有天壤之別。宋提到了凍餒之患，奔走之勞，師資力量與藏書條件四個方面，都是太學所能給學生提供的，于是宋會這樣感嘆，其業有不精，學有不成者，非天智之卑，心不專耳。
+想一想現在的大學條件和彼時的太學條件送差不多，甚至有了科技的輔助會更優越。
+另外，宋能遍觀群書，以及民國時代乃至古往今來的博學者，無不是博覽群書的人。
+為學的人會在今后選擇不同于為學歷的道路，專 與 博 之 矛盾會讓如風對學無止境產生新的想法。
+
+## Project Euler
+2014/2/15
+
+Project Euler 编程在一道数论色彩很浓的求循环节最大值的题目上徘徊很久，至今无解。如今回顾这几天的学习，觉得不能仅在脑海里总结，不妨写下它们。
+孤独感也许不是大敌，我所短的数分复习与英语听力始终没能给时间，而英语小说、明史、德语都有所进步，高代与解几的学习复习安排得也不理想，正如自己当初给杨凡说的，安静的寒假确实可以按自己的规律学习，但绝非那般理想，嗜睡，贪吃，在数学面前难以平静，一个个大敌偷走了青春的正直与清纯。既决心把过去诸事特别是儿女情长深藏在心底，然而自己又对漠视周围感到难过，一切以自我为中心，这绝不是当代青年的出发点。
+
+诚然惰性与进取心折磨着自己的专业前进，对“水”物的鄙视又让自己对电视节目不再有好感，但偶尔会听到点信息，节目制作方还是会用一些用法吸引观众，但“焦点访谈”毕竟还是说出了实情，如果停留在假丑恶的表面抱怨只能证明观者没有远见。事实上Internet 充诉着商业利益，像LiverBox这样的for public domain 毕竟是少数，而个人的某种需求被Internet拒绝后而难过也只能证明自己不够成熟。
+
+自己决定抛开过去不是要丧失过去的美质与情感而变成Study Machine，也许我该提醒自己，不要认定自己只是知识的接受者，你有情有自己的人生经历与感，你总要尝试着联系事物与深入事物背后的奥秘。各种障碍无不随心而生，心定则万事安矣。！
+
+## 名余曰正則兮
+2014/3/28
+
+周助教竟在講正則曲線與曲面時提到了“正則”的漢語源來，屈、原、均都有平的意思，正則也不例外，像大地一樣，這源于離騷。臺下突然出現了嘖嘖的稱贊聲，這是經過八年數學磨練的人卻突然來了一個跨學科的“吐槽”，這是很自然的名詞稼接，從regular 到形容詞本身對事物的描述，令人油然而向往那種在這樣程式化公式化的世界中迷失的人兒突然發現了桃源，盡管是那么短暫。
+
+## Study for test (oder die Abschulussprüfung vorbreiten).
+2014/6/22
+
+I have to think over my choice a day before the mathematical analysis exam. I sacrifice all my time preparing for this exam and although I feel not bad at the exam. I did not see much about the general integration of the academic world especially the art subject and science subject. Major is a road narrower and narrower. I probably can join in their talk about the problems after the exam, but I also feel confused about the paradox between the 4 directions I make up for myself. I learn that I neglect half part proof of the last problem but it all goes well according to my level. Most realistic problem is I must do not bad at the essential course and spend as possible as I can at other subjects. 
+
+## My story at summer camp
+2014/7/8
+
+### 剧本建议
+南華椿槿，五筆立就
+
+中式英語，介紹四聲
+
+不如參見，維基百科
+
+小小建議，并無他意
+
+關于劇本，人手不夠
+
+可否進行，人物刪減
+
+依愚拙見，自己制作
+
+汝愛文學，應兼中西
+
+莎翁原文，怎可忽略
+
+不妨截取，一二細讀
+
+方可添加，中國元素
+
+前輩默存，吾心慕之
+
+讀書氣質，汝可比肩
+
+融匯中西，汝不及之
+
+小小看法，并無他意
+
+### Reply
+何必一鼓作氣，不如明日大家 集思廣益
+莎翁不可小覷，如果我能助你 必當盡力
+
+### Two times when I had a slip of the tongue
+
+By free wind, Class 51 H province
+
+After our responsible male volunteer Richard had presented his travel experience with us, it was my turn to give a presentation. I just wanted a proper translation between his and mine. “A moment ago, Richard gave us a wonderful speech. Her destination is within China, but for my…”
+
+I hadn’t realized that I made a small but fatal mistake at the person usage. Laughter is unavoidable. My embarrassment is also unavoidable. I had to say, saying the third person in Chinese is much easier than English.
+
+This afternoon after 4 o’clock, I rushed to underground room to attend a lecture about the love poetry. My male classmate Jason sat just beside me. When the professor asked us about our reading about love poetry, I said something about Song poems. Jason put forward an example, “The great river is flowing towards the east…” So at that time I just wanted to pass the voice turn to him. “Jason can give more explanation. Her knowledge is wider.” I again paint the lily and made a joke. I have to say, mistakes are unavoidable if I try to express my opinion not in mother tongue. May this kind of wrong person be avoided next time!
+
+## Reply for birthday gift
+2014/7/12
+
+Nowadays English summer camp is going in Tsinghua University.
+
+Several days ago I went to a Lecture about love poetry.
+The young female poet made a love poetry relay among us. Winners (wrote the best sentences in the made-up poetry) are rewarded by the newly-published poetry collection. I appreciate little about the love poetry while my classmate won the collection by writing the way seems so long, never ended...
+
+Yesterday a one minute debate was going on and many groups choose the topic about social network. Some claim that you are tempted to use your phone even if you are studying. Others retort that communication is more convenient and can not be neglected. I think social network is negative as I little use it.
+
+That's part of my life. How about you?
+Ps: Katherine is the Name of a volunteer in my class.
+Is is a very common English female name.
+
+## An idea
+2014/7/22
+
+If there are some magazines or social-paper put at the entrance of the library, I often take a piece of several kinds away.
+
+While eating at canteen, I look through which interest me, as figures like ethnologist 民族學家 潘光旦. Probably I am his type. THe point of his life interest me most is his enthusiasm towards biology especially evolutionism. I more and more feel the figures during the early period of 20th century of China gave me many reference in behaving myself. Among them, I appreciate more and more on 錢忠書. To make things more ridiculous, I mentioned countless times of 華羅庚 during the period of English summer camp. This is because I use him as an example in my speech to demonstrate the benefits of learning foreign language towards mathematical research. Actually, I knew little about research and 華, only his disability and his genius. The key point lies that experience of others has little to do with one's realistic life.

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>make_bootable_win10_on_debian_buster</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>make bootable win10 on debian buster</h1>
+<p>2020/05/27</p>
+<p>It seems that <code>cp a.iso /dev/sdb</code> or <code>dd if=a.iso of=/dev/sdb</code> not works for win iso image.
+Since it formats the disk as UDF file system.</p>
+<p>We have a <code>win.im</code> which is larger than 4GB, fat32 format does not allow this. Therefore we use exFat.
+We don't use NTFS since many old machines do not recognize this format when they are on boot loading stage.</p>
+<p>We use MBR partition table, which can be created by GUI program <code>gnome-disk-utility</code>.</p>
+<p>Unfortunately, there is no GUI to format the usb as exfat format. We need to use command line to do this, see
+https://newtocode.wordpress.com/2014/02/12/format-usb-as-exfat-in-ubuntu-13-10-terminal/ for detail.</p>
+<p>After successfully formatting the disk, we follow https://itsfoss.com/bootable-windows-usb-linux/ to copy all files 
+of iso to the usb disk.</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

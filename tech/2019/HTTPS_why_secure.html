@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HTTPS_why_secure</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>HTTPS why secure</h1>
+<p>2019/08/18</p>
+<p>前提：只有有了私钥才能解密数据
+应用程序与服务器采用 HTTPS 协议进行数据传输，服务器先把公钥给应用程序，应用程序不是直接用公钥加密之后传输的数据，否则服务器后面传来的数据没法解密；应用程序先生成一个随机数，用公钥加密这个随机数传给服务器，然后服务器端用私钥解密后就知道这个随机数了；之后传输数据时采用对称加密的方法，应用程序与服务器均通过这个随机数加密解密数据。</p>
+<p>这种模式下中间人无法知道所传输的数据是什么。</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>dic_software_idea</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Some ideas sharing</h1>
+<p>2015/11/28</p>
+<p>昨天和计科的某位同学谈关于德语辅助学习软件的制作时无意间触及了这样一个有趣的话题，他们在做“金山词霸”的大作业时有的组确实弄出来一些很复杂的东西，比如记忆曲线等，“（单词训练）错一次就认为不会，对10次就认为会。”我问他为什么是10次，他说拍脑袋想出来的，反正做出来的东西也不是拿来用的。我觉得在micro social science 的意义上，这个数字可能偏高，但具体到一个单词要对几次才算通过，一方面这个模型本身太naïve, 另一方面要社科上实验的结果。</p>
+<p>和他谈我的想法时从算法出发说到两点，一个为article training的问题，假如将德二的课本电子化后，把课文中的article全挖成空技术上并不太困难，但很关键的一点是这种方法的训练有效度的问题，即使我不懂心学理论，也觉得太不靠谱---1 假如user填空是根据他对课文的熟悉程度而不是依据语法规律，就起不到预期训练作用；2在判断是用definite article or indefinite one这个问题上语法上无法给出很完善的规律总结，有些地方使用的比较模糊，不加区分的全设成空会误导user追问为什么这里用definite instead of indefinite 但有的即使是professional teacher 也解释不清（曾几何时，我在练习册上做到课文article全局填空时，错一大片不知其所以然；表面上出题者作为科班出身应懂得一些training rules, 但在很多情况下他们还是自以为是地粗制滥造些这种不友好的消费品）。我觉得从算法设计的角度可以解决一部分1，2中的问题，虽然那位计科的同学比较主张从真题中取出文章做article 挖空解决问题1，我总觉得会导致更严重的问题2且人为引入了德二课本语料以外的内容。那么做课文变体的可行性有多大呢？即通过对课文有限的修改变出无数种花样从而抑制user 提取因读的遍数多而强行植入的记忆部分。另一个关键之处在于selective 挖空，如果依照语法的规律根据某article特定的功能（有若干最主要的）分别设计不同的函数detect 某一article特定的功能，这有点类似于enzyme对底物的特异性识别。同时考虑到strong-weak functions 不能像确定论那样design multiple specific functions, 至少要用到语言学中entropy的概念来给出百分比（阀值）.但显然设计universal 特异性article function 识别function 绝非易事，即使不能做到对所有德语语料成功率达90%以上（就像人的insulin 的enzyme可以在细菌中表达），那么局限在德二课本上work 也是一个让人satisfied 的结果，只要不是做有限样本的全枚举。那位计科的同学听了我的想法立即想到他可以给每一个酶函数做接口，从而可以实现特异性标定课文article 语法功能的附加效果和提供多样的user -defined specific training combination results.</p>
+<p>我从算法出发说到的两点是关于“记忆曲线”的，“不清楚算法实现就把别人做好的“记忆曲线”的函数拿过来用，可能会出问题。”较好的解决方案是学会已有的“记忆曲线”working principle 然后自己写一遍，如果实在太复杂也要做定量测试（Test）并与提供的功能介绍相比较，总之要有评估。但考虑到设计评估算法本身又不太容易，实际上最schlecht 的方法就是在没有借鉴highly advanced algorithm的情况下闭门造车，自己design “记忆曲线”.关于这方面，Markov 链相关的数学知识有较大的用处。</p>
+<p>回去后我在Bing上查了一下statistical physics and linguistics词条，内容并不多，且直接转向了natural languageprocessing. 虽然有一种叫Enertex system 的算法用到的磁子自旋的ideas,但它同时也和neural network 密切相关---也许在算法设计层面上inspired by physiology 可能比by physics principles 还要多，不过如果考虑到近几十年关于neural network的突破也是数理方面的experts 做出来的理论的话，其实也没什么好争的。</p>
+<p>然而上面的论文毕竟too difficult for me,我能做的只好从已有的科学知识出发，在没有开始正式工作前，不妨天马行空地想一想。最大的启发除算法数学外，还来自Thermodynamics (统力按下不表，因为我现在想不通如果把语料中的每个word看成particle的话，partition function 是什么，也就没办法通过求微分得到感兴趣的状态参数)。热力学告诉我，只要知道了系统的初末态就可以通过design a process求各种状态函数变，这在很难写出状态函数关于各参量的显式表达式的情况下很有用。我目前学的一点点热力学（物化前三章）最常算的是简单不可逆物理过程的状态函数变，比如计算25度1atm下水变成gaseous state的熵变。它往往要和标准的（已知的）可逆过程状态函数变比较（100度1atm下水变成gaseous state可逆，由Clausius等式熵变等于热温熵，可直接求出），然后利用设计途径的办法间接算出感兴趣的状态函数变。虽然我现在对learning process 中各种心理学“状态函数”还一无所知，但在一定程度上，这种类比计算还是比较自然的，假如跳出软件层的话说这种计算方法的引入的好处的话可能更合适些：在不否认标准化考试的重要社会意义的前提下，我有对标准化训练产生质疑：every learner has different knowledge basis, how can you treat them without distinction? 即使对于很多选修课，“用户需求”更是diversified,甚至考核也难以标准化，物化上用一大各种零碎的大于小于号的填空彻底把我考跪了的说。对于前一个训练标准化的问题，我在暑假的时候即有过teaching trial（给高三的同学讲了一点物理竞赛的内容），亲自体会了behavioralscience 中反馈调节机制有多么的mechanical. 正如数理训练仍在施行的一样，we have to hand in our coursework assigned after every class. 但it seems that we do not get proper feedback. Anyway, 当时我是做到了作业往反好几次的，正如我的一个同学所评论的，这对于教者langweilig, low-efficient though it made a big difference to very few students. 过了这几个月我突然觉得借助计算机完成这种十分classical 的反馈调节的学习过程似乎有一定的可能，而这种可能性的算法层面上肯定离不开大量的数理计算。既然心学研究发现了人们用经验和主观判断时各种unconscious bias, 那么用数理函数做出的反馈结果一定会有比teacher做出的有更加科学的地方。且如果仅仅从标准化考试（比如高考，研考，托考）拿高分这样的角度来看的话，这种approach也许可以给出一种较优的训练途径，unique to every user，毕竟反馈的结果依赖于user的选择，演化结果无法提前知道。不过这一段扯的有点远，我还是老老实实去学点基本的东西吧。</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

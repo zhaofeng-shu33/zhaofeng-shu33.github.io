@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Windows_Server_RRAS_配置</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Windows Server RRAS 配置</h1>
+<p>2018/10/05</p>
+<p>在Windows Server上，RRAS 是 Rounting and Remote Access Service 的简称。
+通过 RRAS UI 管理器可实现 VPN 和 NAT 的配置。</p>
+<p>RRAS 用途</p>
+<ol>
+<li>建立 VPN</li>
+<li>建立 NAT</li>
+</ol>
+<p>VPN/NAT的建立</p>
+<p>场景</p>
+<p>考虑一个简单的场景，公司的若干台工作站分布在物理不相连的区域里，虽然这些工作站本身可以连接外网，但因为某些原因，还是希望通过一台服务器连接外网。就是说，这些工作站作为内网机器受到保护。</p>
+<p>技术</p>
+<p>通过 VPN 技术，实现工作站与服务器的虚拟专用连接；通过NAT技术，实现工作站通过服务器访问外网。</p>
+<p>步骤</p>
+<p>在 Windows Server 上，VPN 服务器被集成到 RRAS Server 上。以 2012Rb 为例，通过如下步骤完成配置：</p>
+<ol>
+<li>
+<p>通过“服务器资源管理器”安装“远程服务功能”，注意同时勾选RAS和路由。<br />
+<img alt="" src="https://img2018.cnblogs.com/blog/1503439/201810/1503439-20181005223109845-1445392172.jpg" /></p>
+</li>
+<li>
+<p>安装完成后，第一次打开 RASS 控制台出现“路由和远程访问服务器安装向导”对话框，注意选择“VPN和 NAT” 这一选项。
+   <img alt="" src="https://img2018.cnblogs.com/blog/1503439/201810/1503439-20181005223203326-262198129.jpg" /></p>
+</li>
+<li>
+<p>需要服务器上两个网络适配器，其中能访问外网的网络适配器配置为对外的，另一个内网的网络适配器配置为对内的，VPN 客户端与内网适配器相连接。
+针对之前提出的需求，工作站数量较少，因此采用静态IP的分配方案，将子网掩码设置成255.255.255.0 表示最多有255台工作站可连接服务器。
+点击最后的“完成”请慎重，一旦配置错误，需要删除“远程服务”角色与功能，重启服务器，重新添加“远程服务”角色与功能，比较麻烦。</p>
+</li>
+<li>
+<p>注意外网适配器中的网络筛选器是否打开。网络筛选器功能类似于防火墙，定义了入站规则和出站规则。如果打开，则需添加相应的筛选规则，比较麻烦，建议关闭。
+   <img alt="" src="https://img2018.cnblogs.com/blog/1503439/201810/1503439-20181005223225176-471480578.png" />
+从上图可看到，内网网段配置为 192.168.2.1~192.168.2.255。通过NAT ，将客户端对外网的访问定向到“以太网 2”中，将“以太网 2”传来的数据分别发送到内网中。</p>
+</li>
+<li>
+<p>配置VPN客户端。如果通过Windows 自带的VPN连接，填写服务器ip地址或域名、连接的用户名和密码即可。
+<img alt="" src="https://img2018.cnblogs.com/blog/1503439/201810/1503439-20181005223231247-1766932478.jpg" />
+上图是Win10的客户端界面，协议类型选择了自动（实际上为Ikev2，加密方式是 Eap MSChapv2）。连接VPN后，如果原有的“自动解析”的DNS服务器不在公网上，可能会失效。此时可以配置服务器上的DNS Server（有关如何配置，可参考相关文档），手动指定VPN连接的ipv4属性中的DNS 服务器为服务器的ip地址即可，如下图（Win7客户端界面）所示：
+<img alt="" src="https://img2018.cnblogs.com/blog/1503439/201810/1503439-20181005223235757-1828021995.jpg" /></p>
+</li>
+</ol>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

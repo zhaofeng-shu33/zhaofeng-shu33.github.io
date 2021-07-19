@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Build_Miktex_on_Windows</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Build Miktex on Windows</h1>
+<h2>2018/4/21</h2>
+<p>Principle: We try our best not to modify the source code (all CMakeList.txt)
+Goal: Run mpm client program to debug(hacking...) its session state.</p>
+<h2>Steps</h2>
+<ul>
+<li>Add <code>-DWITH_UI_QT=OFF,-DWITH_UI_MFC=OFF</code> as we do not need to build UI app, and we do not need Qt5 Dependency.</li>
+<li>Add <code>C:\cygwin64\bin</code> to system path to resolve some unix program not found on windows (only needed in the current shell)</li>
+<li>Comment out <code>xsltproc</code> on line 884 of the main root <code>CMakeList.txt</code>; Add <code>-DWITH_MIKTEX_DOC=OFF</code> as We do not need Some Document Build utility.</li>
+<li>CMake uses system icu, manually set icu include directory to <code>ICU_INCLUDE_DIR:PATH=C:/Program Files (x86)/Windows Kits/10/Include/10.0.16299.0/um</code> in <code>CMakeCache.txt</code> as <code>FindICU.cmake</code> script can not find the include directory.</li>
+<li>We do not use <code>WITH_COM</code>, set '-DWITH_COM=OFF'</li>
+</ul>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

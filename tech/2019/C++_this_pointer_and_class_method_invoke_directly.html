@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>C++_this_pointer_and_class_method_invoke_directly</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>C++ this pointer and class method invoke directly</h1>
+<p>2019/08/23</p>
+<p>Using C++ 11 <code>bind</code>
+```C++</p>
+<h1>include <iostream></h1>
+<h1>include <functional></h1>
+<p>class Simple
+{
+private:
+    int m_id;</p>
+<p>public:
+    Simple(int id)
+    {
+        setID(id);
+    }</p>
+<pre><code>void setID(int id) { m_id = id; }
+int getID() { return m_id; }
+</code></pre>
+<p>};
+int main(){
+  Simple simple(1);
+  std::function<void()> f1 = std::bind(&amp;Simple::setID, &amp;simple, 2);
+  f1();
+  std::cout &lt;&lt; simple.getID() &lt;&lt; std::endl;
+}
+```</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

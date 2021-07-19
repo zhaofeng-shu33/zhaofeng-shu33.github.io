@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>macOS_升级后重装命令行工具的问题</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>macOS 升级后重装命令行工具的问题</h1>
+<p>2018/11/05</p>
+<h1>问题背景</h1>
+<p>最近升级个人macbook 从 10.13 到 10.14 在终端输入 <code>git</code> 不能用了，发现是重装操作系统后原来的 <strong>Command Line Tools</strong> 被自动卸载了，
+采用 <code>xcode-select --install</code> 命令发现 <code>currently unavailable</code>. </p>
+<h1>解决方法</h1>
+<p>可以从网上下载适配个人 macbook 版本的开发工具，地址为<a href="https://developer.apple.com/download/more/">https://developer.apple.com/download/more/</a>。需要用自己的 <em>AppleID</em> 先登录才可以下载。下载后按照提示安装即可。安装后即可正常使用 <code>git</code> 等命令。</p>
+<h1>参考</h1>
+<p><a href="https://apple.stackexchange.com/questions/254380/macos-mojave-invalid-active-developer-path/265049#265049?newreg=dd14b53896074657a35d38937ef4d2e6">stackoverflow</a></p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

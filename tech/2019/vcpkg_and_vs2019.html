@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>vcpkg_and_vs2019</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>vcpkg and vs2019</h1>
+<p>2019/05/09</p>
+<p>VS2019 比较新，配合最新的cmake 3.14 可以在msvc toolset v14.2上做一些编译，但一些依赖以及vcpkg 编译系统还不完全支持 v14.2。如果只装了VS2019，可以同时安装v14.2和v14.1的编译工具以支持。</p>
+<p>需要使用 custom triplet (See <a href="https://www.cnblogs.com/zhaofeng-shu33/p/10771521.html">How to use custom triplet</a>，并且做一些处理 （See <a href="https://github.com/microsoft/vcpkg/issues/6330#issuecomment-490424194">add VS150COMNTOOLS</a> ）。</p>
+<p>公共的port中明确说明不会在python中引入更多的build，(see <a href="https://github.com/microsoft/vcpkg/pull/3105">fix python features</a>） ，当然可以考虑 private port的方法，但很多公有依赖比较难解决，也要相应自己修改。
+如果系统中python minor的版本不一致， 用C++ binding 弄的包也是无法在系统中使用的。目前 vcpkg 的 python3  是 3.7版本，系统中需要升级 python 才能保持兼容。</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

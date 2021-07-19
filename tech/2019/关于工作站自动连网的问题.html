@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>关于工作站自动连网的问题</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>关于工作站自动连网的问题</h1>
+<p>2019/09/27</p>
+<p>实验室的网络环境是电脑一旦待机网就断了，需要每次手动打开浏览器输入用户名和密码连网；如果部署在实验室网络环境中的服务器没有图形界面且断网，则无法通过打开浏览器的方式连接。
+为此，本文介绍自动化处理这两种情形的方法。</p>
+<h2>连网脚本</h2>
+<p>以清华深研院的网络环境为例，官方使用了某知名厂商的认证系统，通过借鉴网上现有的代码，开发了 Python3 客户端连网的 Library，见 <a href="https://github.com/zhaofeng-shu33/srun_auto">srun auto</a>. 这个脚本可以下载到 Linux 服务器上用 python3 的环境运行。 如果是在工作站上，我们以 Windows 操作系统为例，使用方法为：</p>
+<ol>
+<li>在文件夹下创建一个 <code>login.bat</code> 的脚本，里面写 <code>python absolute_dir_of_srun.py login username password</code>，将这个脚本发送到桌面快捷方式。</li>
+<li>每次登录断网后可通过双击桌面上的 <code>login.bat</code> 连网。</li>
+</ol>
+<p>可以结合 Windows 的任务计划程序设置登录后自动执行 <code>login.bat</code>，步骤如下：</p>
+<ol>
+<li>
+<p>打开 任务计划程序，创建一个新的任务：<code>network login</code>;
+<img alt="" src="https://img2018.cnblogs.com/blog/1503439/201909/1503439-20190927230631286-1442801134.png" /></p>
+</li>
+<li>
+<p>设置新任务的触发器为当工作站解锁时执行;
+<img alt="" src="https://img2018.cnblogs.com/blog/1503439/201909/1503439-20190927230906674-1871364545.png" /></p>
+</li>
+<li>
+<p>设置新任务执行的操作是启动一个 <code>login.bat</code>脚本;
+<img alt="" src="https://img2018.cnblogs.com/blog/1503439/201909/1503439-20190927230935723-262007850.png" /></p>
+</li>
+<li>
+<p>下一次唤醒工作站时，查看任务执行的历史记录
+<img alt="" src="https://img2018.cnblogs.com/blog/1503439/201909/1503439-20190927231018934-1956253357.png" /></p>
+</li>
+</ol>
+<h2>Known issues</h2>
+<ul>
+<li>The script hangs for some case.</li>
+</ul>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

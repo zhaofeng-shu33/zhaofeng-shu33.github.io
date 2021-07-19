@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Using_SSE_and_AVX_to_accelerate_the_program</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Using SSE and AVX to accelerate the program</h1>
+<p>2020/04/10</p>
+<p>Today I compare the program speeding for three cases: normal code, with SSE and with AVX.</p>
+<h2>Normal code</h2>
+<p><code>C
+// speed_test.c
+const int NUM = 1000000;
+static float X[NUM], Y[NUM], Z[NUM];
+void dig_hole() {
+    for(int j = 0; j &lt; 1000; j++) {
+        for(int i = 0; i &lt; NUM; i++) {
+            Z[i] = X[i] + Y[i];
+        }
+    }
+}
+int main() {
+    for(int i = 0; i &lt; NUM; i++) {
+        X[i] = i * 1.2;
+        Y[i] = i * 1.8;
+    }
+    dig_hole();
+}</code>
+Compiling with <code>g++ speed_test.c -o speed_test</code>(g++ version 4.8.5) and run with Intel Xeon Processor E5-2620 v4:
+<code>time ./speed_test.c</code></p>
+<h2>SSE code</h2>
+<p>```C
+// speed_test_simd.c</p>
+<h1>include <immintrin.h></h1>
+<p>const int NUM = 1000000;
+static float X[NUM], Y[NUM], Z[NUM];
+void dig_hole() {
+    __m128 a,b,c;
+    for(int j = 0; j &lt; 1000; j++) {
+        for(int i = 0; i &lt; NUM; i += 4) {
+            a = _mm_load_ps(&amp;X[i]);
+            b = _mm_load_ps(&amp;Y[i]);
+            c = _mm_add_ps(a, b);
+            _mm_store_ps(&amp;Z[i], c);
+        }
+    }
+}
+int main() {
+    for(int i = 0; i &lt; NUM; i++) {
+        X[i] = i * 1.2;
+        Y[i] = i * 1.8;
+    }
+    dig_hole();
+}
+```</p>
+<h2>AVX code</h2>
+<p>```C
+// speed_test_avx.c</p>
+<h1>include <immintrin.h></h1>
+<p>const int NUM = 1000000;
+static float X[NUM], Y[NUM], Z[NUM];
+void dig_hole() {
+    __m256 a,b,c;
+    for(int j = 0; j &lt; 1000; j++) {
+        for(int i = 0; i &lt; NUM; i += 8) {
+            a = _mm256_load_ps(&amp;X[i]);
+            b = _mm256_load_ps(&amp;Y[i]);
+            c = _mm256_add_ps(a, b);
+            _mm256_store_ps(&amp;Z[i], c);
+        }
+    }
+}
+int main() {
+    for(int i = 0; i &lt; NUM; i++) {
+        X[i] = i * 1.2;
+        Y[i] = i * 1.8;
+    }
+    dig_hole();
+}
+<code>``
+Comping with</code>g++ --mavx2 speed_test_avx.c -o speed_test_avx`.</p>
+<h2>Result</h2>
+<h3>Debug mode:</h3>
+<table>
+<thead>
+<tr>
+<th>case</th>
+<th>real</th>
+<th>user</th>
+<th>sys</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>normal</td>
+<td>0m3.907s</td>
+<td>0m3.890s</td>
+<td>0m0.015s</td>
+</tr>
+<tr>
+<td>sse</td>
+<td>0m2.083s</td>
+<td>0m2.072s</td>
+<td>0m0.011s</td>
+</tr>
+<tr>
+<td>avx</td>
+<td>0m1.397s</td>
+<td>0m1.384s</td>
+<td>0m0.012s</td>
+</tr>
+<tr>
+<td>### Release mode (<code>-O2</code>):</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>case</td>
+<td>real</td>
+<td>user</td>
+<td>sys</td>
+</tr>
+<tr>
+<td>--------</td>
+<td>----------</td>
+<td>----------</td>
+<td>----------</td>
+</tr>
+<tr>
+<td>normal</td>
+<td>0m0.887s</td>
+<td>0m0.875s</td>
+<td>0m0.011s</td>
+</tr>
+<tr>
+<td>sse</td>
+<td>0m0.590s</td>
+<td>0m0.578s</td>
+<td>0m0.012s</td>
+</tr>
+<tr>
+<td>avx</td>
+<td>0m0.594s</td>
+<td>0m0.578s</td>
+<td>0m0.016s</td>
+</tr>
+</tbody>
+</table>
+<h2>Analysis</h2>
+<p>Under Debug mode, codes are translated literally. SSE can speed up the program since it processes 
+4 float numbers at each inner loop. AVX can process 8 float numbers (32Bit * 8 = 256, 1 Float is 32Bit=4Byte long).</p>
+<p>Under Release mode, the speed is not so much since the compiler has many good optimizations for normal operations as well. Especially, SSE and AVX are of almost the same performance.  </p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

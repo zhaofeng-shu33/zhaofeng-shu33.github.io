@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Backup_old_material</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Backup old material</h1>
+<p>2020/05/11</p>
+<p>First use the camera of a smart phone or scanner to prepare the original documents.</p>
+<p>Rotate the image if necessary.</p>
+<p>If you use the camera, you can rename the file, using</p>
+<p><code>Python
+import os
+a = os.listdir('./')
+cnt=1
+for i in a:
+    os.rename(i, '%d.jpg'%cnt)
+    cnt+=1</code></p>
+<p>Then compress the images to some satisfied level.
+You can use <a href="https://gist.github.com/zhaofeng-shu33/671f4c0053834198ae1664aca8de1ab7">this</a> Python script.</p>
+<p>Then convert the images to pdf format if necessary.</p>
+<p><code>Python
+import os
+from PIL import Image
+a = os.listdir('./')
+for i in a:
+    im = Image.open(i)
+    im.save(i.replace('jpg','pdf'))</code>
+Merge these pdf to a single pdf file.</p>
+<p>Upload necessary files to cloud.</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

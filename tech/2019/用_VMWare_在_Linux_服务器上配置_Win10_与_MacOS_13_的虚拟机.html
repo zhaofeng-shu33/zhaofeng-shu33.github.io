@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>用_VMWare_在_Linux_服务器上配置_Win10_与_MacOS_13_的虚拟机</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>用 VMWare 在 Linux 服务器上配置 Win10 与 MacOS 13 的虚拟机</h1>
+<p>2019/07/24</p>
+<h2>Win10</h2>
+<p>出于解决 Windows 上专用框架开发以及测试特定软件的需要，我在 Linux 服务器上用 VMWare 安装了 Win10 与 MacOS 13 的虚拟机。
+使用的是 VMWare Player 15，目前实现了 Win10 使用固定的 IP 地址，开放 SSH 与远程桌面默认端口。将 Linux Server 的防火墙打开并做内网穿透便可
+实现外网连接 Win10 服务器。注意 VMWare 配置内网穿透的功能在 Player 中找不到，在 CentOS 7 下面可以手动打开打开网络配置器UI</p>
+<p><code>shell
+/usr/lib/vmware/bin/vmware-netcfg</code></p>
+<h2>数量</h2>
+<p>VMWare Player 不支持同时开两个虚拟机，考虑到对资源的占用（8核8GB内存等），也不方便同时开两个。</p>
+<h2>Mac</h2>
+<p>VMWare Player 锁定了 建 Mac 虚拟机的功能，可以使用开源的方法解锁。具体操作见 <a href="https://github.com/DrDonk/unlocker">https://github.com/DrDonk/unlocker</a>。
+使用这种方法后虽然能建 Mac 虚拟机，但一旦建好后，无法通过 UI 更改 CPU、内存数量等。</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

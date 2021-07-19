@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>symmetricDS用cmake编译</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>symmetricDS用cmake编译</h1>
+<p>2019/05/03</p>
+<p><a href="http://www.symmetricds.org">symmetricDS</a> 是同步数据库的软件，client 端提供了 C语言的库，默认是用 Eclipse 构建，也可以自己写CMakeLists 构建，下面是在Ubuntu 系统编译并运行成功的步骤：</p>
+<h2>依赖</h2>
+<p>根据<a href="https://github.com/JumpMind/symmetric-ds/tree/3.10/symmetric-client-clib">symmetric-client-clib</a> 可以用 apt-get 安装一些依赖，LibCSV 的包名是 <code>libcsv-dev</code>，此外还要安装 <code>libzip-dev</code>，完整的命令为
+<code>shell
+sudo apt-get install libcsv-dev libzip-dev libsqlite3-dev libcurl4-gnutls-dev</code>
+带 dev 表明安装了所需的头文件，因为依赖控制的原因， 相应的运行时库 so 如 libsqlite3.so 也会自动安装。</p>
+<h2>源码</h2>
+<p>使用 svn 工具下载 symmetric-ds 的 GitHub 子目录，然后下载 symmetric-client-native 的入口文件放到和 libsymmetric.c 同一文件夹下（称为项目根目录）
+<code>shell
+svn checkout https://github.com/JumpMind/symmetric-ds/trunk/symmetric-client-clib ./
+cd symmetric-client-clib
+wget https://github.com/JumpMind/symmetric-ds/raw/3.10/symmetric-client-native/src/SymClientNative.c
+wget https://github.com/JumpMind/symmetric-ds/raw/3.10/symmetric-client-native/inc/SymClientNative.h</code></p>
+<h2>构建文件</h2>
+<p>需要创建两个<code>CMakeLists.txt</code>，一个放在项目根目录下面，内容是：
+<code>cmake
+cmake_minimum_required(VERSION 3.5) # version is not important
+project(symmetricdb LANGUAGES C)
+include_directories(${PROJECT_SOURCE_DIR}/inc)
+add_subdirectory(src)
+add_executable(symclient SymClientNative.c)
+find_library(ZIP zip) 
+find_library(CURL curl)
+find_library(SQLITE sqlite3)
+find_library(CSV csv)
+target_link_libraries(symclient libsymclient)
+target_link_libraries(symclient ${CURL})
+target_link_libraries(symclient ${ZIP})
+target_link_libraries(symclient ${SQLITE})
+target_link_libraries(symclient ${CSV})</code>
+另一个放到 src 文件夹下，内容是：
+<code>cmake
+cmake_minimum_required(VERSION 3.5)
+FILE(GLOB_RECURSE filelist ${CMAKE_CURRENT_SOURCE_DIR} *.c)
+add_library(libsymclient ${filelist})</code></p>
+<h2>编译</h2>
+<p>在项目根目录下用 out of source build 的方法进行编译构建：
+<code>shell
+mkdir build
+cd build
+cmake -DCMAKE_BUILD_TYPE=Release ..</code></p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Deploying_VNC_Server_on_Ubuntu</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Deploying VNC Server on Ubuntu</h1>
+<h2>2018/1/3</h2>
+<h2>Server：Ubuntu 16.04 LTS</h2>
+<h2>install VNC</h2>
+<pre><code>sudo apt-get install vnc4server
+</code></pre>
+<h2>install Gnome Desktop Environment</h2>
+<pre><code>sudo apt-get install gnome-panel
+</code></pre>
+<h2>start vnc-server service</h2>
+<pre><code>vncserver
+</code></pre>
+<h2>close vnc-server service</h2>
+<pre><code>vncserver -kill :[port_number]
+</code></pre>
+<h2>modify ~/.vnc/vncstartup configuration file</h2>
+<p>Append the following to the last line</p>
+<p><code>shell
+gnome-panel &amp;
+gnome-settings-daemon &amp;
+metacity &amp;
+nautilus &amp;</code></p>
+<h2>Unnecessary installation</h2>
+<p>gnome-core is unnecessary, but I install it.</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

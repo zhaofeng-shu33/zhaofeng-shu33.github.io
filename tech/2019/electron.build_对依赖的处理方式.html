@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>electron</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>electron.build 对依赖的处理方式</h1>
+<p>2019/07/17</p>
+<p>一个 electron 项目中会有很多 node_modules 依赖，如果依赖是用 <code>npm</code> 安装的，本身会带有大量的 Symbol Link. electron.build 并不是直接把 项目的 node_modules 目录拷贝过去，而是将所有的 Symbol Link 恢复成实际的文件。
+另外，它只对 <code>package.json</code> 的 <code>dependency</code> 字段进行处理，因此有可能出现在调试模式程序可以运行，打包会不能运行的状况，有可能是 <code>require(module_name)</code> 引起的 not found. 打包程序的报错要结合日志进行分析。</p>
+<p>如果想绕过 electron.build 对依赖的处理，可以在 <code>package.json</code> 的 <code>extraResources</code> 字段指定额外的内容
+<code>JSON
+ "extraResources": [
+{
+  "from": "./server",
+  "to": "./server"
+ }]</code>
+这时 server 目录下的内容便会直接 copy 到 目标目录下而不会有筛选。</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

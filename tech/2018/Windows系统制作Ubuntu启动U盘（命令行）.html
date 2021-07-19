@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Windows系统制作Ubuntu启动U盘（命令行）</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Windows系统制作Ubuntu启动U盘（命令行）</h1>
+<p>2018/11/04</p>
+<h1>背景</h1>
+<p>现今Ubuntu系统的使用越来越多，考虑到日常办公还是用Windows系统，但开发的需求常常要有Linux系统。因此将Linux系统安装到U盘不失为一种好的选择。在Windows系统上制作Ubuntu启动盘其实可以不必借助第三方工具，通过
+<code>diskpart</code> 命令即可实现。对于程度员来说也是值得了解的技能点之一。</p>
+<h1>步骤</h1>
+<ol>
+<li>从国内镜像站点下载Ubuntu的安装镜像，如 <a href="https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases">https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases</a></li>
+<li>用“运行”打开 <code>diskpart</code>，依次执行如下命令：
+    list disk
+    select disk 1
+    clean
+    create partition primary
+    active
+    format fs=fat32 quick
+    exit
+1.从安装U盘启动Ubuntu安装程序，注意要用EFI模式才能启动。可以选择将Ubuntu装到（移动）硬盘上或 通过<code>Try Ubuntu</code> 启动仅仅在内存中的OS，进行一些相关的调试。</li>
+</ol>
+<h1>参考</h1>
+<ol>
+<li><a href="https://superuser.com/questions/775017/is-it-possible-to-create-bootable-linux-on-usb-drive-using-windows-command-line">https://superuser.com/questions/775017/is-it-possible-to-create-bootable-linux-on-usb-drive-using-windows-command-line</a></li>
+<li><a href="https://www.techrrival.com/create-bootable-pendrive-cmd-windows/">https://www.techrrival.com/create-bootable-pendrive-cmd-windows/</a></li>
+</ol>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

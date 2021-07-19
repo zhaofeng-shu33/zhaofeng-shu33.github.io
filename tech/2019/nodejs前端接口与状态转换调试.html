@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>nodejs前端接口与状态转换调试</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>nodejs前端接口与状态转换调试</h1>
+<p>2019/04/29</p>
+<p>和UI无关的逻辑用browser 调有时不太方便，配置 node 命令行调试环境方法如下：
+<code>shell
+cnpm install @babel/core @babel/cli @babel/register @babel/polyfill cross-fetch/polyfill</code>
+因为node 作为commonjs 的环境缺少一些browser 的全局变量（如fetch 等），因此需要装一些 polyfill。</p>
+<p>启动 nodejs 前 preload 一些模块：<code>node -r @babel/register -r @babel/polyfill -r cross-fetch/polyfill</code>。
+这样可以直接 require es6的模块，通过 @babel/register 进行自动转换。</p>
+<p>使用 <code>node inspect test_script.js</code> 调试脚本 test_script.js，其中 该脚本前几行 load 必须的模块：
+<code>JavaScript
+require('@babel/register');
+require('@babel/polyfill');
+require('cross-fetch/polyfill');</code>
+在需要调试的代码附近设置 <code>debugger</code> 这条语句即可进入，debugger 模式可以与 REPL 模式切换，详见 <a href="https://nodejs.org/api/debugger.html">Debugger</a>.</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

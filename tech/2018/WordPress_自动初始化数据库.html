@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>WordPress_自动初始化数据库</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>WordPress 自动初始化数据库</h1>
+<p>2018/12/30</p>
+<h1>背景</h1>
+<p>自动化搭建开发环境、测试、部署如通过网页操作（访问 <code>/wp-admin/install.php</code>）相对比较麻烦且在有的场景无法实现。</p>
+<h1>步骤</h1>
+<ol>
+<li>修改 <code>wp-config.php</code> 配置 wordpress 的数据库信息。</li>
+<li>在与<code>wp-config.php</code> 同级的目录新建<code>custom_install.php</code>，输入如下代码：
+```php</li>
+</ol>
+<?php
+define( 'WP_INSTALLING', true );
+
+/** Load WordPress Bootstrap */
+require_once( dirname( __FILE__ ) . '/wp-load.php' );
+
+/** Load WordPress Administration Upgrade API */
+require_once( ABSPATH . 'wp-admin/includes/upgrade.php' );
+
+/** Load WordPress Translation Install API */
+require_once( ABSPATH . 'wp-admin/includes/translation-install.php' );
+
+/** Load wpdb */
+require_once( ABSPATH . WPINC . '/wp-db.php' );
+
+define('WP_SITEURL', 'http://localhost/wordpress');
+$weblog_title = 'develop';
+$user_name = 'zhaofeng_shu33';
+$admin_email = '616545598@qq.com';
+$public = 1;
+$admin_password = 'random_generation_of_password'; // in plain text
+$loaded_language = '';
+$result = wp_install($weblog_title, $user_name, $admin_email, $public, '', wp_slash( $admin_password ), $loaded_language);
+print_r($result);
+?>
+<p>```
+注意在以上设置用户名和密码。</p>
+<ol>
+<li>通过命令行或终端运行 <code>php custom_install.php</code> 即可完成wordpress数据库的初始化。</li>
+</ol>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

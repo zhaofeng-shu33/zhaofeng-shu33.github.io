@@ -1,0 +1,928 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+   <meta content="zh-cn" http-equiv="Content-Language"/>
+   <title>
+    浅谈如何将循环小数化为分数
+   </title>
+   <base href="//qzs.qzone.qq.com/"/>
+  </meta>
+ </head>
+ <body>
+  <div class="bg_mode bg">
+   <div class="box_ml bor">
+    <div class="mode_gb">
+     <div class="mode_gb_title bg2">
+      <div class="bg_mode_gb_title">
+       <h3>
+        日志
+       </h3>
+      </div>
+      <div class="mode_gb_other">
+       <p>
+        <a class="c_tx" href="javascript:void(0)" id="returnListArea" rel="returnBlogList" title="返回日志列表">
+         返回日志列表
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="mode_gb_cont">
+      <div class="blog_app" id="app_mod">
+       <div class="blog_header">
+        <div class="blog_title">
+         <div class="blog_tit_cont clearfix" id="title">
+          <strong>
+           <span>
+            <span class="blog_tit_detail">
+             浅谈如何将循环小数化为分数
+            </span>
+           </span>
+          </strong>
+          <span class="tit_other_info" style="display:inline;">
+           <span class="c_tx3" id="pubTime">
+            2009-07-21 15:35:17
+           </span>
+           <span class="c_tx3" id="readNum">
+            阅读(90)	评论(3)
+           </span>
+           <span class="c_tx3" id="quoteInfo">
+           </span>
+          </span>
+         </div>
+        </div>
+        <div class="operate_toolbar">
+         <div class="mod_interactive">
+          <ul id="upperInteractive">
+          </ul>
+         </div>
+         <div class="mod_links">
+          <span>
+           <a class="c_tx" href="javascript:;" id="navigatorSpan3" rel="prevBlog">
+           </a>
+          </span>
+          |
+          <span>
+           <a class="c_tx" href="javascript:;" id="navigatorSpan1" rel="nextBlog">
+           </a>
+          </span>
+         </div>
+        </div>
+       </div>
+       <div id="topHintArea">
+       </div>
+       <div class="blog_cont">
+        <div class="blog_cont_details" id="veryContent" style="height:auto!important">
+         <table cellpadding="0" cellspacing="0" id="blogContentTable" style="table-layout:fixed;width:100%;position:relative">
+          <tr>
+           <td style="word-wrap:break-word" valign="top">
+            <div id="blogContainer" style="position:relative; overflow:hidden; height:100%;">
+             <div id="blogDetailDiv" style="font-size:14px;">
+              <div style="text-align:center;">
+               <span style="color:#3333cc;line-height:1.3em;">
+                <span style="text-decoration:underline;">
+                 <wbr/>
+                 （转）
+                </span>
+                <wbr/>
+                浅谈如何将循环小数化为分数
+               </span>
+               <wbr/>
+              </div>
+              <br/>
+              浅谈如何将循环小数化为分数
+              <br/>
+              <br/>
+              我们知道，有限小数是十进分数的另一种表现形式，因此,任何一个有限小数都可以直接写成十分之几、百分之几……等形式的数。那么无限小数能否化成分数呢?
+              <br/>
+              分数→小数（用分子除以分母）
+              <br/>
+              小数→分数（何如？）
+              <br/>
+              类比一下：多项式*多项式→整式（整式乘法）
+              <br/>
+              整式→多项式*多项式（因式分解）
+              <br/>
+              <br/>
+              我们可以将无限小数按照小数部分是否循环分成两类：即无限循环小数和无限不循环小数。无限不循环小数不能化成分数（无理数不能化成有理数），而无限循环小数是可以化成分数的。那么，无限循环小数又是如何化分数的呢？由于它的小数部分位数是无限的，显然不可能写成十分之几、百分之几、千分之几……的数。其实，循环小数化分数难就难在无限的小数位数。所以我就从这里入手，想办法去掉无限循环小数的循环的部分。策略就是用扩大倍数的方法，把无限循环小数扩大十倍、百倍或千倍……使扩大后的无限循环小数与原无限循环小数循环的部分完全相同，然后这两个数相减，这样就把循化的部分去掉了,我们的目的就达到了,（这种方法可以叫错位减法，在等比数列很有用）我们来看两个例子：
+              <br/>
+              <br/>
+              例1 把0.4747……和0.33……化成分数。
+              <br/>
+              <br/>
+              解1：        0.4747……×100=47.4747……
+              <br/>
+              <br/>
+              0.4747……×100－0.4747……=47.4747……－0.4747……
+              <br/>
+              <br/>
+              (100－1)×0.4747……=47
+              <br/>
+              <br/>
+              即99×0.4747…… =47
+              <br/>
+              <br/>
+              那么  0.4747……=47/99
+              <br/>
+              <br/>
+              解2： 0.33……×10＝3.33……
+              <br/>
+              <br/>
+              0.33……×10－0.33……=3.33…－0.33……
+              <br/>
+              <br/>
+              (10-1) ×0.33……=3
+              <br/>
+              <br/>
+              即9×0.33……=3
+              <br/>
+              <br/>
+              那么0.33……=3/9=1/3
+              <br/>
+              <br/>
+              由此可见, 纯循环小数化分数,它的小数部分可以写成这样的分数：纯循环小数的循环节最少位数是几，分母就是由几个9组成的数；分子是纯循环小数中一个循环节组成的数。
+              <br/>
+              <br/>
+              ⑵把0.4777……和0.325656……化成分数。
+              <br/>
+              <br/>
+              想1：0.4777……×10=4.777……①
+              <br/>
+              <br/>
+              0.4777……×100=47.77……②
+              <br/>
+              <br/>
+              用②－①即得:
+              <br/>
+              <br/>
+              0.4777……×90=47－4
+              <br/>
+              <br/>
+              所以, 0.4777……=43/90
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              想2：0.325656……×100=32.5656……①
+              <br/>
+              <br/>
+              0.325656……×10000=3256.56……②
+              <br/>
+              <br/>
+              用②－①即得:
+              <br/>
+              <br/>
+              0.325656……×9900=3256.5656……－32.5656……
+              <br/>
+              <br/>
+              0.325656……×9900=3256－32
+              <br/>
+              <br/>
+              所以, 0.325656……=3224/9900
+              <br/>
+              总结：混循环小数化分数，分母循环节的位数+非循环部分构成，循环节位数填9，非循环部分补0，分母类似99…00…的形式。
+              <br/>
+              分子是非循环部分+循环节构成一个数减去非循环部分，
+              <br/>
+              比如 0.325656……=（3256-32）/9900
+              <br/>
+              规律大可不必死记硬背，推倒的过程才是最重要的。
+              <br/>
+              <br/>
+              <div style="text-align:center;">
+               附文：无穷等比数列，
+              </div>
+              <div style="text-align:center;">
+               问题：
+               <span style="font-family:'Times';line-height:1.3em;">
+                0.999
+               </span>
+               <wbr/>
+               ……化分数为什么是
+               <span style="font-family:'Times';line-height:1.3em;">
+                1
+               </span>
+               <wbr/>
+               ？
+              </div>
+              <div style="text-align:center;">
+               答：因为找不到一个数在
+               <span style="font-family:'Times';line-height:1.3em;">
+                0.9999
+               </span>
+               <wbr/>
+               ……和
+               <span style="font-family:'Times';line-height:1.3em;">
+                1
+               </span>
+               <wbr/>
+               之间，由实数的连续性决定。
+              </div>
+              <div style="text-align:center;">
+               这样的答案似乎很不令人满意，可我们不得不承认
+               <span style="font-family:'Times';line-height:1.3em;">
+                0.9999
+               </span>
+               <wbr/>
+               ……就是等于
+               <span style="font-family:'Times';line-height:1.3em;">
+                1.
+               </span>
+               <wbr/>
+              </div>
+              <div style="text-align:center;">
+               我们可以用另一种方式来推导。
+              </div>
+              <div style="text-align:center;">
+               等比数列大家不陌生吧？曾经有一道小学算术题就涉及到它的求和公式
+              </div>
+              <div style="text-align:center;">
+               <span style="font-family:'Times';line-height:1.3em;">
+                S
+               </span>
+               <wbr/>
+               （
+               <span style="font-family:'Times';line-height:1.3em;">
+                n
+               </span>
+               <wbr/>
+               ）
+               <span style="font-family:'Times';line-height:1.3em;">
+                =a1
+               </span>
+               <wbr/>
+               （
+               <span style="font-family:'Times';line-height:1.3em;">
+                1-qn
+               </span>
+               <wbr/>
+               ）
+               <span style="font-family:'Times';line-height:1.3em;">
+                /1-q
+               </span>
+               <wbr/>
+              </div>
+              <div style="text-align:center;">
+               题目是这样说的：
+              </div>
+              <div style="text-align:center;">
+               求
+               <span style="font-family:'Times';line-height:1.3em;">
+                5+52+53+54+
+               </span>
+               <wbr/>
+               ……
+               <span style="font-family:'Times';line-height:1.3em;">
+                +5100
+               </span>
+               <wbr/>
+               的和
+              </div>
+              <div style="text-align:center;">
+               套公式可以知道，
+               <span style="font-family:'Times';line-height:1.3em;">
+                a1=5
+               </span>
+               <wbr/>
+               ，
+               <span style="font-family:'Times';line-height:1.3em;">
+                q=5
+               </span>
+               <wbr/>
+               ，
+               <span style="font-family:'Times';line-height:1.3em;">
+                n=100
+               </span>
+               <wbr/>
+               ，
+               <span style="font-family:'Times';line-height:1.3em;">
+                5/4
+               </span>
+               <wbr/>
+               （
+               <span style="font-family:'Times';line-height:1.3em;">
+                5100-1
+               </span>
+               <wbr/>
+               ）
+              </div>
+              <div style="text-align:center;">
+               方法和上面推导循环小数化分数差不多，设
+               <span style="font-family:'Times';line-height:1.3em;">
+                S=5+52+53+54+
+               </span>
+               <wbr/>
+               ……
+               <span style="font-family:'Times';line-height:1.3em;">
+                +5100
+               </span>
+               <wbr/>
+              </div>
+              <div style="text-align:center;">
+               <span style="font-family:'Times';line-height:1.3em;">
+                5S=52+53+54+
+               </span>
+               <wbr/>
+               ……
+               <span style="font-family:'Times';line-height:1.3em;">
+                +5100+5101
+               </span>
+               <wbr/>
+              </div>
+              <div style="text-align:center;">
+               则
+               <span style="font-family:'Times';line-height:1.3em;">
+                5S-S=
+               </span>
+               <wbr/>
+               （
+               <span style="font-family:'Times';line-height:1.3em;">
+                52+53+54+
+               </span>
+               <wbr/>
+               ……
+               <span style="font-family:'Times';line-height:1.3em;">
+                +5100+5101
+               </span>
+               <wbr/>
+               ）
+               <span style="font-family:'Times';line-height:1.3em;">
+                -
+               </span>
+               <wbr/>
+               （
+               <span style="font-family:'Times';line-height:1.3em;">
+                5+52+53+54+
+               </span>
+               <wbr/>
+               ……
+               <span style="font-family:'Times';line-height:1.3em;">
+                +5100
+               </span>
+               <wbr/>
+               ）
+               <span style="font-family:'Times';line-height:1.3em;">
+                =5101-5
+               </span>
+               <wbr/>
+              </div>
+              <div style="text-align:center;">
+               所以
+               <span style="font-family:'Times';line-height:1.3em;">
+                S=
+               </span>
+               <wbr/>
+               （
+               <span style="font-family:'Times';line-height:1.3em;">
+                5101-5
+               </span>
+               <wbr/>
+               ）
+               <span style="font-family:'Times';line-height:1.3em;">
+                /4
+               </span>
+               <wbr/>
+              </div>
+              <div style="text-align:center;">
+               这和上面用公式的结果是一样的，也就是说，用这种方法可以推导等比数列求和公式。
+              </div>
+              <div style="text-align:center;">
+               可是有一种等比数列它很特殊，因为它有无穷大的项数，
+              </div>
+              <div style="text-align:center;">
+               比如我们看这题：
+              </div>
+              <div style="text-align:center;">
+               <span style="font-family:'Times';line-height:1.3em;">
+                1/2+1/4+1/8+
+               </span>
+               <wbr/>
+               ……
+               <span style="font-family:'Times';line-height:1.3em;">
+                1/n2
+               </span>
+               <wbr/>
+               （
+               <span style="font-family:'Times';line-height:1.3em;">
+                n
+               </span>
+               <wbr/>
+               →正无穷）
+               <span style="font-family:'Times';line-height:1.3em;">
+                =
+               </span>
+               <wbr/>
+               ？
+              </div>
+              <div style="text-align:center;">
+               初看似乎很棘手，可是我们可以设置一个几何模型推一下，一个正方形，将它一分为二，（分成两个长方形）再将其中一个长方形一分为二（得到两块正方形），如此继续下去……
+              </div>
+              <div style="text-align:center;">
+               我们设初始化的正方形面积是
+               <span style="font-family:'Times';line-height:1.3em;">
+                1
+               </span>
+               <wbr/>
+               ，那么一分为
+               <span style="font-family:'Times';line-height:1.3em;">
+                2
+               </span>
+               <wbr/>
+               后每个长方形面积为
+               <span style="font-family:'Times';line-height:1.3em;">
+                1/2,
+               </span>
+               <wbr/>
+               接着是
+               <span style="font-family:'Times';line-height:1.3em;">
+                1/4
+               </span>
+               <wbr/>
+               ，……
+              </div>
+              <div style="text-align:center;">
+               这样无限分下去，
+               <span style="font-family:'Times';line-height:1.3em;">
+                1/2+1/4+1/8+
+               </span>
+               <wbr/>
+               ……会越来越接近正方形的面积
+               <span style="font-family:'Times';line-height:1.3em;">
+                1
+               </span>
+               <wbr/>
+               ，并最终
+               <span style="font-family:'Times';line-height:1.3em;">
+                =1.
+               </span>
+               <wbr/>
+              </div>
+              <div style="text-align:center;">
+               所以上面的式子值是
+               <span style="font-family:'Times';line-height:1.3em;">
+                1.
+               </span>
+               <wbr/>
+              </div>
+              <div style="text-align:center;">
+               对于这个数列：
+               <span style="font-family:'Times';line-height:1.3em;">
+                1/2
+               </span>
+               <wbr/>
+               ，
+               <span style="font-family:'Times';line-height:1.3em;">
+                1/4
+               </span>
+               <wbr/>
+               ，
+               <span style="font-family:'Times';line-height:1.3em;">
+                1/8
+               </span>
+               <wbr/>
+               ……
+               <span style="font-family:'Times';line-height:1.3em;">
+                1/2n.
+               </span>
+               <wbr/>
+               它也是等比数列，公比是
+               <span style="font-family:'Times';line-height:1.3em;">
+                1/2.
+               </span>
+               <wbr/>
+              </div>
+              <div style="text-align:center;">
+               我们给出
+               <span style="font-family:'Times';line-height:1.3em;">
+                n
+               </span>
+               <wbr/>
+               一个值（
+               <span style="font-family:'Times';line-height:1.3em;">
+                n
+               </span>
+               <wbr/>
+               表示的是数列的项），这组数列就有一个固定的和，并且随着
+               <span style="font-family:'Times';line-height:1.3em;">
+                n
+               </span>
+               <wbr/>
+               的增大而增大，那么
+               <span style="font-family:'Times';line-height:1.3em;">
+                S
+               </span>
+               <wbr/>
+               （
+               <span style="font-family:'Times';line-height:1.3em;">
+                n
+               </span>
+               <wbr/>
+               ）会不会达到无穷大的状态。我们可以从分正方形得到启示，
+               <span style="font-family:'Times';line-height:1.3em;">
+                n
+               </span>
+               <wbr/>
+               再大，
+               <span style="font-family:'Times';line-height:1.3em;">
+                S
+               </span>
+               <wbr/>
+               （
+               <span style="font-family:'Times';line-height:1.3em;">
+                n
+               </span>
+               <wbr/>
+               ）恒＜
+               <span style="font-family:'Times';line-height:1.3em;">
+                1
+               </span>
+               <wbr/>
+               ，而当
+               <span style="font-family:'Times';line-height:1.3em;">
+                n
+               </span>
+               <wbr/>
+               无穷大时，
+               <span style="font-family:'Times';line-height:1.3em;">
+                S=1
+               </span>
+               <wbr/>
+               ，这组数列的和达到了一个极限。这个极限值就叫做无穷等比数列各项的和。用
+               <span style="font-family:'Times';line-height:1.3em;">
+                lim
+               </span>
+               <wbr/>
+               （
+               <span style="font-family:'Times';line-height:1.3em;">
+                n
+               </span>
+               <wbr/>
+               →∞）
+               <span style="font-family:'Times';line-height:1.3em;">
+                S
+               </span>
+               <wbr/>
+               （
+               <span style="font-family:'Times';line-height:1.3em;">
+                n
+               </span>
+               <wbr/>
+               ）表示。（它等于
+               <span style="font-family:'Times';line-height:1.3em;">
+                a1/
+               </span>
+               <wbr/>
+               （
+               <span style="font-family:'Times';line-height:1.3em;">
+                1-p
+               </span>
+               <wbr/>
+               ））（前提是
+               <span style="font-family:'Times';line-height:1.3em;">
+                p
+               </span>
+               <wbr/>
+               的绝对值要小于
+               <span style="font-family:'Times';line-height:1.3em;">
+                1
+               </span>
+               <wbr/>
+               ，也就是说，只有公比在
+               <span style="font-family:'Times';line-height:1.3em;">
+                -1
+               </span>
+               <wbr/>
+               和
+               <span style="font-family:'Times';line-height:1.3em;">
+                1
+               </span>
+               <wbr/>
+               之间无穷等比数列才有极限，它才能求和。）
+              </div>
+              <div style="text-align:center;">
+               无穷等比数列求和一个最明显的例子就是无限循环小数。
+              </div>
+              <div style="text-align:center;">
+               以
+               <span style="font-family:'Times';line-height:1.3em;">
+                0.434343
+               </span>
+               <wbr/>
+               ……为例。它
+               <span style="font-family:'Times';line-height:1.3em;">
+                =0.43+0.0043+0.000043+
+               </span>
+               <wbr/>
+               ……
+              </div>
+              <div style="text-align:center;">
+               可以发现，相邻的两个加数之间存在特定的倍数关系，即这是一个无穷等比数列的和，公比是
+               <span style="font-family:'Times';line-height:1.3em;">
+                1/100
+               </span>
+               <wbr/>
+               ，首项是
+               <span style="font-family:'Times';line-height:1.3em;">
+                0.43,
+               </span>
+               <wbr/>
+               它的结果可以直接套用无穷等比数列求和公式
+               <span style="font-family:'Times';line-height:1.3em;">
+                =
+               </span>
+               <wbr/>
+               （
+               <span style="font-family:'Times';line-height:1.3em;">
+                43/100
+               </span>
+               <wbr/>
+               ）
+               <span style="font-family:'Times';line-height:1.3em;">
+                /[1-(1/100)]
+               </span>
+               <wbr/>
+              </div>
+              <div style="text-align:center;">
+               <span style="font-family:'Times';line-height:1.3em;">
+                =43/99.
+               </span>
+               <wbr/>
+              </div>
+              <div style="text-align:center;">
+               应该说，这种化循环小数为分数的方法比起错位减法的推导更科学些，现在我们可以回到最初的问题，
+               <span style="font-family:'Times';line-height:1.3em;">
+                0.999999
+               </span>
+               <wbr/>
+               ……
+               <span style="font-family:'Times';line-height:1.3em;">
+                =1
+               </span>
+               <wbr/>
+               ？
+              </div>
+              <div style="text-align:center;">
+               ∵
+               <span style="font-family:'Times';line-height:1.3em;">
+                0.9999
+               </span>
+               <wbr/>
+               ……
+               <span style="font-family:'Times';line-height:1.3em;">
+                =0.9+0.09+0.009+
+               </span>
+               <wbr/>
+               ……（首项是
+               <span style="font-family:'Times';line-height:1.3em;">
+                0.9
+               </span>
+               <wbr/>
+               ，公比是
+               <span style="font-family:'Times';line-height:1.3em;">
+                0.1
+               </span>
+               <wbr/>
+               ）
+              </div>
+              <div style="text-align:center;">
+               <span style="font-family:'Times';line-height:1.3em;">
+                =0.9/
+               </span>
+               <wbr/>
+               （
+               <span style="font-family:'Times';line-height:1.3em;">
+                1-0.1
+               </span>
+               <wbr/>
+               ）
+               <span style="font-family:'Times';line-height:1.3em;">
+                =1
+               </span>
+               <wbr/>
+              </div>
+              <div style="text-align:center;">
+               类似的，
+               <span style="font-family:'Times';line-height:1.3em;">
+                0.099999
+               </span>
+               <wbr/>
+               ……
+               <span style="font-family:'Times';line-height:1.3em;">
+                =0.1
+               </span>
+               <wbr/>
+              </div>
+              <div style="text-align:center;">
+               结束。
+              </div>
+              <div style="text-align:center;">
+              </div>
+              <div style="text-align:center;">
+              </div>
+              <div style="text-align:center;">
+              </div>
+              <div style="text-align:center;">
+              </div>
+             </div>
+            </div>
+            <img id="paperPicArea1" src="/ac/b.gif" style="position:relative;display:none;top:auto;"/>
+           </td>
+          </tr>
+         </table>
+         <div class="clear" id="paperBottom">
+         </div>
+        </div>
+        <div class="attachment_list bgr2 none" id="attachList">
+        </div>
+       </div>
+       <div class="blog_footer">
+        <div class="operate_toolbar">
+         <div class="mod_interactive">
+          <ul id="footerInteractive">
+          </ul>
+         </div>
+         <div class="mod_links">
+          <span>
+           <a class="c_tx" href="javascript:void(0)" id="navigatorSpan4" rel="prevBlog">
+           </a>
+          </span>
+          <span>
+           <a class="c_tx" href="javascript:void(0)" id="navigatorSpan2" rel="nextBlog">
+           </a>
+          </span>
+         </div>
+        </div>
+        <div class="mod_tags c_tx3">
+         <span class="none" id="categorySpan">
+         </span>
+         <span class="none" id="rightSettingSpan">
+         </span>
+         <span class="none" id="contentAuthorSpan">
+         </span>
+         <span class="blog_tags none" id="tagsSpan">
+         </span>
+        </div>
+        <div class="mod_links c_tx3 none" id="mentionDiv">
+        </div>
+        <div class="mod_signature">
+         <div class="tit">
+          <h4>
+           签名档
+          </h4>
+          <a class="c_tx none" href="javascript:void(0)" onclick="InfoManager.modifySignature();return false;" title="">
+          </a>
+         </div>
+         <div class="bor3 cont" id="signatureDIV">
+         </div>
+         <div class="bor3 cont edit" id="modifySigDiv" style="display:none;">
+          <div class="editor">
+          </div>
+          <p class="btn">
+           <button class="bt_tx2" type="button">
+            发表
+           </button>
+           <a class="c_tx" href="javascript:void(0)" title="取消">
+            取消
+           </a>
+          </p>
+         </div>
+        </div>
+        <div class="mod_related_info bbor3" id="recentBlogDIV" style="display:none">
+         <div class="mod_title">
+          <h4>
+           我的热评日志
+          </h4>
+          <span class="mod_arr" id="ctrl_arr" onclick="InfoScheduler.hideShowRecentBlog(this);return false;">
+          </span>
+         </div>
+         <div class="mod_list">
+          <ul id="recentBlogList" style="display:none;">
+          </ul>
+         </div>
+        </div>
+        <div class="mod_visitor" id="visitorArea" style="display:none">
+        </div>
+        <div id="commentListContainer">
+        </div>
+       </div>
+       <div class="op_more bg bor2 op_extend none" id="shareList" style="top:0px;left:0px;">
+        <a class="c_tx drop_list" href="javascript:void(0)" id="shareListTitle" onclick="return false;">
+         <span class="icon icon_share">
+         </span>
+         <span class="adjust">
+          分享
+         </span>
+         <span class="mod_arr">
+         </span>
+        </a>
+        <ul id="shareListContainer">
+         <li class="bg6_hover none" id="shareBlogContainer">
+          <a class="c_tx" href="javascript:void(0)" id="shareBlogBtn" onclick="return false;">
+           分享到空间
+          </a>
+         </li>
+         <li class="bg6_hover none" id="tweetBlogContainer">
+          <a class="c_tx" href="javascript:void(0)" id="tweetBlogBtn" onclick="return false;">
+           转播到微博
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="op_more op_extend op_drop none" id="modifyList" style="top:0px;left:0px;">
+        <a class="c_tx bg bor2 drop_list" href="javascript:void(0)" id="modifyListTitle" onclick="return false;">
+         <span class="adjust" id="ModifyListAreaDesc">
+          更多
+         </span>
+         <span class="mod_arr">
+         </span>
+        </a>
+        <ul class="bg bor2">
+         <li class="none" id="editBlogBtnContainer">
+          <a class="c_tx bg6_hover" href="javascript:void(0)" id="editBlogBtn" onclick="return false;">
+           编辑
+          </a>
+         </li>
+         <li class="none" id="deleteBlogBtnContainer">
+          <a class="c_tx bg6_hover" href="javascript:void(0)" id="deleteBlogBtn" onclick="return false;">
+           删除
+          </a>
+          <hr class="bbor2"/>
+         </li>
+         <li class="none" id="complaintBlogBtnContainer">
+          <a class="c_tx bg6_hover" href="javascript:void(0)" id="complaintBlogBtn" onclick="return false;">
+           举报
+          </a>
+         </li>
+         <li class="none" id="useLetterPagerBtn">
+          <a class="c_tx bg6_hover" href="javascript:void(0)" onclick="return false;">
+           使用该信纸
+          </a>
+          <hr class="bbor2"/>
+         </li>
+         <li class="" id="modSizeBtn">
+          <div class="mod_size">
+           <span class="size_tip">
+            字体：
+           </span>
+           <span class="c_tx2 bg6_hover" id="bigFonts" onclick="return false;">
+            大
+           </span>
+           <span class="c_tx2 bg6 current" id="midFonts" onclick="return false;">
+            中
+           </span>
+           <span class="c_tx2 bg6_hover" id="smallFonts" onclick="return false;">
+            小
+           </span>
+          </div>
+          <hr class="bbor2"/>
+         </li>
+         <li class="none" id="setBlogRightBtnContainer">
+          <a class="c_tx bg6_hover" href="javascript:void(0)" id="setBlogRightBtn" onclick="return false;">
+           权限设置
+          </a>
+         </li>
+         <li class="none" id="setBlogCateBtnContainer">
+          <a class="c_tx bg6_hover" href="javascript:void(0)" id="setBlogCateBtn" onclick="return false;">
+           修改分类
+          </a>
+         </li>
+         <li class="none" id="setRecommendBtnContainer">
+          <a class="c_tx bg6_hover" href="javascript:void(0)" id="setRecommendBlogBtn" onclick="return false;">
+           推荐日志
+          </a>
+         </li>
+         <li class="none" id="setTopBlogBtnContainer">
+          <a class="c_tx bg6_hover" href="javascript:void(0)" id="setTopBlogBtn" onclick="return false;">
+          </a>
+         </li>
+         <li class="none" id="setPrivateBlogBtnContainer">
+          <a class="c_tx bg6_hover" href="javascript:void(0)" id="setPrivateBlogBtn" onclick="return false;">
+           转为私密日志
+          </a>
+         </li>
+         <li class="none" id="appealBlogBtnContainer">
+          <a class="c_tx bg6_hover" href="javascript:void(0)" id="appealtBlogBtn" onclick="return false;">
+           申诉
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="bor2 bg3 panel_copy qzblog_copyurl_class none" id="qzblog_copyurl_tip">
+        <p>
+         <label for="copyUrlInput">
+          日志地址:
+         </label>
+         <input checked="checked" class="bor textinput mod_copyaddress_txt" id="copyUrlInput" readonly="readonly" type="text" value=""/>
+        </p>
+        <p class="tips">
+         请用Ctrl+C复制后贴给好友。
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

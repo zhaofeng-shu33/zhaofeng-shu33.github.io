@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>浏览器DOM事件触发</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>浏览器DOM事件触发</h1>
+<p>2019/02/04</p>
+<p>除用户人为交互触发事件外，用js脚本触发事件的一般流程为
+1. 创建事件 <code>var e = Event('event_name', {key: value, ...})</code>
+2. 分发事件到 <code>event.target</code>
+3. 触发事件处理函数 <code>EventHandler</code></p>
+<h1>示例</h1>
+<p>```HTML
+<select >
+    <option value="all" selected>all</option>
+    <option value="active">active</option>
+    <option value="completed">completed</option>
+</select></p>
+<script>
+    let select = document.getElementsByTagName('select')[0];
+    select.onchange = handleChange;
+    function handleChange(e){
+        console.log('changed');
+    }
+</script>
+<p><code>如上脚本中的 change 事件脚本触发的方式如下：</code>JavaScript
+var e = Event('change', {bubbles: true});
+select.options[1].dispatchEvent(e);
+```</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

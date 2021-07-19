@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Troubleshooting_installation_of_debian_os</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Troubleshooting installation of debian os</h1>
+<p>2020/01/24</p>
+<p>After trying debian on an old workstation, I find there are some pitfalls and tricks:
+1. It is recommended to install the minimal base system (with no GUI) using the USB installer first. Since installation of GUI is through network and improper configured mirror will dramatically slow down the installation process.
+2. Each operating systems need to be installed into a primary partition and set the bootable flag. Do not erase (format) existing partition containing data. 
+3. It may not find the grub on your newly installed system. In such case, you need to enter rescue mode by booting from USB and chroot to the root file system of your installation.
+4. After entering the console, the network may not work. Check the network device name by <code>ls /sys/class/net</code> and set it properly in <code>/etc/networking/interface</code>. See <a href="https://wiki.debian.org/NetworkConfiguration">Network Configuration</a> for detail. After modifying <code>interface</code> by <code>nano</code>, restarting the service <code>systemctl restart networking</code>.
+5. Once the external network is ok, please modify <code>/etc/apt/sources.list</code> to fast mirror. For example, add <code>deb http://mirror.tuna.tsinghua.edu.cn buster main</code> and run <code>apt update</code> to update the package meta information. Then you can install softwares as you like. For example, to install the gnome desktop environment. Use <code>apt install gnome</code>. It would download around 800 MB packages and be patient for this process.
+6. Installing <code>fcitx</code> input method. You don't need to reboot the system. Only relogin to the session is needed.</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

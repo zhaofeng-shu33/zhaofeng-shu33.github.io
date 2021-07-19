@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>apache_reverse_proxy_for_a_specified_website</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>apache reverse proxy for a specified website</h1>
+<p>2019/05/19</p>
+<p>使用 http://your_server_ip/content 代理 https://target_domain/content
+在 apache 配置文件中设置如下：</p>
+<p><code>SSLProxyEngine on
+ProxyPass "/" "https://target_domain/"
+ProxyPassReverse "/" "https://target_domain/"</code></p>
+<p>需要使用 a2enmod 启用相关的 module：</p>
+<p><code>shell
+sudo a2enmod ssl proxy proxy_http rewrite deflate headers proxy_connect proxy_html</code></p>
+<p>效果是用 http://your_server_ip/content  可以打开  https://target_domain/content 的网页进行浏览，并且html 里的超链接也被rewrite 成 your_server_ip 下面的了，不过 target_domain 里一些和 javascript 相关的功能无法正常使用。</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>React_Redux_记数器</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>React Redux 记数器</h1>
+<p>2019/02/05</p>
+<p><code>shell
+npm init react-app counter
+cd counter
+npm install</code>
+将 <code>src/index.js</code>改为
+```JavaScript
+import React from 'react';
+import { createStore } from 'redux'
+import { connect, Provider } from 'react-redux'
+import ReactDOM from 'react-dom';
+// action creator
+const CountAction= {
+    increment : {type: 'INCREMENT'},
+    decrement : {type: 'DECREMENT'}
+}
+// reducer
+function counter(state = 0, action) {
+  switch (action.type) {
+    case CountAction.increment.type:
+      return state + 1
+    case CountAction.decrement.type:
+      return state - 1
+    default:
+      return state
+  }
+}
+let store = createStore(counter)</p>
+<p>// presentational component
+const counterCreator = ({ number, onClick }) =&gt; 
+   (
+      <div>
+        <div>{number}</div>
+          <button onClick={() =>{onClick('increment')}}&gt;
+            Increase
+          </button>
+          <button onClick={() =>{onClick('decrement')}}&gt;
+            Decrease
+          </button>
+      </div>
+    )</p>
+<p>const mapStateToProps = state =&gt; {
+    return {
+        number: state
+    }
+}
+const mapDispatchToProps = (dispatch) =&gt; { 
+    return {
+        onClick: clickType =&gt; {
+            dispatch(CountAction[clickType])
+        }
+    }
+}
+// container
+const Counter = connect(mapStateToProps, mapDispatchToProps)(counterCreator)</p>
+<p>ReactDOM.render(
+    <Provider store={store}>
+        <Counter />
+    </Provider>,
+    document.getElementById('root')
+)
+<code>``
+运行</code>npm start` 效果如下：
+<img alt="" src="https://img2018.cnblogs.com/blog/1503439/201902/1503439-20190205193212308-1130294714.png" /></p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

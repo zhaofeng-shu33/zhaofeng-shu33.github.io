@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MYSQL重置ROOT密码</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>MYSQL重置ROOT密码</h1>
+<p>2018/11/11</p>
+<h1>背景</h1>
+<p>mysql 服务器长时间未使用，管理员当时设置的root 密码忘记，需要重置 root 密码，并加以妥善保存。</p>
+<h1>步骤</h1>
+<ol>
+<li>关闭 mysql 服务 <code>systemctl stop mysql</code></li>
+<li>以跳过密码验证的方式启动 mysql 服务<code>mysqld --skip-grant-tables</code></li>
+<li>本地登陆后设置新的root 密码 <code>update mysql.user set authentication_string = password('123') where User = 'root'</code> 并且 'flush privileges'</li>
+<li>以需要密码验证的方式重启 mysql 服务</li>
+</ol>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

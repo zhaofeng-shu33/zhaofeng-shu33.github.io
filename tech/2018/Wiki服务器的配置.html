@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Wiki服务器的配置</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Wiki服务器的配置</h1>
+<p>2018/10/16</p>
+<p>本文介绍在Ubuntu Server 上配置Wiki服务器的<a href="https://www.mediawiki.org/wiki/Manual:Installation_requirements">MediaWiki 官方参考</a>,
+所用的版本是 Ubuntu 16.04。</p>
+<h2>安装必要的软件</h2>
+<p>通过命令 <code>sudo netstat -tulpn | grep :80</code> 查看原服务器已安装apache2，ubuntu 系统 apache2 的默认安装目录是
+<code>/etc/apache2</code>，查看其相关的配置文件<code>/etc/apache2/sites-enabled/*.conf</code> 找到其静态主页的文件目录是<code>/var/www/html</code>，
+安装 apache2 此步骤跳过。</p>
+<p>通过命令 <code>sudo apt-get install mariadb-server</code> 安装数据库 <em>MariaDB 10.0</em> 并配置<code>root</code>账户的用户名和密码。</p>
+<p>通过命令 <code>sudo apt-get install php7.0 libapache2-mod-php7.0 php7.0-mysql php7.0-xml php7.0-mbstring</code> 安装 <code>php7.0</code>、与 <code>apache2</code> server 的绑定、数据库的绑定以及其他php依赖的模块;</p>
+<h2>下载mediawiki 源码并解压</h2>
+<pre><code>wget https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.1.tar.gz
+tar -xvzf mediawiki-1.31.1.tar.gz
+rm mediawiki-1.31.1.tar.gz
+mv mediawiki-1.31.1 report
+</code></pre>
+<h2>配置</h2>
+<p>用浏览器打开 <code>your_root_url/report/index.php</code> 按照提示进行进一步配置，生成<code>LocalSetting.php</code>文件，上传到服务器上与<code>index.php</code>处于同一目录下。</p>
+<h2>调整上传文件大小限制</h2>
+<p>官方说明：<a href="https://www.mediawiki.org/wiki/Manual:Configuring_file_uploads#Set_maximum_size_for_file_uploads">https://www.mediawiki.org/wiki/Manual:Configuring_file_uploads#Set_maximum_size_for_file_uploads</a>
+总结其主要步骤为：
+1. 修改<code>php.ini</code> 文件中 <code>upload_max_filesize</code>
+1. 重启 <code>apache</code> （或者其他）
+1. 重启 <code>php-fpm</code></p>
+<h2>关于网站迁移</h2>
+<p>首先要在原来的服务器上进行备份，包括数据库的备份和媒体文件的备份，数据库的备份可采用
+<code>shell
+mysqldump -u userid -p dbname &gt; backup.sql</code>
+具体见 <a href="https://www.mediawiki.org/wiki/Manual:Backing_up_a_wiki">wiki backup</a>。</p>
+<p>媒体文件的备份连同php代码一起备份：
+<code>shell
+tar zcvf wiki.tar.gz folder</code></p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

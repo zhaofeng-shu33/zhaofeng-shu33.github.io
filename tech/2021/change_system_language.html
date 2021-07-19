@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>change_system_language</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Change system language</h1>
+<p>2021/4/4</p>
+<p>I want to change the system language of debian
+operating system to Japanese. The following
+steps are needed.</p>
+<ol>
+<li>Change to <code>sudo</code>. Generating the new locale by editing <code>/etc/locale.gen</code>. and run the program <code>locale-gen</code>. After that, choose
+the system language in the <em>Setting</em> UI.</li>
+<li>Log out of debian and log back in. Install additional program,
+including <code>libreoffice-l10n-ja</code>, <code>libreoffice-help-ja</code>, <code>firefox-esr-l10n-ja</code>.</li>
+</ol>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

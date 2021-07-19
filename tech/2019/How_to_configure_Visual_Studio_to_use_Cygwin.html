@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>How_to_configure_Visual_Studio_to_use_Cygwin</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>How to configure Visual Studio to use Cygwin</h1>
+<p>2019/08/28</p>
+<p>Use open folder project, you need to specify it as follows:
+<code>json
+{
+  "configurations": [
+    {
+      "inheritEnvironments": [
+        "cygwin_64"
+      ],
+      "name": "x64-Debug",
+      "includePath": [
+        "${env.INCLUDE}",
+        "${workspaceRoot}\\**"
+      ],
+      "defines": [
+      ],
+      "intelliSenseMode": "windows-clang-x64",
+      "forcedInclude": [ "${env.CYGWIN_ROOT}\\predefined_macro.h" ],
+      "environments": [
+        {
+          "CYGWIN_ROOT": "C:\\cygwin64",
+          "BIN_ROOT": "${env.CYGWIN_ROOT}\\bin",
+          "environment": "cygwin_64",
+          "INCLUDE": "${env.CYGWIN_ROOT}\\usr\\include;${env.CYGWIN_ROOT}\\lib\\gcc\\x86_64-pc-cygwin\\7.4.0\\include;${env.CYGWIN_ROOT}\\usr\\include\\python2.7;${env.CYGWIN_ROOT}\\usr\\include\\w32api",
+          "PATH": "${env.CYGWIN_ROOT}\\bin;${env.PATH}"
+        }
+      ]
+    }
+  ]
+}</code>
+See <a href="https://docs.microsoft.com/en-us/cpp/build/cppproperties-schema-reference?view=vs-2019">user defined environment</a> for detail.</p>
+<p>A key step is to specify the predefined macro for cygwin. You need to create a file called <code>predefined_macro.h</code>, which is the output of <code>gcc -dM -E - &lt; /dev/null</code> in cygwin environment.</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>offline_speech_recognation</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Offline speech recognition</h1>
+<p>2021/4/19</p>
+<p>working directory:
+<code>/home/zhaofeng/Documents/tech/julius/ENVR-v5.4.Dnn.Bin</code></p>
+<p>Using <code>julius</code>, which supports Japanese.
+<code>../julius/julius -C julius.jconf -dnnconf dnn.jconf &gt; a.txt
+grep "sentence1.*" a.txt</code></p>
+<h2>How to transform mp3 file to wav file in 16000 sampling rate</h2>
+<p><code>shell
+ffmpeg -i TRACK03.MP3 -ac 1 -ar 16000 track03.wav # one channel, sampling rate is 16k HZ</code></p>
+<h2>Online alternative</h2>
+<p>https://speech-to-text-demo.ng.bluemix.net/</p>
+<p>Users can use it without registration.</p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

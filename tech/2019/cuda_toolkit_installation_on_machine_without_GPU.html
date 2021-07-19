@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>cuda_toolkit_installation_on_machine_without_GPU</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>cuda toolkit installation on machine without GPU</h1>
+<p>2019/12/05</p>
+<p>For cross-compilation purpose.
+We use <code>Ubuntu 16.04</code>.</p>
+<p><code>shell
+echo "deb [ trusted=yes ] http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64 /" &gt; /etc/apt/sources.list.d/cuda.list
+apt update
+apt install nvidia-cuda-toolkit</code></p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

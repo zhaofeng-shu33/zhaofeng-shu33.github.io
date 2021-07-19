@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Comparison_of_default_triple_integration_method_in_Python_and_Matlab</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>Comparison of default triple integration method in Python and Matlab</h1>
+<p>2020/03/22</p>
+<p>The backend engine of triple integration is different in Python and Matlab.</p>
+<p>In Python we use <code>scipy.integration.tplquad</code> to do triple integration; In Matlab the function is called <code>integral3</code>.</p>
+<p>Also the level of parallelism is different. In Python, it is totally serialized, one evalulation at one integration point each time. However, in Matlab it is highly paralleled. I found a 14 times 14 matrix is passed to the evalulation function. As a result, the evalulation function should support matrix computation.</p>
+<p>Because the difference in parallelism, <code>integral3</code> is much faster than <code>scipy.integration.tplquad</code>.</p>
+<p>Another big difference is the convergence result. I use the following example in matlab:</p>
+<p><code>Matlab
+n = 8;
+k = 4;
+C0 = gamma(n/2) * gamma((n-1)/2) / (gamma(0.5) * gamma(k/2) * gamma((k-1)/2) * gamma((n-k)/2) * gamma((n-k-1)/2));
+2 * C0 * integral3(@(x,y,z) (x.*y-z.^2).^((k-3)/2) .* (1-x-y+x.*y-z.^2).^((n-k-3)/2), 0,1,0,1,0,@(x,y) min(sqrt(x.*y), sqrt(1-x-y+x.*y)))</code>
+The final result is number 1.</p>
+<p>However, when I compute the same integral in Python, I cannot get the right result:</p>
+<p><code>Python
+import numpy as np
+from scipy.special import gamma
+from scipy.integrate import tplquad
+n = 8
+k = 4
+C0 = 2 * gamma(n/2) * gamma((n-1)/2)
+C0 /= (gamma(0.5) * gamma(k/2) * gamma((k-1)/2) * gamma((n-k)/2) * gamma((n-k-1)/2))
+C0 *= tplquad(lambda x,y,z: abs(x*y-z**2)**((k-3)/2) * abs(1-x-y+x*y-z**2)**((n-k-3)/2),
+              0, 1, lambda x: 0, lambda x: 1, lambda x,y: 0,
+               lambda x,y: np.sqrt(np.min([x*y,1-x-y+x*y])))[0]
+print(C0)</code></p>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

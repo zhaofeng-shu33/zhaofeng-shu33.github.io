@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>使用setx_命令添加环境变量（Windows）</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>使用setx 命令添加环境变量（Windows）</h1>
+<p>2018/11/14</p>
+<h1>背景</h1>
+<p>用GUI的方法可能添加环境变量可能会比较麻烦，为此可采用命令行操作的方式。</p>
+<h1>步骤</h1>
+<ol>
+<li>以管理员身份运行 <code>cmd</code> 输入 <code>setx /M "%path%" "%path%[new_path];"。其中</code>\M<code>开关表示添加系统变量，由于</code>%path%` 本身是系统变量和用户变量拼起来的，不能用此方法添加用户变量。
+详见<a href="https://superuser.com/questions/601015/how-to-update-the-path-user-environment-variable-from-command-line">https://superuser.com/questions/601015/how-to-update-the-path-user-environment-variable-from-command-line</a></li>
+<li>设置在新的命令行窗口生效。</li>
+</ol>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

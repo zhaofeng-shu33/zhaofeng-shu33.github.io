@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>mac_texshop_skim_forward_sync</title>
+    <link rel="stylesheet" href="../../../css/github-markdown.css">
+    <style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+  </head>
+  <article class="markdown-body">
+	<h1>How to do forward pdf sync from texshop to skim</h1>
+<p>2020/11/7</p>
+<p>Using applescript macros to get the line number, the output pdf file path
+and the text file path. Then passing the tree parameters to the displayline
+program of <code>skim</code>. Usually we can just use the pre-set macro of textshop
+to get the pdf path and text path, which are #PDFPATH<code>and</code>#TEXPATH#<code>respectively.
+Since I always put the pdf under the</code>./build/<code>subdirectory, I need to get
+the true pdf path from the non-existing</code>#PDFPATH`.</p>
+<p>The most tricky part is to get the line number. Since texshop does not
+save the line number macro, we have to use the applescript to compute
+it by counting the line feed from the beginning of the document to
+the current cursor position. The compute code is shown as follows:</p>
+<p><code>AppleScript
+set val to do shell script "sed 's|[a-zA-Z]*.pdf|build/&amp;|g' &lt;&lt;&lt; " &amp; quoted form of #PDFPATH#
+-- change the above line to "set val to #PDFPATH#" if you put pdf in the same directory with tex file
+set lf to linefeed
+tell application "TeXShop"
+    set offs to offset of the selection of document #DOCUMENTNAME#
+    set strt to text of document #DOCUMENTNAME#
+end tell
+set strt to characters 1 thru (offs) of strt as string
+set oldTIDs to AppleScript's text item delimiters
+set AppleScript's text item delimiters to lf
+set num to (count (text items of strt))
+set AppleScript's text item delimiters to oldTIDs
+-- tell application "Skim" to open val
+do shell script "/Applications/Skim.app/Contents/SharedSupport/displayline " &amp; num &amp; " " &amp; quoted form of val &amp; " " &amp; quoted form of #TEXPATH#</code></p>
+<p>Finally, you can set the keyboard shortcut to invoke the macro. I use <code>Ctrl+B</code> for example.</p>
+<h2>Reference</h2>
+<ul>
+<li>Notes on Applescript in TexShop</li>
+<li>TexShop Tips and Tricks v0.7.8</li>
+<li>https://sourceforge.net/p/skim-app/wiki/TeX_and_PDF_Synchronization/</li>
+</ul>
+  <div style="text-align:center"><a href="https://zhaofeng-shu33.github.io">主页</a></div>
+</article>
+</html>

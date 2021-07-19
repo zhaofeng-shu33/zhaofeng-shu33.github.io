@@ -1,0 +1,4 @@
+.vscode
+__pycache__
+upload.sh
+.DS_Store
